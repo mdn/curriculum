@@ -1,0 +1,57 @@
+repository:
+  # See https://github.com/apps/settings for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: project-template
+
+  # A short description of the repository that will show up on GitHub
+  description: MDN Web Docs project template
+
+  # A URL with more information about the repository
+  homepage: https://github.com/mdn/project-template
+
+  # The branch used by default for pull requests and when the repository is cloned/viewed.
+  default_branch: main
+
+  # This repository is a template that others can use to start a new repository.
+  is_template: true
+
+branches:
+  - name: main
+    protection:
+      # Required. Require at least one approving review on a pull request, before merging. Set to null to disable.
+      required_pull_request_reviews:
+        # The number of approvals required. (1-6)
+        required_approving_review_count: 1
+        # Dismiss approved reviews automatically when a new commit is pushed.
+        dismiss_stale_reviews: true
+        # Blocks merge until code owners have reviewed.
+        require_code_owner_reviews: true
+
+collaborators:
+  - username: schalkneethling
+    permission: admin
+
+  - username: Rumyra
+    permission: admin
+
+  - username: fiji-flo
+    permission: admin
+
+labels:
+  - name: bug
+    color: D41130
+    description: "Something that's wrong or not working as expected"
+  - name: chore
+    color: 258CD3
+    description: "A routine task"
+  - name: "good first issue"
+    color: 48B71D
+    description: "Great for newcomers to start contributing"
+  - name: "help wanted"
+    color: 2E7A10
+    description: "Contributions welcome"
+
+teams:
+  - name: core
+    permission: admin
