@@ -386,7 +386,7 @@ Learning outcomes:
 
 - The difference between libraries and frameworks:
 
-  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate in your own application (for example, [chart.js](https://www.chartjs.org/) for creating \<canvas\>-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
+  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate in your own application (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
 
   - A library tends to be unopinionated about how you work with it in your codebase, whereas a framework tends to enforce a specific coding style and control flow.
 
@@ -442,11 +442,11 @@ Resources:
 
 - [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/What_went_wrong)
 
-- [Control flow and error handling \> Exception handling statements](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
+- [Control flow and error handling > Exception handling statements](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
 
 - [The Firefox JavaScript debugger](https://firefox-source-docs.mozilla.org/devtools-user/debugger/index.html)
 
-- [Chrome \> Console overview](https://developer.chrome.com/docs/devtools/console/)
+- [Chrome > Console overview](https://developer.chrome.com/docs/devtools/console/)
 
-- [Chrome \> Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/)
+- [Chrome > Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/)
 

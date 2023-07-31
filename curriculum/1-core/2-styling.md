@@ -152,7 +152,7 @@ Resources:
 
 - [Sizing items in CSS](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
 
-- [Handling different text directions \> Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
+- [Handling different text directions > Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
 
 ### 4.7 Backgrounds and borders
 
@@ -206,9 +206,9 @@ Resources:
 
 Learning outcomes:
 
-- Basic styling of easy-to-style form elements, like \<input type="text"\>.
+- Basic styling of easy-to-style form elements, like `<input type="text">`.
 
-- Using CSS resets to overcome \<input\> font styling inheritance and box styling default differences .
+- Using CSS resets to overcome `<input>` font styling inheritance and box styling default differences .
 
 - Understand that not all form elements are easy to style, and why.
 
@@ -216,7 +216,7 @@ Learning outcomes:
 
   - More complex form elements have internal (shadow DOM) elements that define the structure of their inner workings. These are often impossible to access and style individually.
 
-- Using appearance: none to work around system styling for \<input\> types like search, checkbox, and radio.
+- Using appearance: none to work around system styling for `<input>` types like search, checkbox, and radio.
 
 - Mitigating issues with difficult-to-style types such as datetime-local, color, etc.
 
@@ -254,11 +254,11 @@ Resources:
 
 - [Handling common HTML and CSS problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS)
 
-- [Firefox \> Examine and edit CSS](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html)
+- [Firefox > Examine and edit CSS](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html)
 
-- [Firefox \> Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode)
+- [Firefox > Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode)
 
-- [Chrome \> CSS DevTools docs](https://developer.chrome.com/docs/devtools/css/)
+- [Chrome > CSS DevTools docs](https://developer.chrome.com/docs/devtools/css/)
 
 ## 5 CSS text styling
 
@@ -468,7 +468,7 @@ Learning outcomes:
 
   - Using resolution media queries to serve appropriate assets for different resolution screens
 
-- \<meta viewport=""\>, and how to use it to get web documents to display appropriately on mobile devices.
+- `<meta viewport="">`, and how to use it to get web documents to display appropriately on mobile devices.
 
   - For the sake of accessibility, never set user-scalable=no
 

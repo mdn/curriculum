@@ -118,7 +118,7 @@ Resources
 
 - [Performance APIs reference](https://developer.mozilla.org/docs/Web/API/Performance_API)
 
-- [Google Lighthouse \> Performance](https://developer.chrome.com/docs/lighthouse/performance/)
+- [Google Lighthouse > Performance](https://developer.chrome.com/docs/lighthouse/performance/)
 
 - Relevant Firefox DevTools: [Network Monitor](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/index.html), [Performance Monitor](https://firefox-source-docs.mozilla.org/devtools-user/performance/index.html)
 

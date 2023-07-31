@@ -236,7 +236,7 @@ Learning outcomes:
 
 - The need for a doctype at the top of an HTML document. Its original intended purpose, and the fact that now it is somewhat of a historical artifact.
 
-- The need to set the language of a document using the lang attribute in the opening \<html\> tag
+- The need to set the language of a document using the lang attribute in the opening `<html>` tag
 
 - The HTML head, and its purpose as a metadata container for the document including key uses
 
@@ -270,9 +270,9 @@ Learning outcomes:
 
 - Using semantic HTML rather than presentational HTML.
 
-  - Some presentational markup should no longer be used at all (e.g. \<big\> or \<font\>); it is truly deprecated.
+  - Some presentational markup should no longer be used at all (e.g. `<big>` or `<font>`); it is truly deprecated.
 
-  - Some presentational markup has been repurposed to have new semantic meaning (e.g. \<i\>, \<b\>).
+  - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>`, `<b>`).
 
 - The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's CSS's job).
 
@@ -312,9 +312,9 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals \> Lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists)
+- [HTML text fundamentals > Lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists)
 
-- [Advanced text formatting \> Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
+- [Advanced text formatting > Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
 
 > **Notes:**
 > 
@@ -328,7 +328,7 @@ Resources:
 
 Learning outcomes:
 
-- Correct usage of elements for emphasis and importance, such as \<strong\> and \<em\>
+- Correct usage of elements for emphasis and importance, such as `<strong>` and `<em>`
 
 <!-- -->
 
@@ -346,7 +346,7 @@ Learning outcomes:
 
   - HTML entities
 
-  - Other text markup features such as \<u\>, \<s\>, and \<ruby\>
+  - Other text markup features such as `<u>`, `<s>`, and `<ruby>`
 
 <!-- -->
 
@@ -362,7 +362,7 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals \> Emphasis and importance](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#emphasis_and_importance)
+- [HTML text fundamentals > Emphasis and importance](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#emphasis_and_importance)
 
 - [Advanced text formatting](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
@@ -406,7 +406,7 @@ Learning outcomes:
 
 - Images, audio, video
 
-  - The basics — \<img\>, \<audio\>, and \<video\> tags
+  - The basics — `<img>`, `<audio>`, and `<video>` tags
 
   - Using src to point to a resource (Paths are also important here; see [3.5 Links](#links))
 
@@ -414,11 +414,11 @@ Learning outcomes:
 
   - Best practice uses of title
 
-  - \<figure\> and \<figcaption\>
+  - `<figure>` and `<figcaption>`
 
   - Video and audio-specific attributes such as controls and muted
 
-  - \<sources\>
+  - `<sources>`
 
   - Optimizing images for the web; keep file sizes small
 
@@ -432,11 +432,11 @@ Learning outcomes:
 
 - Canvas
 
-  - Understanding what \<canvas\> is — a scriptable, updateable image
+  - Understanding what `<canvas>` is — a scriptable, updateable image
 
   - width and height
 
-- \<picture\> and srcset for responsive images
+- `<picture>` and srcset for responsive images
 
 - Alternative text for media
 
@@ -448,35 +448,35 @@ Resources:
 
 > **Notes:**
 > 
-> - It is not necessary to understand how to script a \<canvas\> element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](#graphicsanimation-apis).
+> - It is not necessary to understand how to script a `<canvas>` element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](#graphicsanimation-apis).
 
 ### 3.7 Other interactive elements
 
 Learning outcomes:
 
-- Aside from links, \<button\> and form elements are the main way to build controls for users to interact with your sites.
+- Aside from links, `<button>` and form elements are the main way to build controls for users to interact with your sites.
 
-- \<button\>
+- `<button>`
 
   - Button types — button, submit, reset
 
   - Why reset buttons are nearly always a bad idea
 
-- Common \<input\> types — text, number, file, checkbox, radio, password, search, submit.
+- Common `<input>` types — text, number, file, checkbox, radio, password, search, submit.
 
 - Common attributes — name, value.
 
 - Client-side validation basics — required, min, max, minlength, maxlength, pattern.
 
-- Making forms accessible — \<label\> and the for attribute.
+- Making forms accessible — `<label>` and the for attribute.
 
 - Form states and why they are important — hover, focus, readonly, disabled, etc.
 
-- \<textarea\>.
+- `<textarea>`.
 
-- \<select\> and \<option\>.
+- `<select>` and `<option>`.
 
-- \<form\> elements
+- `<form>` elements
 
   - Form submission: what happens when a form is submitted
 
@@ -492,7 +492,7 @@ Resources:
 > 
 > - Make sure to understand that client-side form validation is really a usability enhancement, to be used alongside server-side form validation. It is not a substitute for it.
 > 
-> - Going back to the argument for semantic HTML (see also [3.2 Good document structure](#good-document-structure)), you should understand why it is important to use the right element for the right job — e.g. use a \<button\>, and not a \<div\> programmed to behave like a \<button\>. Understand the features programmed into these elements by the browser, by default, and how important they are.
+> - Going back to the argument for semantic HTML (see also [3.2 Good document structure](#good-document-structure)), you should understand why it is important to use the right element for the right job — e.g. use a `<button>`, and not a `<div>` programmed to behave like a `<button>`. Understand the features programmed into these elements by the browser, by default, and how important they are.
 > 
 > - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
@@ -504,11 +504,11 @@ Learning outcomes:
 
 - What tables are not for — layout, or anything else
 
-- Basic tables — \<table\>, \<tr\>, \<td\>
+- Basic tables — `<table>`, `<tr>`, `<td>`
 
 - Colspan and rowspan
 
-- Better table structuring for accessibility — \<th\>, \<thead\>, \<tbody\>, \<tfoot\>, \<caption\>, the scope attribute
+- Better table structuring for accessibility — `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, the scope attribute
 
 Resources:
 
@@ -532,7 +532,7 @@ Resources:
 
 - [Debugging HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-- [Firefox Docs \> Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html)
+- [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html)
 
-- [Chrome DevTools \> Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/)
+- [Chrome DevTools > Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/)
 

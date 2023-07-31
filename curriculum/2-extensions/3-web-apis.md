@@ -30,7 +30,7 @@ Learning outcomes:
 
 - Handling common errors related to media delivery
 
-  - Using \<source\> elements to handle multiple formats
+  - Using `<source>` elements to handle multiple formats
 
   - Using the correct MIME type
 
@@ -78,7 +78,7 @@ Learning outcomes:
 
 - Canvas
 
-  - Understand conceptually what the \<canvas\> element and associated APIs enable
+  - Understand conceptually what the `<canvas>` element and associated APIs enable
 
   - Basic syntax and usage of the 2D Canvas API
 

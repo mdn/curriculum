@@ -14,9 +14,9 @@ Learning outcomes:
 
 - Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks.
 
-  - Basic examples include \<p\> or heading elements
+  - Basic examples include `<p>` or heading elements
 
-  - More complex examples include \<details\>/\<summary\> or \<dialog\> elements
+  - More complex examples include `<details>`/`<summary>` or `<dialog>` elements
 
 - Accessible best practices
 
@@ -24,11 +24,11 @@ Learning outcomes:
 
   - Link text (see also [3.5 Links](#links))
 
-  - \<label\>s for form elements (see also [3.7 Other interactive elements](#other-interactive-elements))
+  - `<label>`s for form elements (see also [3.7 Other interactive elements](#other-interactive-elements))
 
   - Mobile UIs that provide specific usability advantages for specific input types such as number, or tel
 
-  - Make tables accessible with \<th\>, \<thead\>, \<tbody\>, \<tfoot\>, \<caption\>, and the scope attribute (See also [3.8 HTML tables](#html-tables)).
+  - Make tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the scope attribute (See also [3.8 HTML tables](#html-tables)).
 
   - Use simple plain language, steer clear of slang and abbreviations where possible (and provide definitions where it is not possible).
 
@@ -88,7 +88,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS and JavaScript accessibility best practices \> CSS](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#css)
+- [CSS and JavaScript accessibility best practices > CSS](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#css)
 
 - [Inclusive design principles](https://inclusivedesignprinciples.org/)
 
@@ -116,7 +116,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS and JavaScript accessibility best practices \> JavaScript](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#javascript)
+- [CSS and JavaScript accessibility best practices > JavaScript](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#javascript)
 
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
@@ -152,7 +152,7 @@ Learning outcomes:
 
 Resources:
 
-- [Handling common accessibility problems \> Accessibility tools](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#accessibility_tools)
+- [Handling common accessibility problems > Accessibility tools](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#accessibility_tools)
 
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
