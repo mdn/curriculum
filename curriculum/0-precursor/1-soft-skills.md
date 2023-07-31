@@ -42,7 +42,7 @@ Here are some tips to improve this skill:
 
 - (For educators) Set up the marking schemes for your assessments so that you can still get a reasonable number of marks even if you didn't get the correct end result, provided the process is well documented. Award extra marks for innovation.
 
-- Run show ‘n' tell or one-on-one sessions part-way through a project with peers and mentors to get feedback and insights into where you are going wrong, and get advice on how to get back on the right path.
+- Run show 'n' tell or one-on-one sessions part-way through a project with peers and mentors to get feedback and insights into where you are going wrong, and get advice on how to get back on the right path.
 
 - Run retrospective meetings to analyze projects, look at what didn't go so well, and talk about how to improve things for the next time.
 
