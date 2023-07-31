@@ -50,14 +50,13 @@ Resources:
 
 - [Security on the web](https://developer.mozilla.org/docs/Web/Security)
 
-- [Web site security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
+- [Website security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
 
 - [Privacy on the web](https://developer.mozilla.org/docs/Web/Privacy)
 
 > **Notes:**
-> 
+>
 > - Conforming to all of the above criteria is not going to result in a student being a qualified security engineer, but equally it is very important for any web developer to understand the basics of web security and privacy.
-> 
 > - It is also important for students to understand that a lot of security issues are caused by problems with server-side code, or a combination of client-side and server-side code. A lot of code should present very few security risks, provided the browser is doing its job properly.
 
 ## 5.2 Understanding relevant data protection laws
@@ -91,5 +90,5 @@ Resources:
 - [Complete guide to GDPR compliance](https://gdpr.eu/)
 
 > **Notes:**
-> 
+>
 > - Conforming to the above criteria does not require students to become legal experts in privacy laws, but they should understand the implications of these laws, and how that affects their work.

@@ -28,14 +28,15 @@ We want this resource to help web developers have the best possible chance of su
 
 This resource is free for anyone to use. If you find the curriculum useful, we request you to consider doing the following:
 
-1.  Link to it. For example, an educator could include the following in their public program information:  
-    ```
+1. Link to it. For example, an educator could include the following in their public program information:
+
+    ```html
     <p>This course is based on the <a href="#">MDN front-end development curriculum</a>.</p>
     ```
 
-2.  Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
+2. Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
 
-3.  Give us feedback. If you have any suggestions for how the resource could be improved, or want to help out with it, we would love to hear from you. Email us at \`xxxxx.xxxxx@com\`.
+3. Give us feedback. If you have any suggestions for how the resource could be improved, or want to help out with it, we would love to hear from you. Email us at \`xxxxx.xxxxx@com\`.
 
 Mozilla is dedicated to helping improve the quality of web developer education, in turn, creating a better web for us all. This curriculum embodies the values we think the web should have — accessibility, sustainability, usability, performance, and community. We would love educators, developers, and students to champion these values by using this resource and carrying these values forward in their work, in their teachings, and in the products they build.
 
@@ -43,7 +44,7 @@ Mozilla is dedicated to helping improve the quality of web developer education, 
 
 ## Scope
 
-The term *front-end developer* can be ambiguous; it means different things to different people, and folks working on the front-end can be expected to do a wide variety of different tasks.
+The term _front-end developer_ can be ambiguous; it means different things to different people, and folks working on the front-end can be expected to do a wide variety of different tasks.
 
 ### What is covered
 
@@ -51,7 +52,7 @@ This curriculum does not attempt to outline every topic that a web developer cou
 
 - Recommended "soft skills" that we think will make a developer's work easier and more effective. This includes topics such as embracing failure and a constant learning mindset, effective searching, teamwork and collaboration, doing well in interviews, and understanding workflows and processes.
 
-- Precursor topics that newcomers to the industry are encouraged to spend time on before they start learning to create web sites. This includes the basics of computer and file systems, browsing the web, command line basics, and code editors.
+- Precursor topics that newcomers to the industry are encouraged to spend time on before they start learning to create websites. This includes the basics of computer and file systems, browsing the web, command line basics, and code editors.
 
 - Essential "core topics" that we feel every web developer should have a good grounding in. This includes:
 
@@ -150,4 +151,3 @@ Any course conforming to the MDN curriculum should assess students via a combina
 The web development industry is changing constantly and rapidly. To keep our recommendations current, we will review our curriculum regularly, publish changelogs, and make an announcement every year, contacting the creators of known confirming courses to let them know the curriculum has changed and encourage them to review/update their courses as appropriate.
 
 We intend to do this in Q2 each year, to give educators time over Q2/Q3 to implement changes before the start of the following academic year.
-
