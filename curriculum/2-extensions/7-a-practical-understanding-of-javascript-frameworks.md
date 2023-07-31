@@ -78,4 +78,4 @@ Resources:
 > 
 > - Students are strongly encouraged to start building apps with 2-3 popular frameworks to get a practical understanding of how they do things and idea of the differences between them.
 > 
-> - Advanced and/or framework-specific features can be learned as part of the student’s constant learning.
+> - Advanced and/or framework-specific features can be learned as part of the student's constant learning.

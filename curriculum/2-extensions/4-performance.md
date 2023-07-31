@@ -58,7 +58,7 @@ Learning outcomes:
 
   - Be careful about font choices — not too big in file size, contain only the glyphs you need
 
-- How to improve “time to usable”
+- How to improve "time to usable"
 
   - Minimize initial load
 

@@ -148,7 +148,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand the purpose of loops — you want to do something very similar many times, and don’t want to have to repeat the same code every time.
+- Understand the purpose of loops — you want to do something very similar many times, and don't want to have to repeat the same code every time.
 
 - Basic for loops.
 
@@ -166,7 +166,7 @@ Resources:
 
 > **Notes:**
 > 
-> - There are many other types of loop in JavaScript that we haven’t listed here. It is not necessary (or useful) to understand all these types at this stage. For now, students just need to understand the purpose of loops, and the most common types.
+> - There are many other types of loop in JavaScript that we haven't listed here. It is not necessary (or useful) to understand all these types at this stage. For now, students just need to understand the purpose of loops, and the most common types.
 
 ### 7.7 Functions
 
@@ -218,7 +218,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand that, in JavaScript, most things are objects, and you’ve used objects every time you’ve touched JavaScript
+- Understand that, in JavaScript, most things are objects, and you've used objects every time you've touched JavaScript
 
 - Basic syntax
 
@@ -232,7 +232,7 @@ Learning outcomes:
 
 - Using constructors to create a new object
 
-- Object scope, and “this”
+- Object scope, and "this"
 
 - Accessing properties and methods — bracket and dot syntax
 
@@ -248,7 +248,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand what the DOM is — the browser’s internal representation of the document’s HTML structure as a hierarchy of objects, which can be manipulated using JavaScript.
+- Understand what the DOM is — the browser's internal representation of the document's HTML structure as a hierarchy of objects, which can be manipulated using JavaScript.
 
 - Understand the important parts of a web browser and how they are represented in JavaScript — Navigator, Window, Document.
 
@@ -280,7 +280,7 @@ Learning outcomes:
 
   - Event handler properties
 
-  - Inline event handler attributes, and why you shouldn’t use them
+  - Inline event handler attributes, and why you shouldn't use them
 
 - Event objects.
 
@@ -322,7 +322,7 @@ Learning outcomes:
 
   - all(), any(), finally()
 
-  - Understand the cases in which you’d still use promises rather than async/await
+  - Understand the cases in which you'd still use promises rather than async/await
 
 Resources:
 
@@ -346,7 +346,7 @@ Resources:
 
   - Usability issues behind asynchronous updates, like loss of history and breaking the back button.
 
-- Crash course in [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) basics. We’ve already talked about GET-ing resources, but also look at other common HTTP verbs, such as DELETE, POST, and PUT, and how they are handled via fetch().
+- Crash course in [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) basics. We've already talked about GET-ing resources, but also look at other common HTTP verbs, such as DELETE, POST, and PUT, and how they are handled via fetch().
 
 Resources:
 
@@ -374,7 +374,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand what third party code is — code written by someone else that you can add to your own project, so you don’t have to write everything yourself.
+- Understand what third party code is — code written by someone else that you can add to your own project, so you don't have to write everything yourself.
 
 - Why developers use third party code:
 
@@ -410,7 +410,7 @@ Learning outcomes:
 
   - It must have good support, and a friendly community.
 
-  - It must be actively maintained — don’t choose a codebase that has not been updated for over a year, or has no users.
+  - It must be actively maintained — don't choose a codebase that has not been updated for over a year, or has no users.
 
 Resources:
 

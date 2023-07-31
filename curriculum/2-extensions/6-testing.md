@@ -30,13 +30,13 @@ Learning outcomes:
 
 - Understand that the two are closely related — you will want your web app functionality to work for a target range of users, across a range of target browsers/devices. In addition, such testing can largely be automated using available tools.
 
-- Some accessibility testing can be automated, for example “do the images all have alt text?”.
+- Some accessibility testing can be automated, for example "do the images all have alt text?".
 
 - A typical process for performing automated tests:
 
   - Identify who the target audience groups are, and what browsers they are using.
 
-  - Identify the items of functionality that should be tested. These can range from visual (“does the layout look like it should?”), to user-facing functions (“does the search box return a result?”), to lower-level code (“does function x return the expected result?”).
+  - Identify the items of functionality that should be tested. These can range from visual ("does the layout look like it should?"), to user-facing functions ("does the search box return a result?"), to lower-level code ("does function x return the expected result?").
 
     - Some tests will also test that integrated modules are working correctly with other parts of the codebase (integration testing).
 
@@ -74,7 +74,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand how usability testing differs from functional testing — whereas functional testing can largely be automated (it largely looks at whether some code returns an expected result), usability testing tends to require manual testing with real test subjects (e.g. “does the page allow me to find the most important functionality and is it intuitive to use?”).
+- Understand how usability testing differs from functional testing — whereas functional testing can largely be automated (it largely looks at whether some code returns an expected result), usability testing tends to require manual testing with real test subjects (e.g. "does the page allow me to find the most important functionality and is it intuitive to use?").
 
 - Some accessibility testing should be done manually as a subset of usability testing — for example you might be able to tab to the form elements to fill them in, but does the form make sense to an assistive technology user? Can they tell what information it is asking them for?
 
@@ -84,7 +84,7 @@ Learning outcomes:
 
   - Recruit some test subjects for you to do the testing with. 5-10 successful sessions should be enough to start to identify recurring usability problems.
 
-  - Write scripts for your test subjects to follow that will test the functionality (for example “navigate to the product page, search for a widget, and add one to your shopping cart”).
+  - Write scripts for your test subjects to follow that will test the functionality (for example "navigate to the product page, search for a widget, and add one to your shopping cart").
 
   - Run the usability tests with your test subjects and record the sessions.
 

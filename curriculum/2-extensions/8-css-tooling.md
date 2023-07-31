@@ -6,7 +6,7 @@ Learning outcomes:
 
 - Understand the value that CSS frameworks bring — consistency, organization, ready-made components and style guidelines, best practices built in.
 
-- Understand the problems with CSS frameworks — for small projects they are often overkill (in terms of complexity and file size), new syntax to learn, your sites will start to look like everyone else’s, and they are often hard to override if you want to customize them.
+- Understand the problems with CSS frameworks — for small projects they are often overkill (in terms of complexity and file size), new syntax to learn, your sites will start to look like everyone else's, and they are often hard to override if you want to customize them.
 
 - Understand the basics of using popular CSS frameworks such as [Bootstrap](https://getbootstrap.com/), [Foundation](https://get.foundation/), or [Tailwind](https://tailwindcss.com/).
 
@@ -16,7 +16,7 @@ Learning outcomes:
 
 > **Notes:**
 > 
-> - Whatever framework your course or learning includes, the tool’s site should include information on the basics of using it.
+> - Whatever framework your course or learning includes, the tool's site should include information on the basics of using it.
 > 
 > - The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
 
@@ -36,6 +36,6 @@ Learning outcomes:
 
 > **Notes:**
 > 
-> - Whatever preprocessor your course or learning includes, the tool’s site should include information on the basics of using it.
+> - Whatever preprocessor your course or learning includes, the tool's site should include information on the basics of using it.
 > 
 > - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.

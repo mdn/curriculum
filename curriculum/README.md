@@ -1,8 +1,8 @@
 # Introduction
 
-Welcome to the MDN front-end developer curriculum — the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today’s web industry!
+Welcome to the MDN front-end developer curriculum — the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today's web industry!
 
-This curriculum has been created with lots of help from Mozilla’s friends at EdX, Scrimba, the University of Greenwich, and throughout the wider web community. Thank you for your valuable input; you know who you are!
+This curriculum has been created with lots of help from Mozilla's friends at EdX, Scrimba, the University of Greenwich, and throughout the wider web community. Thank you for your valuable input; you know who you are!
 
 ## Purpose
 
@@ -10,7 +10,7 @@ The MDN front-end developer curriculum is intended to provide an up-to-date indu
 
 - Students who want to get a job in the industry, which may involve gaining a related qualification or certification. The curriculum will act as a guide for what they should study.
 
-- Existing web developers who want to “level up” their skills, making sure their skillset is current and identifying gaps in their knowledge that they should learn more about.
+- Existing web developers who want to "level up" their skills, making sure their skillset is current and identifying gaps in their knowledge that they should learn more about.
 
 - Non-front-end web developers who have existing development experience in other areas (for example back-end web developers or platform-specific developers), who wish to get into front-end web development and want a guide to the topics they should learn.
 
@@ -48,11 +48,11 @@ The term *front-end developer* can be ambiguous; it means different things to di
 
 This curriculum does not attempt to outline every topic that a web developer could conceivably be expected to know in-depth. The curriculum covers the following topics:
 
-- Recommended “soft skills” that we think will make a developer’s work easier and more effective. This includes topics such as embracing failure and a constant learning mindset, effective searching, teamwork and collaboration, doing well in interviews, and understanding workflows and processes.
+- Recommended "soft skills" that we think will make a developer's work easier and more effective. This includes topics such as embracing failure and a constant learning mindset, effective searching, teamwork and collaboration, doing well in interviews, and understanding workflows and processes.
 
 - Precursor topics that newcomers to the industry are encouraged to spend time on before they start learning to create web sites. This includes the basics of computer and file systems, browsing the web, command line basics, and code editors.
 
-- Essential “core topics” that we feel every web developer should have a good grounding in. This includes:
+- Essential "core topics" that we feel every web developer should have a good grounding in. This includes:
 
   - The web standards model
 
@@ -70,7 +70,7 @@ This curriculum does not attempt to outline every topic that a web developer cou
 
   - Basic design theory
 
-- A number of “extension topics” that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
+- A number of "extension topics" that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
 
   - CSS transforms and animation
 
@@ -98,11 +98,11 @@ The topics presented are covered in differing levels of detail.
 
 ### What is not covered
 
-There are also a number of areas that we explicitly don’t cover in this curriculum, namely:
+There are also a number of areas that we explicitly don't cover in this curriculum, namely:
 
 - Back-end languages/platforms such as [Node.js](https://nodejs.org/), [PHP](https://www.php.net/), [Python](https://www.python.org/), [.NET](https://dotnet.microsoft.com/), [Java](https://www.java.com/), or [Ruby](https://www.ruby-lang.org/). The back-end, by definition, is out of scope for a front-end development curriculum, although there is crossover in full-stack developer jobs.
 
-  - One exception here is Node.js; it has such a wide range of uses in modern web development that some rudimentary Node.js knowledge should be considered essential. We don’t cover development of Node.js-based applications explicitly, but you will meet it in multiple places in the curriculum as a mechanism for using various tooling/functionality. Examples include [Extension 6 Testing](#extension-6-testing) and [Extension 9 Other tooling types](#extension-9-other-tooling-types).
+  - One exception here is Node.js; it has such a wide range of uses in modern web development that some rudimentary Node.js knowledge should be considered essential. We don't cover development of Node.js-based applications explicitly, but you will meet it in multiple places in the curriculum as a mechanism for using various tooling/functionality. Examples include [Extension 6 Testing](#extension-6-testing) and [Extension 9 Other tooling types](#extension-9-other-tooling-types).
 
 - Traditional relational databases (for example, [MySQL](https://dev.mysql.com/doc/) or [Postgres](https://www.postgresql.org/)) and other server-side datastores (for example, cloud databases such as [MongoDB](https://www.mongodb.com) or [Google Cloud Datastore](https://cloud.google.com/datastore/)). These are deemed to be part of the back-end, and therefore, out of scope. We do cover client-side storage mechanisms like [cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies), [Web Storage](https://developer.mozilla.org/docs/Web/API/Web_Storage_API), and [IndexedDB](https://developer.mozilla.org/docs/Web/API/IndexedDB_API), but they have different and distinct use cases.
 
@@ -136,7 +136,7 @@ Once a student has the list of topics they are going to learn, they should go fo
 
 Educators should cover the core modules in their courses, along with any extensions that suit the specializations they want to focus on. In addition, they could also choose to add their own extension modules alongside the MDN curriculum core/extensions
 
-Educators are advised to check their sources carefully to make sure the techniques they teach are current, and that they don’t teach any bad practices. Examples of such bad practices include non-semantic or outdated markup and bad design practices like small or low-contrast text — both of which lead to inaccessible web content.
+Educators are advised to check their sources carefully to make sure the techniques they teach are current, and that they don't teach any bad practices. Examples of such bad practices include non-semantic or outdated markup and bad design practices like small or low-contrast text — both of which lead to inaccessible web content.
 
 Any course conforming to the MDN curriculum should assess students via a combination of exam-based theory testing, and practical real-world projects to get students to put their knowledge into action. At the end of the assessment process, successful students should be provided with:
 

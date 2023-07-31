@@ -34,7 +34,7 @@ Resources:
 
 - Searching for files and folders
 
-- Dealing with file extensions (e.g. turning off “Hide extensions for known file types” in windows, showing dot files (.env, etc.))
+- Dealing with file extensions (e.g. turning off "Hide extensions for known file types" in windows, showing dot files (.env, etc.))
 
 - Learning how file types are associated with applications
 
@@ -64,7 +64,7 @@ Resources:
 
 - Understand how to access a command line on different systems
 
-  - On Linux and macOS, you’ve generally got a built-in terminal ready to go.
+  - On Linux and macOS, you've generally got a built-in terminal ready to go.
 
   - On Windows, the default command prompt is a bit more limited; you are better off installing something like [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/windows/wsl/), [PowerShell](https://learn.microsoft.com/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) or Git Bash (part of [Git for Windows](https://gitforwindows.org/)) if you want the same commands and power available to macOS/Linux.
 
@@ -123,5 +123,5 @@ Resources:
 
     - This can include AI-powered code suggestion tools such as GitHub Copilot
 
-      - Be aware that, while useful, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn’t just assume that AI answers are correct, and test them/verify them with other sources.
+      - Be aware that, while useful, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 

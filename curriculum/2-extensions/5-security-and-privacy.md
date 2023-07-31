@@ -44,7 +44,7 @@ Learning outcomes:
 
   - Permissions-Policy
 
-  - The web model for user activation of “powerful features” (aka transient activation)
+  - The web model for user activation of "powerful features" (aka transient activation)
 
 Resources:
 

@@ -116,7 +116,7 @@ Learning outcomes:
 
   - Accessible and interoperable
 
-  - Don’t break the web
+  - Don't break the web
 
 Resources:
 
@@ -274,7 +274,7 @@ Learning outcomes:
 
   - Some presentational markup has been repurposed to have new semantic meaning (e.g. \<i\>, \<b\>).
 
-- The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that’s CSS’s job).
+- The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's CSS's job).
 
 - SEO benefits: for example, keywords are boosted in headings.
 
@@ -294,7 +294,7 @@ Resources:
 > 
 > - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
 > 
-> - This set of conformance criteria doesn’t require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
+> - This set of conformance criteria doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
 ### 3.3 Lists
 
@@ -318,7 +318,7 @@ Resources:
 
 > **Notes:**
 > 
-> - Unordered lists are for marking up a list of items where the order doesn’t matter, such as a shopping list.
+> - Unordered lists are for marking up a list of items where the order doesn't matter, such as a shopping list.
 > 
 > - Ordered lists are for marking up a list of items where the order does matter, such as a set of directions.
 > 
@@ -356,7 +356,7 @@ Learning outcomes:
 
   - Favor simple prose where possible; there is no benefit to making the language structure complex just because the topic is complex.
 
-  - Don’t use idioms or slang in your writing, as they make text harder to understand for an international audience, and harder to translate.
+  - Don't use idioms or slang in your writing, as they make text harder to understand for an international audience, and harder to translate.
 
   - Long sentences and long paragraphs made copy difficult to read. Break them up.
 
@@ -402,7 +402,7 @@ Resources:
 
 Learning outcomes:
 
-- The term “replaced element” — what does it mean?
+- The term "replaced element" — what does it mean?
 
 - Images, audio, video
 
@@ -494,7 +494,7 @@ Resources:
 > 
 > - Going back to the argument for semantic HTML (see also [3.2 Good document structure](#good-document-structure)), you should understand why it is important to use the right element for the right job — e.g. use a \<button\>, and not a \<div\> programmed to behave like a \<button\>. Understand the features programmed into these elements by the browser, by default, and how important they are.
 > 
-> - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer’s constant learning throughout their career.
+> - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
 ### 3.8 HTML tables
 

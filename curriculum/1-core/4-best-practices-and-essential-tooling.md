@@ -12,7 +12,7 @@ Learning outcomes:
 
 - Understand the Web Content Accessibility Guidelines (WCAG) conference criteria.
 
-- Use semantic HTML, aka “The right element for the right job”, because the browser provides so many built-in accessibility hooks.
+- Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks.
 
   - Basic examples include \<p\> or heading elements
 
@@ -82,7 +82,7 @@ Learning outcomes:
 
   - The prefers-reduced-motion media query was created to help with this
 
-- Good practices for hiding content so that it doesn’t become inaccessible.
+- Good practices for hiding content so that it doesn't become inaccessible.
 
   - For example display: none makes content unreadable by screen readers. Use it carefully
 
@@ -106,7 +106,7 @@ Learning outcomes:
 
 - Understand the value of unobtrusive JavaScript.
 
-  - If possible, use JavaScript as a usability enhancement, which isn’t essential for the app to function
+  - If possible, use JavaScript as a usability enhancement, which isn't essential for the app to function
 
   - A good example is client-side validation of form inputs
 
@@ -186,7 +186,7 @@ Resources:
 
 - [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics)
 
-- [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): “If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so.”
+- [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) (a set of useful ARIA design patterns)
 
@@ -196,7 +196,7 @@ Learning outcomes:
 
 - Understand why version control systems are necessary
 
-- Understand that sites such as GitHub, GitLab, etc. enable teamwork and collaboration that wasn’t so easy in the past
+- Understand that sites such as GitHub, GitLab, etc. enable teamwork and collaboration that wasn't so easy in the past
 
 - Understand the difference between Git, and websites like GitHub or GitLab
 
@@ -208,7 +208,7 @@ Learning outcomes:
 
 - Pushing changes — add, commit, push
 
-- Contributing to others’ repos
+- Contributing to others' repos
 
   - Forking
 
@@ -224,9 +224,9 @@ Learning outcomes:
 
 - Good housekeeping
 
-  - Use .gitignore to ignore all the stuff you don’t want to commit, for example dependency and dev source files
+  - Use .gitignore to ignore all the stuff you don't want to commit, for example dependency and dev source files
 
-  - Delete branches you’ve finished with
+  - Delete branches you've finished with
 
 - Handling merge conflicts
 
@@ -316,7 +316,7 @@ Resources:
 
 ### 10.3 Common UI design patterns
 
-Learning outcome: Students should have an idea of what design patterns are, and the common patterns they’ll come across on the web, for example:
+Learning outcome: Students should have an idea of what design patterns are, and the common patterns they'll come across on the web, for example:
 
 - Dark mode
 

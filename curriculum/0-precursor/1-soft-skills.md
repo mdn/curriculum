@@ -42,7 +42,7 @@ Here are some tips to improve this skill:
 
 - (For educators) Set up the marking schemes for your assessments so that you can still get a reasonable number of marks even if you didn't get the correct end result, provided the process is well documented. Award extra marks for innovation.
 
-- Run show ‘n’ tell or one-on-one sessions part-way through a project with peers and mentors to get feedback and insights into where you are going wrong, and get advice on how to get back on the right path.
+- Run show ‘n' tell or one-on-one sessions part-way through a project with peers and mentors to get feedback and insights into where you are going wrong, and get advice on how to get back on the right path.
 
 - Run retrospective meetings to analyze projects, look at what didn't go so well, and talk about how to improve things for the next time.
 
@@ -92,17 +92,17 @@ These strategies include:
 
   - Learn to give back as well as take; web developers that reciprocate are much more likely to build strong relationships and keep getting help.
 
-  - When you find a useful answer, write about it. For example, blog about it or share it on a social network. Not only will the process of writing clarify the concepts to you, but you’ll also get validation and/or feedback from the community. It would also help you to start making a name for yourself in the industry.
+  - When you find a useful answer, write about it. For example, blog about it or share it on a social network. Not only will the process of writing clarify the concepts to you, but you'll also get validation and/or feedback from the community. It would also help you to start making a name for yourself in the industry.
 
-- Making effective use of an experienced contact’s time
+- Making effective use of an experienced contact's time
 
-  - By “experienced contact”, we mean a teacher, mentor, or senior developer.
+  - By "experienced contact", we mean a teacher, mentor, or senior developer.
 
   - Ask them what communication methods they prefer.
 
   - Think carefully about what questions to ask them beforehand, consider their time limited and precious.
 
-  - Be sure to do some background research about the topic beforehand and don’t ask questions that you can find answers to by searching on the web or the official documentation.
+  - Be sure to do some background research about the topic beforehand and don't ask questions that you can find answers to by searching on the web or the official documentation.
 
   - Timebox the session to say 30 minutes.
 
@@ -120,11 +120,11 @@ These strategies include:
 
     - On the plus side, they can speed up research/searches enormously, and help with structuring code and copy.
 
-    - On the other hand, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn’t just assume that AI answers are correct, and test them/verify them with other sources.
+    - On the other hand, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 
 - See also [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) on MDN
 
-> **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn’t constantly pester their peers/colleagues, but equally, they shouldn’t soldier on and pretend they know what they are doing when they don’t. Consider the value of saying “I don’t know” at the right time.
+> **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn't constantly pester their peers/colleagues, but equally, they shouldn't soldier on and pretend they know what they are doing when they don't. Consider the value of saying "I don't know" at the right time.
 
 ## Collaborating and working in a team
 
@@ -140,7 +140,7 @@ Recommendations:
 
 - Practice running projects like a real software project, with a timeline, plan, and responsibilities. Learn about the software development lifecycle. Pick up some basic project planning skills and tools to be able to estimate and plan your work/project.
 
-- As part of the course, blog about your work, learnings, and roadblocks, share your code repositories, get peers to critique your work, and offer updates to fix issues in other people’s work.
+- As part of the course, blog about your work, learnings, and roadblocks, share your code repositories, get peers to critique your work, and offer updates to fix issues in other people's work.
 
 - Join a Slack channel, Discord, or a similar space, ask peers for help, share resources, and discuss the work to be done (for example, see the [Frontend Developers](https://discord.me/frontenddevelopers) Discord server).
 
@@ -226,7 +226,7 @@ Recommendations:
 
   - Why does the web use a document model with links as a central feature when these days it is largely used to build apps?
 
-  - Why are the web standards created like they are, in collaboration, when the process isn’t necessarily as efficient as it could be?
+  - Why are the web standards created like they are, in collaboration, when the process isn't necessarily as efficient as it could be?
 
 - Study general programming concepts where relevant, for example:
 

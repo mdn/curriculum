@@ -52,7 +52,7 @@ Learning outcomes:
 
   - You can have multiple classes per element, and these can be used to layer on styles as required.
 
-  - IDs and classes should be used sparingly when it makes sense for getting the selections you want, but you shouldn’t use them for everything — keep your HTML as clean and uncluttered as possible.
+  - IDs and classes should be used sparingly when it makes sense for getting the selections you want, but you shouldn't use them for everything — keep your HTML as clean and uncluttered as possible.
 
 - Selector lists
 
@@ -206,7 +206,7 @@ Resources:
 
 Learning outcomes:
 
-- Basic styling of easy-to-style form elements, like \<input type=”text”\>.
+- Basic styling of easy-to-style form elements, like \<input type="text"\>.
 
 - Using CSS resets to overcome \<input\> font styling inheritance and box styling default differences .
 
@@ -230,7 +230,7 @@ Resources:
 
 > **Notes:**
 > 
-> - Conforming to this curriculum module doesn’t require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling needs.
+> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling needs.
 
 ### 4.11 Debugging CSS
 
@@ -468,7 +468,7 @@ Learning outcomes:
 
   - Using resolution media queries to serve appropriate assets for different resolution screens
 
-- \<meta viewport=””\>, and how to use it to get web documents to display appropriately on mobile devices.
+- \<meta viewport=""\>, and how to use it to get web documents to display appropriately on mobile devices.
 
   - For the sake of accessibility, never set user-scalable=no
 

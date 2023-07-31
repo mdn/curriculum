@@ -1,6 +1,6 @@
 # Extension 3 Web APIs
 
-> **General note:** This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides criteria covering common aspects of three of the most common classes of Web APIs that we haven’t previously covered in any kind of detail. This should give students enough information to understand Web APIs in general, and be able to pick up new ones via their own research.
+> **General note:** This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides criteria covering common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail. This should give students enough information to understand Web APIs in general, and be able to pick up new ones via their own research.
 
 General resources:
 
@@ -20,7 +20,7 @@ Learning outcomes:
 
 - Using the HTMLMediaElement API to build a basic custom media player
 
-  - Understand why you’d do this — your target audience might have specific needs not addressed by the browser defaults.
+  - Understand why you'd do this — your target audience might have specific needs not addressed by the browser defaults.
 
   - One good example is that some browser default controls are not very accessible by the keyboard.
 
@@ -50,7 +50,7 @@ Resources:
 
 > **Notes:**
 > 
-> - This set of conformance criteria does not expect a successful student to understand all of the web platform’s video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
+> - This set of conformance criteria does not expect a successful student to understand all of the web platform's video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
 > 
 >   - For now, students would be expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
 
@@ -118,7 +118,7 @@ Learning outcomes:
 
     - Complete client-side transactional database system.
 
-    - Specialized, and rarely used directly. You’d be more likely to use a library such as [dexie.js](https://dexie.org/).
+    - Specialized, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
 
   - Service Workers/Cache
 
