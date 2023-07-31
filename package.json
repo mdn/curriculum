@@ -24,7 +24,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "fix:md": "markdownlint-cli2-fix \"**/*.md\" && prettier -w \"**/*.md\"",
-    "lint:md": "markdownlint-cli2 \"**/*.md\" && prettier -c \"**/*.md\""
+    "fix": "prettier --ignore-unknown --write \"**/*\" && markdownlint-cli2-fix \"**/*.md\"",
+    "lint": "prettier --ignore-unknown --check \"**/*\" && markdownlint-cli2 \"**/*.md\""
   }
 }
