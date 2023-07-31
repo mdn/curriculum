@@ -30,9 +30,12 @@ This resource is free for anyone to use. If you find the curriculum useful, we r
 
 1. Link to it. For example, an educator could include the following in their public program information:
 
-    ```html
-    <p>This course is based on the <a href="#">MDN front-end development curriculum</a>.</p>
-    ```
+   ```html
+   <p>
+     This course is based on the
+     <a href="#">MDN front-end development curriculum</a>.
+   </p>
+   ```
 
 2. Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
 
