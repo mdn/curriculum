@@ -6,7 +6,7 @@ Welcome! This is a starter-kit template to scaffold new MDN GitHub repositories.
 
 1. Click the "Use this template" button at the top of the repository, and choose "Create a new respository".
 
-    This will open the "Create a new repository from project-template" form.
+   This will open the "Create a new repository from project-template" form.
 
 2. Choose `mdn` in the "Owner" drop-down, give the repository a name in the "Repository name" field, and click the "Create repository from template" button.
 3. Copy the contents of `README-template.md` into the `README.md` file and adjust it to your project.
