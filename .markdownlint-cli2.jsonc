@@ -1,0 +1,89 @@
+// This file defines our configuration for Markdownlint. See
+// https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+// for more details on each rule.
+
+{
+  "config": {
+    "default": true,
+    "ul-style": {
+      "style": "dash"
+    },
+    "ul-indent": {
+      "indent": 2
+    },
+    "no-hard-tabs": {
+      "spaces_per_tab": 2
+    },
+    "line-length": false,
+    // Force ordered numbering to catch accidental list ending from indenting
+    "ol-prefix": {
+      "style": "ordered"
+    },
+    "code-block-style": {
+      "style": "fenced"
+    },
+    "emphasis-style": {
+      "style": "underscore"
+    },
+    "strong-style": {
+      "style": "asterisk"
+    },
+
+    // https://github.com/OnkarRuikar/markdownlint-rule-search-replace
+    "search-replace": {
+      "rules": [
+        {
+          "name": "curly-double-quotes",
+          "message": "Don't use curly double quotes",
+          "searchPattern": "/“|”/g",
+          "replace": "\"",
+          "searchScope": "text"
+        },
+        {
+          "name": "curly-single-quotes",
+          "message": "Don't use curly single quotes",
+          "searchPattern": "/‘|’/g",
+          "replace": "'",
+          "searchScope": "text"
+        },
+        {
+          "name": "nbsp",
+          "message": "Don't use no-break spaces",
+          "searchPattern": "/\u00A0/g",
+          "replace": " ",
+          "searchScope": "all"
+        },
+        {
+          "name": "m-dash",
+          "message": "Don't use '--'. Use m-dash — instead",
+          "search": " -- ",
+          "replace": " — ",
+          "searchScope": "text"
+        },
+        {
+          "name": "trailing-spaces",
+          "message": "Avoid trailing spaces",
+          "searchPattern": "/  +$/gm",
+          "replace": "",
+          "searchScope": "all"
+        },
+        {
+          "name": "double-spaces",
+          "message": "Avoid double spaces",
+          "searchPattern": "/([^\\s>])  ([^\\s|])/g",
+          "replace": "$1 $2",
+          "searchScope": "text"
+        },
+        {
+          "name": "incorrect-spelling",
+          "message": "Incorrect spelling",
+          "searchPattern": ["/e-mail/ig", "/(w)eb site/ig"],
+          "replace": ["email", "$1ebsite"],
+          "searchScope": "all"
+        }
+      ]
+    }
+  },
+  "customRules": ["markdownlint-rule-search-replace"],
+  "ignores": ["node_modules", ".git", ".github", "tests"]
+}
