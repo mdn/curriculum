@@ -12,7 +12,7 @@ The MDN front-end developer curriculum is intended to provide an up-to-date indu
 
 - Existing web developers who want to “level up” their skills, making sure their skillset is current and identifying gaps in their knowledge that they should learn more about.
 
-- Non-front-end web developers who have existing development experience in other areas (for example back-end web developers or native platform developers), who wish to get into front-end web development and want a guide to the topics they should learn.
+- Non-front-end web developers who have existing development experience in other areas (for example back-end web developers or platform-specific developers), who wish to get into front-end web development and want a guide to the topics they should learn.
 
 - Educators creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Educators/course creators should aim to make their courses conform to this curriculum.
 
