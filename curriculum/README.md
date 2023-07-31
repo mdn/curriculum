@@ -24,7 +24,7 @@ We want this resource to help web developers have the best possible chance of su
 
 - Success in establishing a long-lasting career in the web industry.
 
-**Note**: This resource **is not** a course for learning front-end web development, and so does not provide information to thoroughly teach it. It is a recommendation of what modern front-end web developers should know.
+> **Note:** This resource **is not** a course for learning front-end web development, and so does not provide information to thoroughly teach it. It is a recommendation of what modern front-end web developers should know.
 
 This resource is free for anyone to use. If you find the curriculum useful, we request you to consider doing the following:
 
@@ -38,7 +38,7 @@ This resource is free for anyone to use. If you find the curriculum useful, we r
 
 Mozilla is dedicated to helping improve the quality of web developer education, in turn, creating a better web for us all. This curriculum embodies the values we think the web should have — accessibility, sustainability, usability, performance, and community. We would love educators, developers, and students to champion these values by using this resource and carrying these values forward in their work, in their teachings, and in the products they build.
 
-Disclaimer: This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
+> **Disclaimer:** This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
 
 ## Scope
 
@@ -124,7 +124,7 @@ The topics are presented as conformance criteria, each with the following detail
 
 The MDN curriculum does not stipulate exactly how the individual topic criteria should be learned, taught, or assessed. This is up to the learners, teachers, and course creators. The topics listed in the curriculum should be covered in conforming courses.
 
-Disclaimer: This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
+> **Disclaimer:** This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
 
 ### Students/other learners
 

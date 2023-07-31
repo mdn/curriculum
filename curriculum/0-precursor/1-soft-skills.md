@@ -124,7 +124,7 @@ These strategies include:
 
 - See also [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) on MDN
 
-Note: There is definitely a balance to knowing the right time to ask for help. Web developers shouldn’t constantly pester their peers/colleagues, but equally, they shouldn’t soldier on and pretend they know what they are doing when they don’t. Consider the value of saying “I don’t know” at the right time.
+> **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn’t constantly pester their peers/colleagues, but equally, they shouldn’t soldier on and pretend they know what they are doing when they don’t. Consider the value of saying “I don’t know” at the right time.
 
 ## Collaborating and working in a team
 

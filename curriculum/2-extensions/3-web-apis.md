@@ -1,6 +1,6 @@
 # Extension 3 Web APIs
 
-General note: This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides criteria covering common aspects of three of the most common classes of Web APIs that we haven’t previously covered in any kind of detail. This should give students enough information to understand Web APIs in general, and be able to pick up new ones via their own research.
+> **General note:** This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides criteria covering common aspects of three of the most common classes of Web APIs that we haven’t previously covered in any kind of detail. This should give students enough information to understand Web APIs in general, and be able to pick up new ones via their own research.
 
 General resources:
 
@@ -48,11 +48,11 @@ Resources:
 
 - [​​Media type and format guide: image, audio, and video content](https://developer.mozilla.org/docs/Web/Media/Formats)
 
-Notes:
-
-- This set of conformance criteria does not expect a successful student to understand all of the web platform’s video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
-
-  - For now, students would be expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
+> **Notes:**
+> 
+> - This set of conformance criteria does not expect a successful student to understand all of the web platform’s video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
+> 
+>   - For now, students would be expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
 
 ## 3.2 Graphics/animation APIs
 
@@ -132,8 +132,8 @@ Resources:
 
 - [What is a progressive web app?](https://developer.mozilla.org/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)
 
-Notes:
-
-- The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for most simple client-side storage tasks, and how cookies are used in positive and negative ways.
-
-- IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.
+> **Notes:**
+> 
+> - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for most simple client-side storage tasks, and how cookies are used in positive and negative ways.
+> 
+> - IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.

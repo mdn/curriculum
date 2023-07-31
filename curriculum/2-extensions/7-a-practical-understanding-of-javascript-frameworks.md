@@ -70,12 +70,12 @@ Resources:
 
 - [Getting started with Angular](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
 
-Notes:
-
-- Conforming to this set of criteria does not involve becoming a master of a particular framework and learning everything it has to offer. To do so can be limiting — one framework might be the most popular choice now, but in five years everything could change.
-
-- Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [7 JavaScript fundamentals](#javascript-fundamentals)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
-
-- Students are strongly encouraged to start building apps with 2-3 popular frameworks to get a practical understanding of how they do things and idea of the differences between them.
-
-- Advanced and/or framework-specific features can be learned as part of the student’s constant learning.
+> **Notes:**
+> 
+> - Conforming to this set of criteria does not involve becoming a master of a particular framework and learning everything it has to offer. To do so can be limiting — one framework might be the most popular choice now, but in five years everything could change.
+> 
+> - Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [7 JavaScript fundamentals](#javascript-fundamentals)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
+> 
+> - Students are strongly encouraged to start building apps with 2-3 popular frameworks to get a practical understanding of how they do things and idea of the differences between them.
+> 
+> - Advanced and/or framework-specific features can be learned as part of the student’s constant learning.

@@ -164,9 +164,9 @@ Resources:
 
 - [Looping code](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
-Notes:
-
-- There are many other types of loop in JavaScript that we haven’t listed here. It is not necessary (or useful) to understand all these types at this stage. For now, students just need to understand the purpose of loops, and the most common types.
+> **Notes:**
+> 
+> - There are many other types of loop in JavaScript that we haven’t listed here. It is not necessary (or useful) to understand all these types at this stage. For now, students just need to understand the purpose of loops, and the most common types.
 
 ### 7.7 Functions
 

@@ -160,11 +160,11 @@ Resources:
 
 - [WebAIM accessibility tooling articles](https://webaim.org/articles/#evaluation)
 
-Notes:
-
-- The aim here is not to master the usage of all assistive technology types (there are many that we have not listed above), but to be aware of their existence and types of people who use them, and also to appreciate how and why accessibility best practices work.
-
-- It is also a really good idea for web developers to have a go at using screen readers or other types of assistive technology, to give an idea of what the web experience is like for users of those technologies.
+> **Notes:**
+> 
+> - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed above), but to be aware of their existence and types of people who use them, and also to appreciate how and why accessibility best practices work.
+> 
+> - It is also a really good idea for web developers to have a go at using screen readers or other types of assistive technology, to give an idea of what the web experience is like for users of those technologies.
 
 ### 8.5 WAI-ARIA
 
@@ -234,11 +234,11 @@ Resources:
 
 - [Git and GitHub](https://developer.mozilla.org/docs/Learn/Tools_and_testing/GitHub)
 
-Notes:
-
-- Git and associated social coding sites like GitHub have a lot of functionality, and can be intimidating and unfriendly to begin with. This set of conformance criteria does not expect mastery of all aspects of these tools, but rather an understanding of the basics, and why it is necessary to have some experience here before entering the industry.
-
-- Git is the web industry standard for version control, and has been for some time.
+> **Notes:**
+> 
+> - Git and associated social coding sites like GitHub have a lot of functionality, and can be intimidating and unfriendly to begin with. This set of conformance criteria does not expect mastery of all aspects of these tools, but rather an understanding of the basics, and why it is necessary to have some experience here before entering the industry.
+> 
+> - Git is the web industry standard for version control, and has been for some time.
 
 ## 10 Design theory for developers
 
