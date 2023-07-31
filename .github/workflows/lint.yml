@@ -1,0 +1,26 @@
+name: Lint files
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+          cache: npm
+
+      - name: Install all npm packages
+        run: npm ci
+
+      - name: Lint all files
+        run: |
+          npm run lint
