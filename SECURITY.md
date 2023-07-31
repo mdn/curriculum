@@ -4,7 +4,7 @@
 
 If you've discovered a security issue, please report it through the form linked
 below, which will create a secure, private ticket.
-https://bugzilla.mozilla.org/form.web.bounty
+<https://bugzilla.mozilla.org/form.web.bounty>
 
 MDN may be eligible for
 [Mozilla's Security Bug Bounty Program](https://www.mozilla.org/en-US/security/bug-bounty/).
