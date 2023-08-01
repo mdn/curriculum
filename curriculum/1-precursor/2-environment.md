@@ -1,6 +1,6 @@
 # Environment knowledge
 
-This section provides recommendations for topics related to the setup and usage of the computer system that you will use to implement web sites/apps. These topics are not directly related to creating web code, but you will benefit greatly from understanding the environment you are working in.
+This section provides recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps. These topics are not directly related to creating web code, but you will benefit greatly from understanding the environment you are working in.
 
 General resources:
 
