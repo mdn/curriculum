@@ -10,9 +10,9 @@ Learning outcomes:
 
 - Setting sizes using logical properties
 
-  - Understand that these properties make create bidirectional/multi-language interfaces easier, and why.
+  - Understand that these properties make creating bidirectional/multi-language interfaces easier, and why.
 
-- min/max-width and min/max-height
+- `min-`/`max-width` and `min-`/`max-height`
 
 - Viewport units
 

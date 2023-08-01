@@ -22,11 +22,11 @@ Learning outcomes:
 
   - `<label>`s for form elements (see also [2.7 Other interactive elements](../1-standards-and-semantics/2-7-other-interactive-elements.md))
 
-  - Mobile UIs that provide specific usability advantages for specific input types such as number, or tel
+  - Mobile UIs that provide specific usability advantages for specific input types such as `number` or `tel`
 
-  - Make tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the scope attribute (See also [2.8 HTML tables](../1-standards-and-semantics/2-8-html-tables.md)).
+  - Make tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the `scope` attribute (See also [2.8 HTML tables](../1-standards-and-semantics/2-8-html-tables.md)).
 
-  - Use simple plain language, steer clear of slang and abbreviations where possible (and provide definitions where it is not possible).
+  - Use simple plain language, steer clear of slang and abbreviations where possible, and provide definitions where it is not possible.
 
 - Understand the purpose of audio transcripts and text tracks (captions, subtitles, etc.) in making audio and video content accessible (we are not expecting mastery in creating them; that is an advanced topic in its own right).
 
@@ -36,7 +36,7 @@ Learning outcomes:
 
   - Understand the browser-provided keyboard controls
 
-  - Understand when accesskey and tabindex are appropriate to use
+  - Understand when `accesskey` and `tabindex` are appropriate to use
 
 Resources:
 

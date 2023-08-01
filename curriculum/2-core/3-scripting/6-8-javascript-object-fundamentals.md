@@ -16,7 +16,7 @@ Learning outcomes:
 
 - Using constructors to create a new object
 
-- Object scope, and "this"
+- Object scope, and `this`
 
 - Accessing properties and methods — bracket and dot syntax
 

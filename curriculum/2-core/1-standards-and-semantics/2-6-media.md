@@ -8,15 +8,15 @@ Learning outcomes:
 
   - The basics — `<img>`, `<audio>`, and `<video>` tags
 
-  - Using src to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md))
+  - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md))
 
-  - Using width and height, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
+  - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
 
-  - Best practice uses of title
+  - Best practice uses of `title`
 
   - `<figure>` and `<figcaption>`
 
-  - Video and audio-specific attributes such as controls and muted
+  - Video and audio-specific attributes such as `controls` and `muted`
 
   - `<sources>`
 
@@ -34,9 +34,9 @@ Learning outcomes:
 
   - Understanding what `<canvas>` is — a scriptable, updateable image
 
-  - width and height
+  - `width` and `height`
 
-- `<picture>` and srcset for responsive images
+- `<picture>` and `srcset` for responsive images
 
 - Alternative text for media
 

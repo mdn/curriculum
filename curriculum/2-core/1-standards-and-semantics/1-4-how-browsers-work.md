@@ -10,7 +10,7 @@ Learning outcomes:
 
 - Why the browser is sometimes seen as a hostile programming environment.
 
-  - Unlike other programming environments, it is much harder to make guarantees about the environment your code will run in.
+  - Unlike other programming environments, it is much harder to make guarantees about the environment your code will run on.
 
   - You cannot guarantee a user's OS, browser, language, location, network connection, CPU, GPU, memory, etc.
 

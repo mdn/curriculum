@@ -6,7 +6,7 @@ Learning outcomes:
 
 - Intrinsic size of replaced element content.
 
-- Overcoming replace element sizing and overflow issues, for example with max-width, object-fit, and object-position.
+- Overcoming replace element sizing and overflow issues, for example with `max-width`, `object-fit`, and `object-position`.
 
 Resources:
 

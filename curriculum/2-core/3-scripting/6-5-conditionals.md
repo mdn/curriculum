@@ -4,11 +4,11 @@ Learning outcomes:
 
 - Understand what a conditional is — run different code paths depending on a test result
 
-- if … else … else if
+- `if ... else ... else if`
 
 - Using comparison operators to create tests
 
-- AND, or, and NOT in tests
+- AND, OR, and NOT in tests
 
 - Switch statements
 

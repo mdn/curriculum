@@ -8,7 +8,7 @@ Learning outcomes:
 
 - Intro to product management
 
-- Design for accessibility — consider the target audience, what additional needs they may have, design for those from the very start
+- Design for accessibility — consider the target audience and what additional needs they may have. Design for those from the very start
 
 Resources:
 

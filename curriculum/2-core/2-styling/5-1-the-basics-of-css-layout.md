@@ -4,7 +4,7 @@ Learning outcomes:
 
 - Understand what normal flow is — the default way a browser lays out block and inline content.
 
-- Properties such as display, float, and position are intended to change the way in which the browser lays out content.
+- Properties such as `display`, `float`, and `position` are intended to change how the browser lays out content.
 
 Resources:
 

@@ -10,11 +10,11 @@ Learning outcomes:
 
 - Basic setup — installing git, signing up for an account for your chosen social coding site
 
-  - Handling securely requirements, like SSH/GPG keys
+  - Handling security requirements, like SSH/GPG keys
 
 - Creating a repo
 
-- Pushing changes — add, commit, push
+- Pushing changes — `add`, `commit`, `push`
 
 - Contributing to others' repos
 
@@ -32,7 +32,7 @@ Learning outcomes:
 
 - Good housekeeping
 
-  - Use .gitignore to ignore all the stuff you don't want to commit, for example dependency and dev source files
+  - Use `.gitignore` to ignore all the stuff you don't want to commit, for example, dependencies and dev source files
 
   - Delete branches you've finished with
 

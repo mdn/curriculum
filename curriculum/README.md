@@ -10,7 +10,7 @@ The MDN front-end developer curriculum is intended to provide an up-to-date indu
 
 - Students who want to get a job in the industry, which may involve gaining a related qualification or certification. The curriculum will act as a guide for what they should study.
 
-- Existing web developers who want to "level up" their skills, making sure their skillset is current and identifying gaps in their knowledge that they should learn more about.
+- Existing web developers who want to "level up" their skills, making sure their skill set is current and identifying gaps in their knowledge that they should learn more about.
 
 - Non-front-end web developers who have existing development experience in other areas (for example back-end web developers or platform-specific developers), who wish to get into front-end web development and want a guide to the topics they should learn.
 
@@ -26,7 +26,7 @@ We want this resource to help web developers have the best possible chance of su
 
 > **Note:** This resource **is not** a course for learning front-end web development, and so does not provide information to thoroughly teach it. It is a recommendation of what modern front-end web developers should know.
 
-This resource is free for anyone to use. If you find the curriculum useful, we request you to consider doing the following:
+This resource is free for anyone to use. If you find the curriculum useful, we request that you consider doing the following:
 
 1. Link to it. For example, an educator could include the following in their public program information:
 
@@ -47,7 +47,7 @@ Mozilla is dedicated to helping improve the quality of web developer education, 
 
 ## Scope
 
-The term _front-end developer_ can be ambiguous; it means different things to different people, and folks working on the front-end can be expected to do a wide variety of different tasks.
+The term _front-end developer_ can be ambiguous; it means different things to different people, and folks working on the front end can be expected to do a wide variety of different tasks.
 
 ### What is covered
 
@@ -75,7 +75,7 @@ This curriculum does not attempt to outline every topic that a web developer cou
 
   - Basic design theory
 
-- A number of "extension topics" that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
+- Several "extension topics" that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
 
   - CSS transforms and animation
 
@@ -97,13 +97,13 @@ This curriculum does not attempt to outline every topic that a web developer cou
 
 The topics presented are covered in differing levels of detail.
 
-- Some of these topics are covered in depth, for example, HTML and CSS fundamentals. These are really important to have a clear understanding of before a student goes too far on their learning journey.
+- Some of these topics are covered in depth, for example, HTML and CSS fundamentals. These are important to have a clear understanding of before a student goes too far on their learning journey.
 
-- Some of these topics are covered in a more superficial manner, for example, version control or testing. It is important to understand what these topics are and get started with some basics, but these kinds of skills can be expanded upon as you continue through your career.
+- Some of these topics are covered more superficially, for example, version control or testing. It is important to understand what these topics are and get started with some basics, but these kinds of skills can be expanded upon as you continue through your career.
 
 ### What is not covered
 
-There are also a number of areas that we explicitly don't cover in this curriculum, namely:
+There are also several areas that we explicitly don't cover in this curriculum, namely:
 
 - Back-end languages/platforms such as [Node.js](https://nodejs.org/), [PHP](https://www.php.net/), [Python](https://www.python.org/), [.NET](https://dotnet.microsoft.com/), [Java](https://www.java.com/), or [Ruby](https://www.ruby-lang.org/). The back-end, by definition, is out of scope for a front-end development curriculum, although there is crossover in full-stack developer jobs.
 
@@ -135,11 +135,11 @@ The MDN curriculum does not stipulate exactly how the individual topic criteria 
 
 Students should use the sections below to determine what they should learn. Their learning list should include all the core modules but additionally could include one or more extension modules, based on their desired specialization. For example, they may wish to have more of a front-end design focus or more of a JavaScript programming focus.
 
-Once a student has the list of topics they are going to learn, they should go forth and learn them, via self-study, taking a course or bootcamp to teach them, or a combination. Either way, upon completing a conforming course, students should be able to pass an examination that tests their knowledge of the topics they have studied.
+Once a student has the list of topics they are going to learn, they should go forth and learn them, via self-study, taking a course or boot camp to teach them, or a combination. Either way, upon completing a conforming course, students should be able to pass an examination that tests their knowledge of the topics they have studied.
 
 ### Educators
 
-Educators should cover the core modules in their courses, along with any extensions that suit the specializations they want to focus on. In addition, they could also choose to add their own extension modules alongside the MDN curriculum core/extensions
+Educators should cover the core modules in their courses, along with any extensions that suit the specializations they want to focus on. In addition, they could also choose to add their own extension modules alongside the MDN curriculum core/extensions.
 
 Educators are advised to check their sources carefully to make sure the techniques they teach are current, and that they don't teach any bad practices. Examples of such bad practices include non-semantic or outdated markup and bad design practices like small or low-contrast text — both of which lead to inaccessible web content.
 

@@ -8,9 +8,9 @@ Learning outcomes:
 
 - Basic tables — `<table>`, `<tr>`, `<td>`
 
-- Colspan and rowspan
+- `colspan` and `rowspan`
 
-- Better table structuring for accessibility — `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, the scope attribute
+- Better table structuring for accessibility — `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, the `scope` attribute
 
 Resources:
 

@@ -2,13 +2,13 @@
 
 Learning outcomes:
 
-- Understand what variables are, and why they are so important in programming generally, not just JavaScript.
+- Understand what variables are and why they are so important in programming generally, not just JavaScript.
 
-- Declaring variables with let and initializing them with values.
+- Declaring variables with `let` and initializing them with values.
 
 - Reassigning variables with new values.
 
-- Creating constants with const.
+- Creating constants with `const`.
 
   - The difference between variables and constants, and when you would use each one.
 

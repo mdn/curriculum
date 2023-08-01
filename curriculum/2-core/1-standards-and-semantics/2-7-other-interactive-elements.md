@@ -6,19 +6,19 @@ Learning outcomes:
 
 - `<button>`
 
-  - Button types — button, submit, reset
+  - Button types — `button`, `submit`, `reset`
 
   - Why reset buttons are nearly always a bad idea
 
-- Common `<input>` types — text, number, file, checkbox, radio, password, search, submit.
+- Common `<input>` types — `text`, `number`, `file`, `checkbox`, `radio`, `password`, `search`, `submit`.
 
-- Common attributes — name, value.
+- Common attributes — `name`, `value`.
 
-- Client-side validation basics — required, min, max, minlength, maxlength, pattern.
+- Client-side validation basics — `required`, `min`, `max`, `minlength`, `maxlength`, `pattern`.
 
-- Making forms accessible — `<label>` and the for attribute.
+- Making forms accessible — `<label>` and the `for` attribute.
 
-- Form states and why they are important — hover, focus, readonly, disabled, etc.
+- Form states and why they are important — `:focus`, `:readonly`, `:disabled`, etc.
 
 - `<textarea>`.
 
@@ -28,7 +28,7 @@ Learning outcomes:
 
   - Form submission: what happens when a form is submitted
 
-  - The difference between submission methods — get, post, etc.
+  - The difference between submission methods — `GET`, `POST`, etc.
 
   - Form action
 

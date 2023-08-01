@@ -6,15 +6,15 @@ Learning outcomes:
 
 - Font family, font stacks, web-safe fonts, and default system font styles
 
-- Font size, weight, and style
+- `font-size`, `font-weight`, and `font-style`
 
-- Text alignment, transform, and text decoration
+- `text-align`, `text-transform`, and `text-decoration`
 
-- text-shadow
+- `text-shadow`
 
-- line-height
+- `line-height`
 
-- word- and letter-spacing
+- `word-spacing` and `letter-spacing`
 
 Resources:
 
