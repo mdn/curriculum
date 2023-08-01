@@ -10,9 +10,9 @@ Learning outcomes:
 
 - Modify the applied CSS — enable and disable declarations, modify values, add new declarations — to figure out what changes are needed to get what you want.
 
-- Use layout inspection tools to inspect box model, grid, flexbox, and other layout features (see also [6 CSS Layout](#css-layout)).
+- Use layout inspection tools to inspect box model, grid, flexbox, and other layout features (see also [5 CSS Layout](./5-0-css-layout.md)).
 
-- Use responsive design mode tools to check responsive layouts (see also [6.5 Responsive design specifics](#responsive-design-specifics)).
+- Use responsive design mode tools to check responsive layouts (see also [5.5 Responsive design specifics](./5-5-responsive-design-specifics.md)).
 
 Resources:
 

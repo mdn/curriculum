@@ -16,15 +16,15 @@ Learning outcomes:
 
 - Accessible best practices
 
-  - Alt text (see also [3.6 Media](#media))
+  - Alt text (see also [2.6 Media](../1-standards-and-semantics/2-6-media.md))
 
-  - Link text (see also [3.5 Links](#links))
+  - Link text (see also [2.5 Links](../1-standards-and-semantics/2-5-links.md))
 
-  - `<label>`s for form elements (see also [3.7 Other interactive elements](#other-interactive-elements))
+  - `<label>`s for form elements (see also [2.7 Other interactive elements](../1-standards-and-semantics/2-7-other-interactive-elements.md))
 
   - Mobile UIs that provide specific usability advantages for specific input types such as number, or tel
 
-  - Make tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the scope attribute (See also [3.8 HTML tables](#html-tables)).
+  - Make tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the scope attribute (See also [2.8 HTML tables](../1-standards-and-semantics/2-8-html-tables.md)).
 
   - Use simple plain language, steer clear of slang and abbreviations where possible (and provide definitions where it is not possible).
 

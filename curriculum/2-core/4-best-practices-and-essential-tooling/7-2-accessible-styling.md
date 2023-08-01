@@ -8,7 +8,7 @@ Learning outcomes:
 
   - Consider providing large type interfaces for those with visual impairments
 
-  - See also [5.1 Text and font styling](#text-and-font-styling)
+  - See also [4.1 Text and font styling](../2-styling/4-1-text-and-font-styling.md)
 
 - Color contrast.
 
@@ -20,7 +20,7 @@ Learning outcomes:
 
   - These are important as cues for keyboard users
 
-  - See also [5.2 Styling lists and links](#styling-lists-and-links)
+  - See also [4.2 Styling lists and links](../2-styling/4-2-styling-lists-and-links.md)
 
 - Sensible animation usage — use animation subtly and provide controls to turn it off.
 

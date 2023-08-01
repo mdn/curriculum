@@ -52,7 +52,7 @@ Learning outcomes:
 
   - A useful set of extensions for popular code editors (for example VSCode) that provide features like linting and code completion for framework-specific code.
 
-  - An integrated system for writing tests (see also [Extension 6 Testing](#extension-6-testing)).
+  - An integrated system for writing tests (see also [Extension 6 Testing](./6-testing.md)).
 
   - Facilitation for deployment to a remote server (most deployment tools such as Netlify and Vercel have integrations/tooling for working with both GitHub and popular frameworks).
 
@@ -73,6 +73,6 @@ Resources:
 > **Notes:**
 >
 > - Conforming to this set of criteria does not involve becoming a master of a particular framework and learning everything it has to offer. To do so can be limiting — one framework might be the most popular choice now, but in five years everything could change.
-> - Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [7 JavaScript fundamentals](#javascript-fundamentals)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
+> - Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [6 JavaScript fundamentals](../2-core/3-scripting/6-0-javascript-fundamentals.md)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
 > - Students are strongly encouraged to start building apps with 2-3 popular frameworks to get a practical understanding of how they do things and idea of the differences between them.
 > - Advanced and/or framework-specific features can be learned as part of the student's constant learning.

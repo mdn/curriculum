@@ -22,7 +22,7 @@ Learning outcomes:
 
   - Understand that arguments to functions can themselves be functions.
 
-- Understand the purpose of async functions and await (for easier writing of async JavaScript code) and what an example looks like (see also [7.11 Asynchronous JavaScript Fundamentals](#asynchronous-javascript-fundamentals)).
+- Understand the purpose of async functions and await (for easier writing of async JavaScript code) and what an example looks like (see also [6.11 Asynchronous JavaScript Fundamentals](./6-11-asynchronous-javascript-fundamentals.md)).
 
 - Arrow functions.
 

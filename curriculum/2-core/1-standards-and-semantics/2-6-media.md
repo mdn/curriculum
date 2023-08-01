@@ -8,7 +8,7 @@ Learning outcomes:
 
   - The basics — `<img>`, `<audio>`, and `<video>` tags
 
-  - Using src to point to a resource (Paths are also important here; see [3.5 Links](#links))
+  - Using src to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md))
 
   - Using width and height, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
 
@@ -48,4 +48,4 @@ Resources:
 
 > **Notes:**
 >
-> - It is not necessary to understand how to script a `<canvas>` element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](#graphicsanimation-apis).
+> - It is not necessary to understand how to script a `<canvas>` element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](../../3-extensions/3-web-apis.md#32-graphicsanimation-apis).

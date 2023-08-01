@@ -110,7 +110,7 @@ Resources:
 
   - Find and replace, often with the ability to use regular expressions to make the functionality more powerful (e.g. keep a specific string beginning and end, but replace the substring in between)
 
-  - Integration with version control is often provided (see also [9 Version control fundamentals (Git/GitHub)](#version-control-fundamentals-gitgithub))
+  - Integration with version control is often provided (see also [8 Version control fundamentals (Git/GitHub)](../2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md))
 
 - Customize and enhance your code editor with extensions
 

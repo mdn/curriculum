@@ -18,11 +18,11 @@ Learning outcomes:
 
   - Compatibility testing (aka cross-browser testing): Ensures that the web app functions correctly across different browsers, operating systems, and devices.
 
-  - Performance testing: Measuring the responsiveness, speed, scalability, and stability of the web app under different workloads (see also [Extension 4: Performance](#extension-4-performance)).
+  - Performance testing: Measuring the responsiveness, speed, scalability, and stability of the web app under different workloads (see also [Extension 4: Performance](./4-performance.md)).
 
-  - Security Testing: Identifying vulnerabilities and weaknesses in the web app's security mechanisms (see also [Extension 5 Security and privacy](#extension-5-security-and-privacy)).
+  - Security Testing: Identifying vulnerabilities and weaknesses in the web app's security mechanisms (see also [Extension 5 Security and privacy](./5-security-and-privacy.md)).
 
-  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [8 Accessibility](#accessibility)).
+  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [7 Accessibility](../2-core/4-best-practices-and-essential-tooling/7-0-accessibility.md)).
 
 ## 6.2 Functional and compatibility testing
 
