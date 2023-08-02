@@ -4,9 +4,9 @@ Learning outcomes:
 
 - Understand the purpose of functions — to enable the creation of reusable blocks of code that can be called wherever needed.
 
-- Understand that functions are used everywhere in JavaScript, and that some are built in to the browser, and some are user-defined.
+- Understand that functions are used everywhere in JavaScript, and that some are built into the browser and some are user-defined.
 
-  - Understand the difference between functions and methods
+- Understand the difference between functions and methods
 
 - Invoking a function.
 
@@ -18,11 +18,9 @@ Learning outcomes:
 
 - Named and anonymous functions.
 
-- Callback functions
+- Callback functions — understand that arguments to functions can themselves be functions, and what this pattern is used for
 
-  - Understand that arguments to functions can themselves be functions.
-
-- Understand the purpose of async functions and await (for easier writing of async JavaScript code) and what an example looks like (see also [6.11 Asynchronous JavaScript Fundamentals](./6-11-asynchronous-javascript-fundamentals.md)).
+- Understand the purpose of async functions and `await` (for easier writing of async JavaScript code) and what an example looks like (see also [6.11 Asynchronous JavaScript Fundamentals](./6-11-asynchronous-javascript-fundamentals.md)).
 
 - Arrow functions.
 
@@ -30,7 +28,7 @@ Learning outcomes:
 
 - Understand global scope and function scope.
 
-- Building your own function.
+- Building your own functions.
 
   - Including parameters
 

@@ -18,13 +18,13 @@ Learning outcomes:
 
   - Values
 
-  - Consider also that other syntax exists — such as shorthand, at-rules, and descriptors
+  - Consider also that other CSS syntax exists — such as shorthand, at-rules, and descriptors
 
 - Default browser styles — understand that the browser provides default CSS styling to HTML elements so that it is in some way usable even with no user-defined styles at all.
 
   - Understand also therefore that HTML has nothing to do with styling.
 
-  - Use this to reinforce the idea of separating out semantics and structure (semantic HTML) from presentation (CSS), and not using presentational markup.
+  - Use this to reinforce the idea of separating semantics and structure (semantic HTML) from presentation (CSS), and not using presentational markup.
 
   - Study CSS resets, first to prove that browser styles exist and show what a page looks like when they are removed, but also as a technique for providing a blank canvas for developers to build their own styles on.
 

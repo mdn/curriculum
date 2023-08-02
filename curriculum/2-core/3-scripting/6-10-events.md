@@ -6,7 +6,7 @@ Learning outcomes:
 
 - Event handlers.
 
-  - addEventListener() and removeEventListener()
+  - `addEventListener()` and `removeEventListener()`
 
   - Event handler properties
 
@@ -14,11 +14,11 @@ Learning outcomes:
 
 - Event objects.
 
-- Preventing default behavior with preventDefault().
+- Preventing default behavior with `preventDefault()`.
 
 - Event bubbling/capture.
 
-  - stopPropagation()
+  - `stopPropagation()`
 
 - Event delegation.
 

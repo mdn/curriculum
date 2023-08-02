@@ -4,7 +4,7 @@ Learning outcomes:
 
 - The need for a doctype at the top of an HTML document. Its original intended purpose, and the fact that now it is somewhat of a historical artifact.
 
-- The need to set the language of a document using the lang attribute in the opening `<html>` tag
+- The need to set the language of a document using the `lang` attribute in the opening `<html>` tag
 
 - The HTML head, and its purpose as a metadata container for the document including key uses
 
@@ -20,7 +20,7 @@ Learning outcomes:
 
 - The anatomy of an HTML element — element, opening tag, content, closing tag, attributes.
 
-- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also know as empty elements) are, and how they differ from standard elements.
+- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are and how they differ from standard elements.
 
 - Replaced elements, and their purpose — they act as containers into which external content (such as images and video) is embedded.
 

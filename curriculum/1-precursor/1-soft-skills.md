@@ -54,15 +54,9 @@ These strategies include:
 
 - Consulting the documentation
 
-  - When you are stuck with using a tool/product, consult the official documentation first.
+  - When you are stuck with using a tool/product, consult the official documentation first. It is surprising how many people do not think to do this; official docs are often geared towards beginners, so people with experience may not think of them as being suitable for them.
 
-    - It is surprising how many people do not think to do this; official docs are often geared towards beginners, so people with experience may not think of them as being suitable for them.
-
-  - Learn about different [types of documentation](https://documentation.divio.com/), for example:
-
-    - How to recognize the difference between tutorial, reference, and other types.
-
-    - Under what circumstances each type is useful.
+  - Learn about different [types of documentation](https://documentation.divio.com/) — for example, tutorials, references, and other types — and under what circumstances each type is useful.
 
 - Using search engines effectively
 
@@ -72,7 +66,7 @@ These strategies include:
 
   - Choose recommended sites, such as [Stack Overflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org).
 
-  - Check the dates on articles, and consider whether the techniques discussed are out-of-date. For example, does an article on CSS layout talk about modern approaches like grid and flexbox, or does it still present obsolete techniques like multicolumn layouts with floats? Does it still talk about really out of date topics like hacks for deprecated browsers like Internet Explorer or Netscape 4?
+  - Check the dates on articles, and consider whether the techniques discussed are out-of-date. For example, does an article on CSS layout talk about modern approaches like grid and flexbox, or does it still present obsolete techniques like multicolumn layouts with floats? Does it still talk about really out-of-date topics like hacks for deprecated browsers like Internet Explorer or Netscape 4?
 
 - Using social media effectively
 
@@ -110,17 +104,13 @@ These strategies include:
 
   - Set a goal for the session, for example, "try to find a solution to the highest priority issue"; solving the biggest issue may also lead to a fix for other issues.
 
-- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism
+- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism (see also [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/)).
 
-  - See also [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/)
+- Using AI to help with coding issues (for example [ChatGPT](https://openai.com/blog/chatgpt) or [GitHub Copilot](https://resources.github.com/copilot-for-business/)). You should use AI tools with caution, and familiarize yourself with their strengths and weaknesses.
 
-- Using AI to help with coding issues ([ChatGPT](https://openai.com/blog/chatgpt), [GitHub Copilot](https://resources.github.com/copilot-for-business/))
+  - On the plus side, they can speed up research/searches enormously, and help with structuring code and copy.
 
-  - You should use AI tools with caution, and familiarize yourself with their strengths and weaknesses.
-
-    - On the plus side, they can speed up research/searches enormously, and help with structuring code and copy.
-
-    - On the other hand, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
+  - On the other hand, AI tools have no reasoning skills and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 
 - See also [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) on MDN
 
@@ -148,9 +138,9 @@ Recommendations:
 
 - Help each other, rather than, for example, waiting for a teacher to come around and help everyone in a classroom situation. The less able students will get help more quickly, and the more able students will become mentors and experience the satisfaction that it brings.
 
-- Observe and learn from other experienced folks how to engage in discussions as well as how to approach problem solving/debugging.
+- Observe and learn from other experienced folks how to engage in discussions as well as how to approach problem-solving/debugging.
 
-- Join an open source project to practice the skills you learn, engage with folks in the community, and learn from observing others (see [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) for useful information).
+- Join an open-source project to practice the skills you learn, engage with folks in the community, and learn from observing others (see [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) for useful information).
 
 ## Doing well in a technical job interview
 
@@ -190,7 +180,7 @@ Recommendations:
 
   - Positive attitude, respectful, empathic, constructive
 
-  - Open minded, works well in a diverse team with diverse viewpoints
+  - Open-minded, works well in a diverse team with diverse viewpoints
 
   - Graceful when a decision does not go their way, able to align for the greater good
 
@@ -216,7 +206,7 @@ An important aspect of technical projects that beginners often miss out on is an
 
 ## Grasp of relevant contextual information
 
-While not essential for understanding the technical topics listed in the curriculum, there is a range of contextual information that can help gain a well rounded and flexible perspective.
+While not essential for understanding the technical topics listed in the curriculum, there is a range of contextual information that can help gain a well-rounded and flexible perspective.
 
 Recommendations:
 

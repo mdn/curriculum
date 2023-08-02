@@ -4,7 +4,7 @@ Learning outcomes:
 
 - Basic styling of easy-to-style form elements, like `<input type="text">`.
 
-- Using CSS resets to overcome `<input>` font styling inheritance and box styling default differences .
+- Using CSS resets to overcome `<input>` font styling inheritance and box styling default differences.
 
 - Understand that not all form elements are easy to style, and why.
 
@@ -12,9 +12,9 @@ Learning outcomes:
 
   - More complex form elements have internal (shadow DOM) elements that define the structure of their inner workings. These are often impossible to access and style individually.
 
-- Using appearance: none to work around system styling for `<input>` types like search, checkbox, and radio.
+- Using `appearance: none` to work around system styling for `<input>` types like `search`, `checkbox`, and `radio`.
 
-- Mitigating issues with difficult-to-style types such as datetime-local, color, etc.
+- Mitigating issues with difficult-to-style types such as `datetime-local`, `color`, etc.
 
 Resources:
 

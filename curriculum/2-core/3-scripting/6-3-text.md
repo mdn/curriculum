@@ -16,21 +16,21 @@ Learning outcomes:
 
   - Multiline template literals
 
-- String manipulation using common properties and methods, such as
+- String manipulation using common properties and methods such as
 
-  - length
+  - `length`
 
-  - toString()
+  - `toString()`
 
-  - includes()
+  - `includes()`
 
-  - indexOf()
+  - `indexOf()`
 
-  - slice()
+  - `slice()`
 
-  - toLowerCase() and toUpperCase()
+  - `toLowerCase()` and `toUpperCase()`
 
-  - replace()
+  - `replace()`
 
 Resources:
 

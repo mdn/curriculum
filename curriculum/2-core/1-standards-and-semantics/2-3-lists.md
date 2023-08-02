@@ -2,9 +2,9 @@
 
 Learning outcomes:
 
-- The HTML structure for the three types of list — unordered, ordered, and description
+- The HTML structure for the three types of lists — unordered, ordered, and description
 
-  - Understand that description lists are less commonly-used than the other two types, with use cases mainly in areas such as academia and documentation.
+  - Understand that description lists are less commonly used than the other two types, with use cases mainly in areas such as academia and documentation.
 
 - The correct usage for each list type
 

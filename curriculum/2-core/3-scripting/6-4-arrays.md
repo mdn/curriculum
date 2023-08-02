@@ -4,23 +4,23 @@ Learning outcomes:
 
 - Understand what an array is — a structure that holds a list of variables.
 
-- The syntax of arrays — \[a, b, c\] and the accessor syntax, myArray\[x\].
+- The syntax of arrays — `[a, b, c]` and the accessor syntax, `myArray[x]`.
 
-- Modifying array values with myArray\[x\] = y.
+- Modifying array values with `myArray[x] = y`.
 
 - Array manipulation using common properties and methods, such as:
 
-  - length
+  - `length`
 
-  - indexOf()
+  - `indexOf()`
 
-  - push() and pop()
+  - `push()` and `pop()`
 
-  - shift() and unshift()
+  - `shift()` and `unshift()`
 
-  - join() and split()
+  - `join()` and `split()`
 
-- Advanced array methods such as forEach(), map(), and filter().
+- Advanced array methods such as `forEach()`, `map()`, and `filter()`.
 
 Resources:
 

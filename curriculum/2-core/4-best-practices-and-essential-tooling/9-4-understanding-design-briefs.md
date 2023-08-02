@@ -6,4 +6,4 @@ Learning outcomes:
 
 - Interpreting design brief requirements to produce an implementation
 
-- Typical tools designers will use get their message across to developers (e.g. Figma)
+- Typical tools designers use to get their message across to developers (e.g. Figma)

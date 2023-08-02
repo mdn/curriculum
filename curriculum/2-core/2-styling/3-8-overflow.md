@@ -4,7 +4,7 @@ Learning outcomes:
 
 - Understand what overflow is
 
-- Control overflow with overflow\* properties
+- Control overflow with `overflow` properties
 
 Resources:
 

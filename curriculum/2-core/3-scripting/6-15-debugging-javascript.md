@@ -2,21 +2,21 @@
 
 Learning outcomes:
 
-- Understand the different types of JavaScript errors — syntax errors, logic errors.
+- Understand the different types of JavaScript errors — syntax errors and logic errors.
 
 - Learn about the common types of JavaScript error messages, and what they mean.
 
 - Use browser developer tools to inspect the JavaScript running on your page and see what errors it is generating.
 
-- Using console.log and console.error for simple debugging.
+- Using `console.log()` and `console.error()` for simple debugging.
 
 - Error handling
 
   - Using conditionals to avoid errors
 
-  - try … catch
+  - `try ... catch`
 
-  - throw
+  - `throw`
 
 - Advanced JavaScript debugging with breakpoints, watchers, etc.
 

@@ -10,13 +10,13 @@ Learning outcomes:
 
   - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>`, `<b>`).
 
-- The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's CSS's job).
+- The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's a job for CSS).
 
 - SEO benefits: for example, keywords are boosted in headings.
 
 - Accessibility benefits: Assistive Technology (AT) such as screen readers use headings and landmarks as signposts to navigate content. HTML documents are very difficult for Assistive Technology users to use without headings.
 
-- That HTML needs to be correctly nested. If not, the browser has to take a guess at what you meant your structure to be, and it might not be what you wanted.
+- That HTML needs to be correctly nested. If not, the browser has to guess what you meant your structure to be, and it might not be what you wanted.
 
 - Validating your markup using the [HTML validator](https://validator.w3.org/) or another similar tool (for example, view source in Firefox highlights validation errors with a dotted red underline).
 

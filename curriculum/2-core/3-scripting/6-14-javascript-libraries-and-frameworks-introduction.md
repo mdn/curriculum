@@ -2,9 +2,9 @@
 
 Learning outcomes:
 
-- Understand what third party code is — code written by someone else that you can add to your own project, so you don't have to write everything yourself.
+- Understand what third-party code is — code written by someone else that you can add to your own project, so you don't have to write everything yourself.
 
-- Why developers use third party code:
+- Why developers use third-party code:
 
   - Efficiency and productivity: A huge amount of complex functionality is already written for you to use, created in a way that enforces efficient, modular code organization.
 
@@ -14,7 +14,7 @@ Learning outcomes:
 
 - The difference between libraries and frameworks:
 
-  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate in your own application (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
+  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate into your own application (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
 
   - A library tends to be unopinionated about how you work with it in your codebase, whereas a framework tends to enforce a specific coding style and control flow.
 
@@ -36,7 +36,7 @@ Learning outcomes:
 
   - It must solve the problems your codebase must solve, and offer advantages that significantly outweigh any negatives that it brings to the table.
 
-  - It must have good support, and a friendly community.
+  - It must have good support and a friendly community.
 
   - It must be actively maintained — don't choose a codebase that has not been updated for over a year, or has no users.
 

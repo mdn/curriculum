@@ -6,25 +6,25 @@ Learning outcomes:
 
 - Understand that callbacks and events have historically provided the means to do asynchronous programming in JavaScript
 
-- Modern asynchronous programming with async functions and await
+- Modern asynchronous programming with async functions and `await`
 
   - Basic usage
 
   - Understanding async function return values
 
-  - Error handling with try/catch
+  - Error handling with `try`/`catch`
 
 - Promises
 
-  - Understand that async/await use promises under the hood; they provide a simpler abstraction
+  - Understand that `async`/`await` use promises under the hood; they provide a simpler abstraction
 
   - Chaining promises
 
   - Catching errors
 
-  - all(), any(), finally()
+  - `all()`, `any()`, `finally()`
 
-  - Understand the cases in which you'd still use promises rather than async/await
+  - Understand the cases in which you'd still use promises rather than `async`/`await`
 
 Resources:
 

@@ -4,11 +4,11 @@ Learning outcomes:
 
 - Clients and servers and their roles in the web
 
-- DNS and how it works (at a high level)
+- DNS and how it works at a high level
 
 - TCP/IP and HTTP
 
-- HTTP syntax (at a basic level)
+- HTTP syntax at a basic level
 
 - Common HTTP response codes
 

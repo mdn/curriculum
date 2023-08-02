@@ -14,7 +14,7 @@ Learning outcomes:
 
   - A good example is client-side validation of form inputs
 
-- Be mindful of avoiding mouse-specific events that lock out keyboard or touch screen users, for example mouseover, mouseout, dblclick, and hover.
+- Be mindful of avoiding mouse-specific events that lock out keyboard or touch-screen users, for example, `mouseover`, `mouseout`, `dblclick`, and `hover`.
 
 - Use touch/pointer events to handle alternative pointing devices and mobile interfaces.
 

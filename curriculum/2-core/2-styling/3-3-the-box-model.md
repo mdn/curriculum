@@ -8,11 +8,11 @@ Learning outcomes:
 
 - The different boxes that make up an element — margin, border, padding, and content — and how to style them
 
-- The alternative box model accessed via box-sizing: border-box, and why this is easier to understand (and how it differs from) the standard box model
+- The alternative box model accessed via `box-sizing: border-box`, and why this is easier to understand (and how it differs from) the standard box model
 
 - Margin collapsing
 
-- Basic display values, and how they affect box behavior — block, inline, inline-block, none
+- Basic display values, and how they affect box behavior — `block`, `inline`, `inline-block`, `none`
 
 Resources:
 

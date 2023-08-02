@@ -28,15 +28,15 @@ Resources:
 
 - Standard folder structure
 
-- File naming best practices for the web — no spaces, lower case, choosing a reasonable separator like a hyphen or underscore.
+- File naming best practices for the web — no spaces, lowercase, choosing a reasonable separator like a hyphen or underscore.
 
 - Basic file organization best practices
 
-- Creating, moving, and deleting files and folders using explorer/finder
+- Creating, moving, and deleting files and folders using Explorer/Finder
 
 - Searching for files and folders
 
-- Dealing with file extensions (e.g. turning off "Hide extensions for known file types" in windows, showing dot files (.env, etc.))
+- Dealing with file extensions (e.g. turning off "Hide extensions for known file types" in Windows, showing dot files (`.env`, etc.))
 
 - Learning how file types are associated with applications
 
@@ -72,7 +72,7 @@ Resources:
 
 - Shortcuts (e.g. up arrow to access prev commands, tab for autocomplete)
 
-- Basic commands (e.g. cd, ls, mkdir, touch, grep, cat, mv, cp)
+- Basic commands (e.g. `cd`, `ls`, `mkdir`, `touch`, `grep`, `cat`, `mv`, `cp`)
 
 - Command options/flags
 
@@ -90,9 +90,9 @@ Resources:
 
 - Learn what code editors are available and what is suitable for your purposes
 
-  - Binary file editors like Microsoft Word are no good for editing code. You need something that cleanly handles and outputs plain text.
+  - Binary file editors like Microsoft Word are unsuitable for editing code. You need something that cleanly handles and outputs plain text.
 
-  - Default OS plain text editors can be OK, for example TextEdit on macOS, or Notepad on Windows, but they can also have limitations.
+  - Default OS plain text editors can be OK, for example, TextEdit on macOS, or Notepad on Windows, but they can also have limitations.
 
   - You are better off with a fully-fledged code editor like [VSCode](https://code.visualstudio.com/) (multiplatform), [Sublime Text](https://www.sublimetext.com/) (multiplatform, not free) or [Notepad++](https://notepad-plus-plus.org/) (Windows).
 
@@ -126,4 +126,4 @@ Resources:
 
     - This can include AI-powered code suggestion tools such as GitHub Copilot
 
-      - Be aware that, while useful, AI tools have no reasoning skills, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
+      - Be aware that, while useful, AI tools have no reasoning skill, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.

@@ -18,7 +18,7 @@ Learning outcomes:
 
   - Large text or braille keyboards
 
-  - Alternative pointing devices such as trackballs, joysticks, touchpads
+  - Alternative pointing devices such as trackballs, joysticks, and touchpads
 
   - Screen magnifiers
 

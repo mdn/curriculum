@@ -32,7 +32,7 @@ Learning outcomes:
 
   - Don't use idioms or slang in your writing, as they make text harder to understand for an international audience, and harder to translate.
 
-  - Long sentences and long paragraphs made copy difficult to read. Break them up.
+  - Long sentences and long paragraphs make copy difficult to read. Break them up.
 
 Resources:
 

@@ -4,17 +4,17 @@ Learning outcomes:
 
 - Understand why links are the fundamental feature of the web. There is no web without links.
 
-- The href attribute
+- The `href` attribute
 
 - Absolute and relative paths, and when to use them
 
 - Path syntax in detail — slashes, single dot, and double dot
 
-- Link states and why they are important — hover, focus, visited, active
+- Link states and why they are important — `:hover`, `:focus`, `:visited`, `:active`
 
 - Inline and block-level links
 
-- When to use title attributes
+- When to use `title` attributes
 
 - Writing good link text
 

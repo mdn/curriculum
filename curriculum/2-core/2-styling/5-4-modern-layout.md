@@ -1,14 +1,14 @@
 ### 5.4 Modern layout
 
-Learning outcome: Gain understanding of modern CSS layout techniques:
+Learning outcome: Gain an understanding of modern CSS layout techniques:
 
 - Flexbox
 
   - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension
 
-  - Understand flex terminology — flex container, flex item, main axis, cross axis.
+  - Understand flex terminology — flex container, flex item, main axis, cross axis
 
-  - display: flex, and what it gives you by default
+  - `display: flex`, and what it gives you by default
 
   - Rows or columns
 
@@ -26,13 +26,13 @@ Learning outcome: Gain understanding of modern CSS layout techniques:
 
   - Understand grid terminology — rows, columns, gaps, gutters
 
-  - display: grid, and what it gives you by default
+  - `display: grid`, and what it gives you by default
 
   - Defining grid rows and columns
 
-    - The fr unit
+    - The `fr` unit
 
-    - minmax()
+    - `minmax()`
 
   - Defining gaps
 

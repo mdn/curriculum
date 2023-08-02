@@ -4,9 +4,9 @@ Learning outcomes:
 
 - Text sizing and layout.
 
-  - Make sure your text is well laid out, consistent and legible
+  - Make sure your text is well laid out, consistent, and legible
 
-  - Consider providing large type interfaces for those with visual impairments
+  - Consider providing large-type interfaces for those with visual impairments
 
   - See also [4.1 Text and font styling](../2-styling/4-1-text-and-font-styling.md)
 
@@ -14,9 +14,9 @@ Learning outcomes:
 
   - Use an online tool such as WebAIM's [Color Contrast Checker](https://webaim.org/resources/contrastchecker/) or [TPGi Colour Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/) to check whether your color contrast conforms to the relevant WCAG conformance criteria
 
-  - Be mindful of those with color blindness or visual impairments, provide high contrast modes to suit
+  - Be mindful of those with color blindness or visual impairments; provide high-contrast modes to suit
 
-- :focus and :hover styles.
+- `:focus` and `:hover` styles.
 
   - These are important as cues for keyboard users
 
@@ -26,11 +26,11 @@ Learning outcomes:
 
   - Consider the needs of those with certain cognitive disabilities
 
-  - The prefers-reduced-motion media query was created to help with this
+  - The `prefers-reduced-motion` media query was created to help with this
 
 - Good practices for hiding content so that it doesn't become inaccessible.
 
-  - For example display: none makes content unreadable by screen readers. Use it carefully
+  - For example `display: none` makes content unreadable by screen readers. Use it carefully
 
 Resources:
 
