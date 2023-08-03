@@ -39,7 +39,9 @@ This resource is free for anyone to use. If you find the curriculum useful, we r
 
 2. Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
 
-3. Give us feedback. If you have any suggestions for how the resource could be improved, or want to help out with it, we would love to hear from you. Email us at \`xxxxx.xxxxx@com\`.
+3. Give us feedback. If you have any suggestions for how the resource could be improved, or want to help out with it, we would love to hear from you. Email us at `xxxxx.xxxxx@com`.
+
+<!-- TODO: Add final email address before publishing curriculum. -->
 
 Mozilla is dedicated to helping improve the quality of web developer education, in turn, creating a better web for us all. This curriculum embodies the values we think the web should have — accessibility, sustainability, usability, performance, and community. We would love educators, developers, and students to champion these values by using this resource and carrying these values forward in their work, in their teachings, and in the products they build.
 
