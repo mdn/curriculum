@@ -28,6 +28,7 @@
     "strong-style": {
       "style": "asterisk"
     },
+    "first-line-heading": false,
 
     // https://github.com/OnkarRuikar/markdownlint-rule-search-replace
     "search-replace": {
