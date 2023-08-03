@@ -1,0 +1,28 @@
+name: "Topic coverage"
+description: Provide feedback on specific topic coverage (e.g. HTML, CSS, JavaScript), including missing topics and requests for changes to existing coverage.
+labels: ["topics"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in a description of your topic feedback in the title field above
+        ---
+  - type: input
+    id: topic
+    attributes:
+      label: Module number
+      description: Fill in the specific module (subsection) number that your feedback concerns
+      placeholder: e.g. 2.1 How the web works
+  - type: textarea
+    id: problem
+    attributes:
+      label: Please describe your issue
+      description: This section should include a clear and concise description of what you feel is missing or wrong.
+      placeholder: e.g. I think HTML foobar needs more coverage...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like to see
+      description: This section should include a description of the changes you'll like to see made to the curriculum to fix the issue as you see it.
