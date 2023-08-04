@@ -20,7 +20,7 @@ We believe the curriculum is useful to several different groups of people, from 
 We have structured the curriculum as follows:
 
 - [Precursor knowledge](/curriculum/1-precursor): Topics that are not, strictly-speaking, web development topics but do constitute useful topics for anyone wanting to learn front-end web development. This includes soft skills and knowledge of a typical development environment.
-- [Core modules](/curriculum/2-core): Topics that we feel every web developer should have a good grounding in. This includes all the information they need to design and build a basic, accessible web site/app that follows modern best practices, and manage and deploy their code using a tool like GitHub.
+- [Core modules](/curriculum/2-core): Topics that we feel every web developer should have a good grounding in. This includes all the information they need to design and build a basic, accessible website/app that follows modern best practices, and manage and deploy their code using a tool like GitHub.
 - [Optional extension modules](/curriculum/3-extensions): These "extension" topics constitute useful additional skills to learn as web developers start to expand their knowledge and develop specialisms.
 
 Head over to each section and then use the sidebar to explore all the different sub-topics contained within.
