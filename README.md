@@ -1,6 +1,6 @@
 # Welcome to the MDN front-end developer curriculum
 
-The MDN front-end developer curriculum is intended to provide an up-to-date industry recommendation for the key fundamental skills and knowledge that a front-end web developer should have. This repository has been created to give the web community an understanding of the curriculum's purpose and target audience, an early preview of its content, and a chance to give [feedback](#providing-feedback) on it. Please let us know what you think!
+The MDN front-end developer curriculum is intended to provide an up-to-date industry recommendation for the key fundamental skills and knowledge that a front-end web developer should have, including the mindset and attitude required for securing a job and for long-term success in this field. This repository has been created to give the web community an understanding of the curriculum's purpose and target audience, an early preview of its content, and a chance to give [feedback](#providing-feedback) on it. Please let us know what you think!
 
 ## Rationale
 
