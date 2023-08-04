@@ -30,4 +30,4 @@ Head over to each section and then use the sidebar to explore all the different 
 We would love to hear your feedback regarding our curriculum. To do so, please open an issue — [leave your feedback under General feedback or Topic coverage](https://github.com/mdn/curriculum/issues/new/choose). When doing so, think about the following questions:
 
 - Does our curriculum contain all the fundamental knowledge a front-end web developer needs? If not, what topics are we missing? We are interested in high-level concerns (for example, "this whole area is missing") as well as lower-level feedback (for example, specific CSS or JavaScript topic omissions).
-- Do you think the curriculum is helpful to its key target audiences, for example students wanting to learn front-end development, and teachers wishing to create courses on it? If not, why not?
+- Do you think the curriculum is helpful to its key target audiences, for example students wanting to learn front-end development and teachers wishing to create courses on it? If not, why not?
