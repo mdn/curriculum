@@ -29,3 +29,8 @@ Resources:
 - [Getting started with HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+---
+
+[Previous: 2 Semantic HTML](/curriculum/2-core/1-standards-and-semantics/2-0-semantic-html.md) | [Next: 2.2 Good document structure](/curriculum/2-core/1-standards-and-semantics/2-2-good-document-structure.md)
+[Table of contents](/TOC.md)

@@ -45,3 +45,8 @@ Resources:
 > **Notes:**
 >
 > - It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
+
+---
+
+[Previous: 2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [2.5 Links](/curriculum/2-core/1-standards-and-semantics/2-5-links.md)
+[Table of contents](/TOC.md)

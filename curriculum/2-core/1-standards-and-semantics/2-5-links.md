@@ -23,3 +23,8 @@ Learning outcomes:
 Resources:
 
 - [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+
+---
+
+[Previous: 2.4 Advanced text techniques](/curriculum/2-core/1-standards-and-semantics/2-4-advanced-text-techniques.md) | [Next: 2.6 Media](/curriculum/2-core/1-standards-and-semantics/2-6-media.md)
+[Table of contents](/TOC.md)
