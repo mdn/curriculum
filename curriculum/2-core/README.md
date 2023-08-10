@@ -22,5 +22,4 @@ The core modules include the topics that we feel every web developer should have
 
 ---
 
-[Previous: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Next: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md)
-[Table of contents](/TOC.md)
+[Previous: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Next: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md) | [Table of contents](/TOC.md)

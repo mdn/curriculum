@@ -9,5 +9,4 @@ The topics outlined in this section are not web development topics, but they do 
 
 ---
 
-[Next: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md)
-[Table of contents](/TOC.md)
+[Previous: Introduction](/curriculum) | [Next: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Table of contents](/TOC.md)

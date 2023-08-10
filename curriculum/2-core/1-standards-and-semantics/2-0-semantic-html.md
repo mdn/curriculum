@@ -8,5 +8,4 @@ General resources:
 
 ---
 
-[Previous: 1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md) | [Next: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md)
-[Table of contents](/TOC.md)
+[Previous: 1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md) | [Next: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md) | [Table of contents](/TOC.md)

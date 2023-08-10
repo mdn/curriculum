@@ -226,5 +226,4 @@ Recommendations:
 
 ---
 
-[Previous: Precursor knowledge](/curriculum/1-precursor) | [Next: Environment knowledge](/curriculum/1-precursor/2-environment.md)
-[Table of contents](/TOC.md)
+[Previous: Precursor knowledge](/curriculum/1-precursor) | [Next: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Table of contents](/TOC.md)

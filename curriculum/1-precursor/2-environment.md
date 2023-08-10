@@ -130,5 +130,4 @@ Resources:
 
 ---
 
-[Previous: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Next: Core modules](/curriculum/2-core)
-[Table of contents](/TOC.md)
+[Previous: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Next: Core modules](/curriculum/2-core) | [Table of contents](/TOC.md)

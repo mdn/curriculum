@@ -44,5 +44,4 @@ Resources:
 
 ---
 
-[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md)
-[Table of contents](/TOC.md)
+[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md) | [Table of contents](/TOC.md)

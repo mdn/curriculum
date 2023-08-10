@@ -8,5 +8,4 @@ General resources:
 
 ---
 
-[Previous: Core modules](/curriculum/2-core) | [Next: 1.1 How the web works](/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md)
-[Table of contents](/TOC.md)
+[Previous: Core modules](/curriculum/2-core) | [Next: 1.1 How the web works](/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md) | [Table of contents](/TOC.md)
