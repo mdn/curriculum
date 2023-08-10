@@ -1,5 +1,7 @@
 # Extension 8 CSS tooling
 
+Tooling is not just confined to JavaScript frameworks. There are also common CSS tooling types that you'll encounter on your learning journey.
+
 ## 8.1 CSS frameworks
 
 Learning outcomes:
@@ -37,3 +39,7 @@ Learning outcomes:
 >
 > - Whatever preprocessor your course or learning includes, the tool's site should include information on the basics of using it.
 > - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.
+
+---
+
+[Previous: Extension 7 A practical understanding of JavaScript frameworks](/curriculum/3-extensions/7-a-practical-understanding-of-javascript-frameworks.md) | [Next: Extension 9 Other tooling types](/curriculum/3-extensions/9-other-tooling-types.md) | [Table of contents](/TOC.md)

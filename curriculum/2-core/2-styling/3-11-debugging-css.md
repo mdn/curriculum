@@ -25,3 +25,7 @@ Resources:
 - [Firefox > Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode)
 
 - [Chrome > CSS DevTools docs](https://developer.chrome.com/docs/devtools/css/)
+
+---
+
+[Previous: 3.10 Styling form elements](/curriculum/2-core/2-styling/3-10-styling-form-elements.md) | [Next: 4 CSS text styling](/curriculum/2-core/2-styling/4-0-css-text-styling.md) | [Table of contents](/TOC.md)

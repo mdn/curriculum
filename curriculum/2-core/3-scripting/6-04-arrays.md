@@ -25,3 +25,7 @@ Learning outcomes:
 Resources:
 
 - [Arrays](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Arrays)
+
+---
+
+[Previous: 6.3 Text](/curriculum/2-core/3-scripting/6-03-text.md) | [Next: 6.5 Conditionals](/curriculum/2-core/3-scripting/6-05-conditionals.md) | [Table of contents](/TOC.md)

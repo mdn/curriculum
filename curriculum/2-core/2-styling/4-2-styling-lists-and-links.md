@@ -23,3 +23,7 @@ Resources:
 - [Styling lists](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Styling_lists)
 
 - [Styling links](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Styling_links)
+
+---
+
+[Previous: 4.1 Text and font styling](/curriculum/2-core/2-styling/4-1-text-and-font-styling.md) | [Next: 4.3 Web fonts](/curriculum/2-core/2-styling/4-3-web-fonts.md) | [Table of contents](/TOC.md)

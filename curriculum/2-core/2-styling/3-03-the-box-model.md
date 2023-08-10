@@ -17,3 +17,7 @@ Learning outcomes:
 Resources:
 
 - [The box model](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/The_box_model)
+
+---
+
+[Previous: 3.2 Selectors and combinators](/curriculum/2-core/2-styling/3-02-selectors-and-combinators.md) | [Next: 3.4 Cascade, specificity, and inheritance](/curriculum/2-core/2-styling/3-04-cascade-specificity-and-inheritance.md) | [Table of contents](/TOC.md)

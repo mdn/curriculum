@@ -21,3 +21,7 @@ General resources:
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
 - [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
+
+---
+
+[Previous: 8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md) | [Next: 9.1 Accessibility basics](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md) | [Table of contents](/TOC.md)

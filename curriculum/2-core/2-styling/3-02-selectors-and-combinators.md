@@ -21,3 +21,7 @@ Learning outcomes:
 Resources:
 
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+
+---
+
+[Previous: 3.1 Basic CSS syntax](/curriculum/2-core/2-styling/3-01-basic-css-syntax.md) | [Next: 3.3 The box model](/curriculum/2-core/2-styling/3-03-the-box-model.md) | [Table of contents](/TOC.md)

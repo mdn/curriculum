@@ -21,3 +21,7 @@
 Resources:
 
 - [Fetching data from the server](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+
+---
+
+[Previous: 6.11 Asynchronous JavaScript fundamentals](/curriculum/2-core/3-scripting/6-11-asynchronous-javascript-fundamentals.md) | [Next: 6.13 Working with JSON](/curriculum/2-core/3-scripting/6-13-working-with-json.md) | [Table of contents](/TOC.md)

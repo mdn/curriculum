@@ -19,3 +19,7 @@ Learning outcomes:
 Resources:
 
 - [Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+
+---
+
+[Previous: 3.3 The box model](/curriculum/2-core/2-styling/3-03-the-box-model.md) | [Next: 3.5 Values and units](/curriculum/2-core/2-styling/3-05-values-and-units.md) | [Table of contents](/TOC.md)

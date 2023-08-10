@@ -37,3 +37,7 @@ Resources:
 - [What is CSS?](https://developer.mozilla.org/docs/Learn/CSS/First_steps/What_is_CSS)
 
 - [CSS first steps overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
+---
+
+[Previous: 3 CSS fundamentals](/curriculum/2-core/2-styling/3-00-css-fundamentals.md) | [Next: 3.2 Selectors and combinators](/curriculum/2-core/2-styling/3-02-selectors-and-combinators.md) | [Table of contents](/TOC.md)

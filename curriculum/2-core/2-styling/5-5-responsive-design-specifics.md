@@ -25,3 +25,7 @@ Resources:
 - [Responsive design](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 - [Beginner's guide to media queries](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Media_queries)
+
+---
+
+[Previous: 5.4 Modern layout](/curriculum/2-core/2-styling/5-4-modern-layout.md) | [Next: 6 JavaScript fundamentals](/curriculum/2-core/3-scripting/6-00-javascript-fundamentals.md) | [Table of contents](/TOC.md)

@@ -1,5 +1,7 @@
 # Extension 7 A practical understanding of JavaScript frameworks
 
+JavaScript frameworks are commonly used to build web applications, so it is beneficial to learn about common frameworks and use cases (as listed below) for employment prospects.
+
 Learning outcomes:
 
 - Understand how to start using frameworks:
@@ -76,3 +78,7 @@ Resources:
 > - Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [6 JavaScript fundamentals](../2-core/3-scripting/6-0-javascript-fundamentals.md)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
 > - Students are strongly encouraged to start building apps with 2-3 popular frameworks to get a practical understanding of how they do things and idea of the differences between them.
 > - Advanced and/or framework-specific features can be learned as part of the student's constant learning.
+
+---
+
+[Previous: Extension 6 Testing](/curriculum/3-extensions/6-testing.md) | [Next: Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md) | [Table of contents](/TOC.md)

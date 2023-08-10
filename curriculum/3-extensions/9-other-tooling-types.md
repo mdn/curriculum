@@ -37,3 +37,7 @@ Learning outcomes — understand the purpose and basic usage of other common too
 > **Notes:**
 >
 > - Passing this set of criteria doesn't require having an in-depth knowledge of the tools listed above; instead, students are encouraged to learn the basic concepts of why and how they are used (and where in a web app project), test them out, and play with usage examples.
+
+---
+
+[Previous: Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md) | [Table of contents](/TOC.md)

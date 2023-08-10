@@ -43,3 +43,7 @@ Resources:
 - [Flexbox](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Flexbox)
 
 - [Grids](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Grids)
+
+---
+
+[Previous: 5.3 Positioning](/curriculum/2-core/2-styling/5-3-positioning.md) | [Next: 5.5 Responsive design specifics](/curriculum/2-core/2-styling/5-5-responsive-design-specifics.md) | [Table of contents](/TOC.md)

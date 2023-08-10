@@ -33,3 +33,7 @@ Resources:
 - [Positioning](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Positioning)
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
+
+---
+
+[Previous: 5.2 Floats](/curriculum/2-core/2-styling/5-2-floats.md) | [Next: 5.4 Modern layout](/curriculum/2-core/2-styling/5-4-modern-layout.md) | [Table of contents](/TOC.md)

@@ -39,3 +39,7 @@ Resources:
 - [Inclusive design principles](https://inclusivedesignprinciples.org/)
 
 - [Mozilla Accessibility design guide](https://wiki.mozilla.org/Accessibility/Design_Guide), which includes guidelines on design when in high contrast mode
+
+---
+
+[Previous: 7.1 Accessibility basics](/curriculum/2-core/4-best-practices-and-essential-tooling/7-1-accessibility-basics.md) | [Next: 7.3 Accessible JavaScript](/curriculum/2-core/4-best-practices-and-essential-tooling/7-3-accessible-javascript.md) | [Table of contents](/TOC.md)
