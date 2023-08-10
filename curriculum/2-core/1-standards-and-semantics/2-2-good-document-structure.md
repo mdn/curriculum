@@ -33,4 +33,4 @@ Resources:
 
 ---
 
-[Previous: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md) | [2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [Table of contents](/TOC.md)
+[Previous: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md) | [Next: 2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [Table of contents](/TOC.md)

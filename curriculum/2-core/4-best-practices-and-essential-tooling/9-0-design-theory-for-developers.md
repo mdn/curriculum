@@ -24,4 +24,4 @@ General resources:
 
 ---
 
-[Previous: 8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md) | [Next: 9.1 Accessibility basics](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md) | [Table of contents](/TOC.md)
+[Previous: 8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md) | [Next: 9.1 Basic design theory](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md) | [Table of contents](/TOC.md)

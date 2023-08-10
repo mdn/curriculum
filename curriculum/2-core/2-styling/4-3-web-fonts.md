@@ -24,4 +24,4 @@ Resources:
 
 ---
 
-[4.2 Styling lists and links](/curriculum/2-core/2-styling/4-2-styling-lists-and-links.md) | [Next: 5 CSS layout](/curriculum/2-core/2-styling/5-0-css-layout.md) | [Table of contents](/TOC.md)
+[Previous: 4.2 Styling lists and links](/curriculum/2-core/2-styling/4-2-styling-lists-and-links.md) | [Next: 5 CSS layout](/curriculum/2-core/2-styling/5-0-css-layout.md) | [Table of contents](/TOC.md)

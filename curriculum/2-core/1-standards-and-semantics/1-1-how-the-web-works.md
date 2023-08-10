@@ -33,4 +33,4 @@ Resources:
 
 ---
 
-[Previous: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md) | [1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Table of contents](/TOC.md)
+[Previous: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md) | [Next: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Table of contents](/TOC.md)

@@ -22,4 +22,4 @@ Resources:
 
 ---
 
-[Previous: 2.8 HTML tables](/curriculum/2-core/1-standards-and-semantics/2-8-html-tables.md) | [3 CSS fundamentals](/curriculum/2-core/2-styling/3-00-css-fundamentals.md) | [Table of contents](/TOC.md)
+[Previous: 2.8 HTML tables](/curriculum/2-core/1-standards-and-semantics/2-8-html-tables.md) | [Next: 3 CSS fundamentals](/curriculum/2-core/2-styling/3-00-css-fundamentals.md) | [Table of contents](/TOC.md)

@@ -48,4 +48,4 @@ Resources:
 
 ---
 
-[Previous: 2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [2.5 Links](/curriculum/2-core/1-standards-and-semantics/2-5-links.md) | [Table of contents](/TOC.md)
+[Previous: 2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [Next: 2.5 Links](/curriculum/2-core/1-standards-and-semantics/2-5-links.md) | [Table of contents](/TOC.md)
