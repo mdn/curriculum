@@ -69,7 +69,7 @@ The core modules include the topics that we feel every web developer should have
   - [9.2 User-centered design](/curriculum/2-core/4-best-practices-and-essential-tooling/9-2-user-centered-design.md)
   - [9.3 Common UI design patterns](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-common-ui-design-patterns.md)
   - [9.4 Understanding design briefs](/curriculum/2-core/4-best-practices-and-essential-tooling/9-4-understanding-design-briefs.md)
-  
+
 ---
 
 [Previous: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Next: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md) | [Table of contents](/TOC.md)

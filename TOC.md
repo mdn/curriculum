@@ -92,4 +92,3 @@
 - [Extension 7 A practical understanding of JavaScript frameworks](/curriculum/3-extensions/7-a-practical-understanding-of-javascript-frameworks.md): JavaScript frameworks are commonly used to build web applications, so it is beneficial to learn about common frameworks and use cases (as listed below) for employment prospects.
 - [Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md): Tooling is not just confined to JavaScript frameworks. There are also common CSS tooling types that you'll encounter on your learning journey.
 - [Extension 9 Other tooling types](/curriculum/3-extensions/9-other-tooling-types.md): There are other types of tooling that you'll commonly encounter on a web project. This module aims to provide a useful list to research.
-
