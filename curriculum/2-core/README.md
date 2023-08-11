@@ -65,7 +65,7 @@ The core modules include the topics that we feel every web developer should have
   - [7.5 WAI-ARIA](/curriculum/2-core/4-best-practices-and-essential-tooling/7-5-wai-aria.md)
 - [8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md): Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
 - [9 Design theory for developers](/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
-  - [9.1 Accessibility basics](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md)
+  - [9.1 Basic design theory](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md)
   - [9.2 User-centered design](/curriculum/2-core/4-best-practices-and-essential-tooling/9-2-user-centered-design.md)
   - [9.3 Common UI design patterns](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-common-ui-design-patterns.md)
   - [9.4 Understanding design briefs](/curriculum/2-core/4-best-practices-and-essential-tooling/9-4-understanding-design-briefs.md)
