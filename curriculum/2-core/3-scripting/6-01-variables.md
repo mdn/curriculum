@@ -21,3 +21,7 @@ Learning outcomes:
 Resources:
 
 - [Storing the information you need — Variables](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Variables)
+
+---
+
+[Previous: 6 JavaScript fundamentals](/curriculum/2-core/3-scripting/6-00-javascript-fundamentals.md) | [Next: 6.2 Math](/curriculum/2-core/3-scripting/6-02-math.md) | [Table of contents](/TOC.md)

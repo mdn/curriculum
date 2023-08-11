@@ -47,3 +47,7 @@ Resources:
 - [Handling common accessibility problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
 
 - [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
+
+---
+
+[Previous: 7 Accessibility](/curriculum/2-core/4-best-practices-and-essential-tooling/7-0-accessibility.md) | [Next: 7.2 Accessible styling](/curriculum/2-core/4-best-practices-and-essential-tooling/7-2-accessible-styling.md) | [Table of contents](/TOC.md)

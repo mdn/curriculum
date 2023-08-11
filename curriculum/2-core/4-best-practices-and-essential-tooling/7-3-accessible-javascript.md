@@ -25,3 +25,7 @@ Resources:
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
 - [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/)
+
+---
+
+[Previous: 7.2 Accessible styling](/curriculum/2-core/4-best-practices-and-essential-tooling/7-2-accessible-styling.md) | [Next: 7.4 Assistive technology and testing](/curriculum/2-core/4-best-practices-and-essential-tooling/7-4-assistive-technology-and-testing.md) | [Table of contents](/TOC.md)

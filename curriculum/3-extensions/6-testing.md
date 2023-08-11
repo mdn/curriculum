@@ -1,5 +1,7 @@
 # Extension 6 Testing
 
+Any codebase past a certain level of complexity needs to have a system of tests associated with it, to make sure that as new code is added, the codebase continues to function correctly and performantly, and continues to meet the users' needs. This module lists the fundamentals that you should start with.
+
 ## 6.1 General testing fundamentals
 
 Learning outcomes:
@@ -105,3 +107,7 @@ Learning outcomes:
 Resources:
 
 - [Usability testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+
+---
+
+[Previous: Extension 5 Security and privacy](/curriculum/3-extensions/5-security-and-privacy.md) | [Next: Extension 7 A practical understanding of JavaScript frameworks](/curriculum/3-extensions/7-a-practical-understanding-of-javascript-frameworks.md) | [Table of contents](/TOC.md)

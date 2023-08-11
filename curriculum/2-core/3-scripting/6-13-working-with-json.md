@@ -15,3 +15,7 @@ Learning outcomes:
 Resources:
 
 - [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
+
+---
+
+[Previous: 6.12 Network requests with fetch()](/curriculum/2-core/3-scripting/6-12-network-requests-with-fetch.md) | [Next: 6.14 JavaScript libraries and frameworks introduction](/curriculum/2-core/3-scripting/6-14-javascript-libraries-and-frameworks-introduction.md) | [Table of contents](/TOC.md)

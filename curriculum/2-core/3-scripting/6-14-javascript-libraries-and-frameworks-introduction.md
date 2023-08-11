@@ -43,3 +43,7 @@ Learning outcomes:
 Resources:
 
 - [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
+
+---
+
+[Previous: 6.13 Working with JSON](/curriculum/2-core/3-scripting/6-13-working-with-json.md) | [6.15 Debugging JavaScript](/curriculum/2-core/3-scripting/6-15-debugging-javascript.md) | [Table of contents](/TOC.md)

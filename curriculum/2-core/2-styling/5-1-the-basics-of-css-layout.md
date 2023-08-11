@@ -9,3 +9,7 @@ Learning outcomes:
 Resources:
 
 - [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
+
+---
+
+[Previous: 5 CSS layout](/curriculum/2-core/2-styling/5-0-css-layout.md) | [Next: 5.2 Floats](/curriculum/2-core/2-styling/5-2-floats.md) | [Table of contents](/TOC.md)

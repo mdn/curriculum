@@ -27,3 +27,7 @@ Resources:
 - [JavaScript object basics](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/Basics)
 
 - [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+---
+
+[Previous: 6.7 Functions](/curriculum/2-core/3-scripting/6-07-functions.md) | [Next: 6.9 DOM scripting](/curriculum/2-core/3-scripting/6-09-dom-scripting.md) | [Table of contents](/TOC.md)

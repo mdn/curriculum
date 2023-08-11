@@ -31,3 +31,7 @@ Resources:
 - [Chrome > Console overview](https://developer.chrome.com/docs/devtools/console/)
 
 - [Chrome > Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/)
+
+---
+
+[Previous: 6.14 JavaScript libraries and frameworks introduction](/curriculum/2-core/3-scripting/6-14-javascript-libraries-and-frameworks-introduction.md) | [Next: 7 Accessibility](/curriculum/2-core/4-best-practices-and-essential-tooling/7-0-accessibility.md) | [Table of contents](/TOC.md)

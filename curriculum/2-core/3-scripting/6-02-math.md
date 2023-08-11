@@ -27,3 +27,7 @@ Resources:
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Math)
 
 - [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_dates)
+
+---
+
+[Previous: 6.1 Variables](/curriculum/2-core/3-scripting/6-01-variables.md) | [Next: 6.3 Text](/curriculum/2-core/3-scripting/6-03-text.md) | [Table of contents](/TOC.md)

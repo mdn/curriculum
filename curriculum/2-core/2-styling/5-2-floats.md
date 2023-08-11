@@ -13,3 +13,7 @@ Learning outcomes:
 Resources:
 
 - [Floats](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Floats)
+
+---
+
+[Previous: 5.1 The basics of CSS layout](/curriculum/2-core/2-styling/5-1-the-basics-of-css-layout.md) | [Next: 5.3 Positioning](/curriculum/2-core/2-styling/5-3-positioning.md) | [Table of contents](/TOC.md)

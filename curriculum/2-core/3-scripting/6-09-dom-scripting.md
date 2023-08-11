@@ -21,3 +21,7 @@ Learning outcomes:
 Resources:
 
 - [Manipulating documents](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+
+---
+
+[Previous: 6.8 JavaScript object fundamentals](/curriculum/2-core/3-scripting/6-08-javascript-object-fundamentals.md) | [Next: 6.10 Events](/curriculum/2-core/3-scripting/6-10-events.md) | [Table of contents](/TOC.md)

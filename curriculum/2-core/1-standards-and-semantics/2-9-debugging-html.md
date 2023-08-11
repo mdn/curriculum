@@ -19,3 +19,7 @@ Resources:
 - [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html)
 
 - [Chrome DevTools > Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/)
+
+---
+
+[Previous: 2.8 HTML tables](/curriculum/2-core/1-standards-and-semantics/2-8-html-tables.md) | [Next: 3 CSS fundamentals](/curriculum/2-core/2-styling/3-00-css-fundamentals.md) | [Table of contents](/TOC.md)

@@ -27,3 +27,7 @@ Resources:
 > **Notes:**
 >
 > - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling needs.
+
+---
+
+[Previous: 3.9 Styling replaced elements](/curriculum/2-core/2-styling/3-09-styling-replaced-elements.md) | [Next: 3.11 Debugging CSS](/curriculum/2-core/2-styling/3-11-debugging-css.md) | [Table of contents](/TOC.md)

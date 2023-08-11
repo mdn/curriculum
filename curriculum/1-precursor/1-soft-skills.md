@@ -223,3 +223,7 @@ Recommendations:
   - The purpose of objects, and what they enable in terms of the design of a language like JavaScript and its surrounding APIs.
 
   - How loops work and why they are needed.
+
+---
+
+[Previous: Precursor knowledge](/curriculum/1-precursor) | [Next: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Table of contents](/TOC.md)

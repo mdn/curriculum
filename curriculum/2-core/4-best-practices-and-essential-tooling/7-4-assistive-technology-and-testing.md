@@ -40,3 +40,7 @@ Resources:
 >
 > - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed above), but to be aware of their existence and types of people who use them, and also to appreciate how and why accessibility best practices work.
 > - It is also a really good idea for web developers to have a go at using screen readers or other types of assistive technology, to give an idea of what the web experience is like for users of those technologies.
+
+---
+
+[Previous: 7.3 Accessible JavaScript](/curriculum/2-core/4-best-practices-and-essential-tooling/7-3-accessible-javascript.md) | [Next: 7.5 WAI-ARIA](/curriculum/2-core/4-best-practices-and-essential-tooling/7-5-wai-aria.md) | [Table of contents](/TOC.md)

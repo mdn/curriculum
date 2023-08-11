@@ -127,3 +127,7 @@ Resources:
     - This can include AI-powered code suggestion tools such as GitHub Copilot
 
       - Be aware that, while useful, AI tools have no reasoning skill, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
+
+---
+
+[Previous: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Next: Core modules](/curriculum/2-core) | [Table of contents](/TOC.md)

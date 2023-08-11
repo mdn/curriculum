@@ -23,3 +23,7 @@ Resources:
 > - Unordered lists are for marking up a list of items where the order doesn't matter, such as a shopping list.
 > - Ordered lists are for marking up a list of items where the order does matter, such as a set of directions.
 > - Description lists are for associating a list of terms with descriptions of those terms, for example, product names and descriptions in a shopping cart.
+
+---
+
+[Previous: 2.2 Good document structure](/curriculum/2-core/1-standards-and-semantics/2-2-good-document-structure.md) | [Next: 2.4 Advanced text techniques](/curriculum/2-core/1-standards-and-semantics/2-4-advanced-text-techniques.md) | [Table of contents](/TOC.md)

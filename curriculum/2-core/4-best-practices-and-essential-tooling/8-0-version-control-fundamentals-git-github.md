@@ -1,5 +1,7 @@
 ## 8 Version control fundamentals (Git/GitHub)
 
+Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
+
 Learning outcomes:
 
 - Understand why version control systems are necessary
@@ -46,3 +48,7 @@ Resources:
 >
 > - Git and associated social coding sites like GitHub have a lot of functionality, and can be intimidating and unfriendly to begin with. This set of conformance criteria does not expect mastery of all aspects of these tools, but rather an understanding of the basics, and why it is necessary to have some experience here before entering the industry.
 > - Git is the web industry standard for version control, and has been for some time.
+
+---
+
+[Previous: 7.5 WAI-ARIA](/curriculum/2-core/4-best-practices-and-essential-tooling/7-5-wai-aria.md) | [Next: 9 Design theory for developers](/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md) | [Table of contents](/TOC.md)

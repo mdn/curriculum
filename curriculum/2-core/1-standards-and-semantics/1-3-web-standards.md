@@ -41,3 +41,7 @@ Resources:
 > - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
 > - This basis means that the web is a unique and exciting industry to get involved in.
 > - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
+
+---
+
+[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Next: 1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md) | [Table of contents](/TOC.md)

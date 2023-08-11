@@ -1,6 +1,8 @@
 # Extension 3 Web APIs
 
-> **General note:** This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides criteria covering common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail. This should give students enough information to understand Web APIs in general, and be able to pick up new ones via their own research.
+This module covers common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail, providing a useful grounding for those who want to go deeper into browser API usage.
+
+> **General note:** This section does not attempt to exhaustively cover the full spectrum of APIs available in web browsers, rather it provides enough information to understand Web APIs in general, and be able to pick up new ones via your own research.
 
 General resources:
 
@@ -136,3 +138,7 @@ Resources:
 >
 > - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for most simple client-side storage tasks, and how cookies are used in positive and negative ways.
 > - IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.
+
+---
+
+[Previous: Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md) | [Next: Extension 4 Performance](/curriculum/3-extensions/4-performance.md) | [Table of contents](/TOC.md)

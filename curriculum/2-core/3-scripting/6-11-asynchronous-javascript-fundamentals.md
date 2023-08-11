@@ -29,3 +29,7 @@ Learning outcomes:
 Resources:
 
 - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+
+---
+
+[Previous: 6.10 Events](/curriculum/2-core/3-scripting/6-10-events.md) | [Next: 6.12 Network requests with fetch()](/curriculum/2-core/3-scripting/6-12-network-requests-with-fetch.md) | [Table of contents](/TOC.md)

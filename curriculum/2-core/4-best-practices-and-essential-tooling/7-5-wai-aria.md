@@ -21,3 +21,7 @@ Resources:
 - [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) (a set of useful ARIA design patterns)
+
+---
+
+[Previous: 7.4 Assistive technology and testing](/curriculum/2-core/4-best-practices-and-essential-tooling/7-4-assistive-technology-and-testing.md) | [Next: 8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md) | [Table of contents](/TOC.md)

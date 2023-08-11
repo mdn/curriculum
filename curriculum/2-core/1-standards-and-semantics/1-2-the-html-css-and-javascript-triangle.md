@@ -45,3 +45,7 @@ Resources:
 > - Progressive enhancement is often seen as unimportant, because browsers tend to support new features more consistently these days, and more people tend to have faster internet connections. However, you should think about relevant examples to relate to in the modern day, for example cutting down on bling to make a mobile experience smoother and saving on data, or providing a simpler, lower bandwidth experience for users in developing countries who might still pay for home internet by the megabyte.
 >
 >   - This bleeds over into responsive design, which is covered later on in more depth.
+
+---
+
+[Previous: 1.1 How the web works](/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md) | [Next: 1.3 Web standards](/curriculum/2-core/1-standards-and-semantics/1-3-web-standards.md) | [Table of contents](/TOC.md)

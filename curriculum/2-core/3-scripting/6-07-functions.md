@@ -41,3 +41,7 @@ Resources:
 - [Build your own function](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
 
 - [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
+
+---
+
+[Previous: 6.6 Loops](/curriculum/2-core/3-scripting/6-06-loops.md) | [Next: 6.8 JavaScript object fundamentals](/curriculum/2-core/3-scripting/6-08-javascript-object-fundamentals.md) | [Table of contents](/TOC.md)

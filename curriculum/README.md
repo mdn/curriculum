@@ -156,3 +156,7 @@ Any course conforming to the MDN curriculum should assess students via a combina
 The web development industry is changing constantly and rapidly. To keep our recommendations current, we will review our curriculum regularly, publish changelogs, and make an announcement every year, contacting the creators of known confirming courses to let them know the curriculum has changed and encourage them to review/update their courses as appropriate.
 
 We intend to do this in Q2 each year, to give educators time over Q2/Q3 to implement changes before the start of the following academic year.
+
+---
+
+[Next: Precursor knowledge](/curriculum/1-precursor) | [Table of contents](/TOC.md)

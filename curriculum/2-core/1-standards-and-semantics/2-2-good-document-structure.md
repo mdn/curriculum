@@ -30,3 +30,7 @@ Resources:
 >
 > - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
 > - This set of conformance criteria doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
+
+---
+
+[Previous: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md) | [Next: 2.3 Lists](/curriculum/2-core/1-standards-and-semantics/2-3-lists.md) | [Table of contents](/TOC.md)
