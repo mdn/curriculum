@@ -18,4 +18,4 @@ Resources:
 
 ---
 
-[Previous: 9.1 Accessibility basics](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md) | [9.3 Common UI design patterns](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-common-ui-design-patterns.md) | [Table of contents](/TOC.md)
+[Previous: 9.1 Basic design theory](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md) | [9.3 Common UI design patterns](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-common-ui-design-patterns.md) | [Table of contents](/TOC.md)
