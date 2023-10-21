@@ -2,17 +2,11 @@
 
 Learning outcomes:
 
-- Understand that numbers are implemented in JavaScript as 64-bit floats, and what limitations they have as a result
-
-- `NaN` and infinity, and what those mean
-
 - Basic number operations in JavaScript — add, subtract, multiply, divide
 
 - Understand that numbers are not numbers if they are defined as strings, and how this can cause calculations to go wrong
 
   - Converting strings to numbers with `Number()`
-
-- Other operator types such as modulo and exponent
 
 - Operator precedence
 
@@ -21,6 +15,8 @@ Learning outcomes:
 - Assignment operators, e.g. addition assignment, subtraction assignment
 
 - Comparison operators
+
+- Basic `Math` object methods, such as `Math.random()`, `Math.floor()`, and `Math.ceil()`
 
 Resources:
 

@@ -2,7 +2,7 @@
 
 Learning outcomes:
 
-- Screen Readers.
+- Screenreaders and other assistive technology (AT) types
 
   - What they are used for, and who uses them
 
@@ -12,19 +12,19 @@ Learning outcomes:
 
   - Setting up and testing with screen readers and desktop and mobile
 
+  - Other assistive technology such as
+
+    - Large text or braille keyboards
+
+    - Alternative pointing devices such as trackballs, joysticks, and touchpads
+
+    - Screen magnifiers
+
+    - Voice recognition software
+
+    - Switch controls
+
 - Auditing tools such as the [Firefox Accessibility Inspector](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/index.html), the [ANDI bookmarklet](https://www.ssa.gov/accessibility/andi/help/install.html), [Wave](https://wave.webaim.org/) and [Google Lighthouse accessibility audits](https://developer.chrome.com/docs/lighthouse/accessibility/).
-
-- Other assistive technology.
-
-  - Large text or braille keyboards
-
-  - Alternative pointing devices such as trackballs, joysticks, and touchpads
-
-  - Screen magnifiers
-
-  - Voice recognition software
-
-  - Switch controls
 
 Resources:
 

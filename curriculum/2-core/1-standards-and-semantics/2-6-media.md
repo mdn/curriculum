@@ -12,10 +12,6 @@ Learning outcomes:
 
   - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
 
-  - Best practice uses of `title`
-
-  - `<figure>` and `<figcaption>`
-
   - Video and audio-specific attributes such as `controls` and `muted`
 
   - `<sources>`
@@ -29,14 +25,6 @@ Learning outcomes:
   - Searching for appropriately-licensed media files to use in projects using search engines (e.g. [Google Images](https://images.google.co.uk/)) and specific media repositories (e.g. [Flickr,](https://www.flickr.com/) [The Noun Project](https://thenounproject.com/))
 
   - Complying with license requirements.
-
-- Canvas
-
-  - Understanding what `<canvas>` is — a scriptable, updateable image
-
-  - `width` and `height`
-
-- `<picture>` and `srcset` for responsive images
 
 - Alternative text for media
 

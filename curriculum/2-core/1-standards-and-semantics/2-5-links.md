@@ -14,8 +14,6 @@ Learning outcomes:
 
 - Inline and block-level links
 
-- When to use `title` attributes
-
 - Writing good link text
 
   - Understanding the benefits of good link text, such as better accessibility for screenreader users, and potential positive SEO effects

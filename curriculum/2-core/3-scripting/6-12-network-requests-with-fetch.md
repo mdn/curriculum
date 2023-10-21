@@ -2,15 +2,13 @@
 
 - Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common async JavaScript use case on the web.
 
-- Common patterns that require asynchronous network access — [Ajax](https://developer.mozilla.org/en-US/docs/Glossary/AJAX), [SPAs](https://developer.mozilla.org/en-US/docs/Glossary/SPA) — and the performance benefits of building apps this way; not having to reload the entire page for small data updates.
-
 - Common types of resources that are fetched from the network.
 
   - Text content, [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), media assets, etc.
 
   - [RESTful APIs](https://developer.mozilla.org/docs/Glossary/REST), and the basic concepts behind them — common patterns such as [CRUD](https://developer.mozilla.org/en-US/docs/Glossary/CRUD)
 
-- Understand the potential issues behind SPAs:
+- Understand what SPAs are, and the issues surrounding them:
 
   - Accessibility issues behind asynchronous updates, for example, content updates not being announced by screen readers by default.
 

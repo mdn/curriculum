@@ -8,8 +8,6 @@ Learning outcomes:
 
 - The correct usage for each list type
 
-- The correct way to nest lists
-
 - The broader use cases of lists, such as navigation menus
 
 Resources:

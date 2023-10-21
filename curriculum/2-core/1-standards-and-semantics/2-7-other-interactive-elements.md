@@ -30,8 +30,6 @@ Learning outcomes:
 
   - The difference between submission methods — `GET`, `POST`, etc.
 
-  - Form action
-
 Resources:
 
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)

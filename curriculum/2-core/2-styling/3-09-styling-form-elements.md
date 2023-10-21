@@ -1,4 +1,4 @@
-### 3.10 Styling form elements
+### 3.09 Styling form elements
 
 Learning outcomes:
 
@@ -30,4 +30,4 @@ Resources:
 
 ---
 
-[Previous: 3.9 Styling replaced elements](/curriculum/2-core/2-styling/3-09-styling-replaced-elements.md) | [Next: 3.11 Debugging CSS](/curriculum/2-core/2-styling/3-11-debugging-css.md) | [Table of contents](/TOC.md)
+[Previous: 3.8 Overflow](/curriculum/2-core/2-styling/3-08-overflow.md) | [Next: 3.10 Debugging CSS](/curriculum/2-core/2-styling/3-10-debugging-css.md) | [Table of contents](/TOC.md)

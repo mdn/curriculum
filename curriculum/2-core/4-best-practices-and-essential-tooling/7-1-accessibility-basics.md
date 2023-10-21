@@ -2,17 +2,13 @@
 
 Learning outcomes:
 
-- Understand the point of accessibility — human rights, legal requirements, but also increased usability for everyone, better SEO, and a wider target audience.
+- Understand the point of accessibility — increased usability for everyone, better SEO, and a wider target audience. Also be aware of the legal requirements.
 
 - Understand that accessibility should be considered from the start of a project, and not bolted on at the end.
 
 - Understand the Web Content Accessibility Guidelines (WCAG) conference criteria.
 
-- Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks.
-
-  - Basic examples include `<p>` or heading elements
-
-  - More complex examples include `<details>`/`<summary>` or `<dialog>` elements
+- Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks. Good examples are `<a>` and `<input>` elements. 
 
 - Accessible best practices
 

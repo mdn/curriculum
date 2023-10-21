@@ -22,18 +22,6 @@ Learning outcomes:
 
   - Other text markup features such as `<u>`, `<s>`, and `<ruby>`
 
-<!-- -->
-
-- Understand fundamental web copy best practices. For example:
-
-  - Ideal body copy length for readability is somewhere between 50-75 characters
-
-  - Favor simple prose where possible; there is no benefit to making the language structure complex just because the topic is complex.
-
-  - Don't use idioms or slang in your writing, as they make text harder to understand for an international audience, and harder to translate.
-
-  - Long sentences and long paragraphs make copy difficult to read. Break them up.
-
 Resources:
 
 - [HTML text fundamentals > Emphasis and importance](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#emphasis_and_importance)

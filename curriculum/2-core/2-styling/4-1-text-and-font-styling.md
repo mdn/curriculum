@@ -2,9 +2,9 @@
 
 Learning outcomes:
 
-- Foreground and background color
+- `color`
 
-- Font family, font stacks, web-safe fonts, and default system font styles
+- Font family, font stacks, web-safe fonts
 
 - `font-size`, `font-weight`, and `font-style`
 
@@ -13,8 +13,6 @@ Learning outcomes:
 - `text-shadow`
 
 - `line-height`
-
-- `word-spacing` and `letter-spacing`
 
 Resources:
 

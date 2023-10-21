@@ -8,11 +8,7 @@ Learning outcomes:
 
 - Looping through collections with `for ... of`.
 
-  - Understand that array methods such as `forEach()`, `map()`, and `filter()` are types of loop.
-
 - `break` and `continue`.
-
-- `while` and `do ... while` loops.
 
 Resources:
 

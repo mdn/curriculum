@@ -6,6 +6,8 @@ Learning outcomes:
 
   - Numbers, lengths, and percentages
 
+  - Ems and rems
+
   - Colors
 
   - Images
@@ -15,6 +17,8 @@ Learning outcomes:
   - Strings and identifiers
 
   - Functions
+
+- Understand what absolute and relative units are, and the difference between them
 
 Resources
 

@@ -18,6 +18,12 @@ Learning outcomes:
 
   - A library tends to be unopinionated about how you work with it in your codebase, whereas a framework tends to enforce a specific coding style and control flow.
 
+- Why should you learn frameworks?
+
+  - They can provide a lot of functionality and save you a lot of time.
+
+  - A lot of companies use popular frameworks such as React or Angular to write their applications, therefore a lot of jobs list frameworks as requirements for applicants to have.
+
 - Why is a framework not always the right choice? A framework:
 
   - can easily be overkill for a small project — you might be better off writing a few lines of vanilla JavaScript to solve the problem, or using a tailored library.

@@ -17,7 +17,7 @@
   - [1.1 How the web works](/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md)
   - [1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md)
   - [1.3 Web standards](/curriculum/2-core/1-standards-and-semantics/1-3-web-standards.md)
-  - [1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md)
+  - [1.4 How browsers load webpages](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-load-webpages.md)
 - [2 Semantic HTML](/curriculum/2-core/1-standards-and-semantics/2-0-semantic-html.md): HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
   - [2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md)
   - [2.2 Good document structure](/curriculum/2-core/1-standards-and-semantics/2-2-good-document-structure.md)
@@ -37,9 +37,8 @@
   - [3.6 Sizing](/curriculum/2-core/2-styling/3-06-sizing.md)
   - [3.7 Background and borders](/curriculum/2-core/2-styling/3-07-backgrounds-and-borders.md)
   - [3.8 Overflow](/curriculum/2-core/2-styling/3-08-overflow.md)
-  - [3.9 Styling replaced elements](/curriculum/2-core/2-styling/3-09-styling-replaced-elements.md)
-  - [3.10 Styling form elements](/curriculum/2-core/2-styling/3-10-styling-form-elements.md)
-  - [3.11 Debugging CSS](/curriculum/2-core/2-styling/3-11-debugging-css.md)
+  - [3.9 Styling form elements](/curriculum/2-core/2-styling/3-09-styling-form-elements.md)
+  - [3.10 Debugging CSS](/curriculum/2-core/2-styling/3-10-debugging-css.md)
 - [4 CSS text styling](/curriculum/2-core/2-styling/4-0-css-text-styling.md): This module focuses specifically on CSS font and text styling, including loading custom web fonts and applying them to your text.
   - [4.1 Text and font styling](/curriculum/2-core/2-styling/4-1-text-and-font-styling.md)
   - [4.2 Styling lists and links](/curriculum/2-core/2-styling/4-2-styling-lists-and-links.md)
@@ -76,8 +75,7 @@
 - [9 Design theory for developers](/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
   - [9.1 Basic design theory](/curriculum/2-core/4-best-practices-and-essential-tooling/9-1-basic-design-theory.md)
   - [9.2 User-centered design](/curriculum/2-core/4-best-practices-and-essential-tooling/9-2-user-centered-design.md)
-  - [9.3 Common UI design patterns](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-common-ui-design-patterns.md)
-  - [9.4 Understanding design briefs](/curriculum/2-core/4-best-practices-and-essential-tooling/9-4-understanding-design-briefs.md)
+  - [9.3 Understanding design briefs](/curriculum/2-core/4-best-practices-and-essential-tooling/9-3-understanding-design-briefs.md)
 
 ---
 

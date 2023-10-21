@@ -4,9 +4,15 @@ Learning outcomes:
 
 - Block and inline elements
 
-- Outer and inner display types
+- The different boxes that make up an element and how to style them
 
-- The different boxes that make up an element — margin, border, padding, and content — and how to style them
+  - `width` and `height`
+  
+  - `margin`
+  
+  - `border`
+  
+  - `padding` 
 
 - The alternative box model accessed via `box-sizing: border-box`, and why this is easier to understand (and how it differs from) the standard box model
 

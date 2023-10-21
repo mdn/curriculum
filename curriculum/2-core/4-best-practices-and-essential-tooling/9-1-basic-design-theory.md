@@ -12,8 +12,6 @@ Learning outcomes:
 
   - Scale
 
-  - Contrast
-
   - Alignment
 
   - Use of whitespace

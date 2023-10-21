@@ -4,13 +4,7 @@ Learning outcomes:
 
 - Intrinsic size
 
-- Setting absolute sizes
-
-- Setting percentage sizes
-
-- Setting sizes using logical properties
-
-  - Understand that these properties make creating bidirectional/multi-language interfaces easier, and why.
+- Setting absolute and percentage sizes
 
 - `min-`/`max-width` and `min-`/`max-height`
 

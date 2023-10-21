@@ -1,8 +1,8 @@
-### 1.4 How browsers work
+### 1.4 How browsers load webpages
 
 Learning outcomes:
 
-- The different major parts of a browser and how they work together — rendering engine, network layer, etc.
+- The HTTP request-response model
 
 - The different kinds of assets that are returned in an HTTP response.
 
@@ -56,7 +56,7 @@ Resources:
 >
 >   - A web page is requested (e.g. by clicking a link).
 >   - A [DNS](https://developer.mozilla.org/docs/Glossary/DNS) lookup is performed to find the location of all the assets to download for the web page.
->   - The assets start to be fetched, via [TCP handshakes](https://developer.mozilla.org/docs/Glossary/TCP_handshake), [TLS](https://developer.mozilla.org/docs/Glossary/TLS) negotiation, requests and responses.
+>   - The assets start to be fetched. This involves [TCP handshakes](https://developer.mozilla.org/docs/Glossary/TCP_handshake), [TLS](https://developer.mozilla.org/docs/Glossary/TLS) negotiation, HTTP requests and responses.
 >   - A [DOM](https://developer.mozilla.org/docs/Glossary/DOM) tree is assembled from the downloaded HTML.
 >   - The [CSSOM](https://developer.mozilla.org/docs/Glossary/CSSOM) is built from the CSS rules.
 >   - The JavaScript is parsed, interpreted, compiled, and executed.

@@ -10,7 +10,7 @@ Learning outcomes:
 
   - Setting information like character encoding and title.
 
-  - Providing metadata for search engines and social media platforms, and the Search Engine Optimization (SEO) benefits.
+  - Providing metadata for search engines (e.g. `<meta name="description">`) and social media platforms (e.g. [Open Graph Data](https://ogp.me/)), and the Search Engine Optimization (SEO) benefits.
 
   - Linking to icons for use on browsers and mobile platforms.
 
@@ -21,8 +21,6 @@ Learning outcomes:
 - The anatomy of an HTML element — element, opening tag, content, closing tag, attributes.
 
 - What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are and how they differ from standard elements.
-
-- Replaced elements, and their purpose — they act as containers into which external content (such as images and video) is embedded.
 
 Resources:
 

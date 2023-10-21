@@ -10,6 +10,8 @@ Learning outcomes:
 
   - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>`, `<b>`).
 
+  - It is tempting to just use `<div>` elements wherever a block-level container is required, but you should be aware of the other available structural elements and their benefits (such as improved accessibility). Examples include `<main>`, `<section>`, `<article>`, `<header>`, `<nav>`, and `<footer>`.
+
 - The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's a job for CSS).
 
 - SEO benefits: for example, keywords are boosted in headings.
@@ -23,6 +25,8 @@ Learning outcomes:
 Resources:
 
 - [HTML text fundamentals](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+
+- [Document and website structure](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 - [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
 

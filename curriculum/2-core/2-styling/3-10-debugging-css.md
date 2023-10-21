@@ -1,4 +1,4 @@
-### 3.11 Debugging CSS
+### 3.10 Debugging CSS
 
 Learning outcomes:
 
@@ -28,4 +28,4 @@ Resources:
 
 ---
 
-[Previous: 3.10 Styling form elements](/curriculum/2-core/2-styling/3-10-styling-form-elements.md) | [Next: 4 CSS text styling](/curriculum/2-core/2-styling/4-0-css-text-styling.md) | [Table of contents](/TOC.md)
+[Previous: 3.9 Styling form elements](/curriculum/2-core/2-styling/3-09-styling-form-elements.md) | [Next: 4 CSS text styling](/curriculum/2-core/2-styling/4-0-css-text-styling.md) | [Table of contents](/TOC.md)

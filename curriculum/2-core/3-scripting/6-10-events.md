@@ -16,10 +16,6 @@ Learning outcomes:
 
 - Preventing default behavior with `preventDefault()`.
 
-- Event bubbling/capture.
-
-  - `stopPropagation()`
-
 - Event delegation.
 
 Resources:
