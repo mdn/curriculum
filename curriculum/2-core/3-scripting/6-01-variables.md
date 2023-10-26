@@ -12,7 +12,7 @@ Learning outcomes:
 
   - The difference between variables and constants, and when you would use each one.
 
-- Understand variable naming best practices. If not explicitly covered, all examples should show good variable naming pratices in action. 
+- Understand variable naming best practices. If not explicitly covered, all examples should show good variable naming pratices in action.
 
 - The different types of value that can be stored in variables — strings, numbers, booleans, arrays, objects.
 

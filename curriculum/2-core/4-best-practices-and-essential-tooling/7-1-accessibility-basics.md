@@ -8,7 +8,7 @@ Learning outcomes:
 
 - Understand the Web Content Accessibility Guidelines (WCAG) conference criteria.
 
-- Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks. Good examples are `<a>` and `<input>` elements. 
+- Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks. Good examples are `<a>` and `<input>` elements.
 
 - Accessible best practices
 

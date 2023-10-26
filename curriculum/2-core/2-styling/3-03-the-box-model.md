@@ -7,12 +7,12 @@ Learning outcomes:
 - The different boxes that make up an element and how to style them
 
   - `width` and `height`
-  
+
   - `margin`
-  
+
   - `border`
-  
-  - `padding` 
+
+  - `padding`
 
 - The alternative box model accessed via `box-sizing: border-box`, and why this is easier to understand (and how it differs from) the standard box model
 

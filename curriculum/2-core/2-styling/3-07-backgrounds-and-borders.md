@@ -9,9 +9,9 @@ Learning outcomes:
 - Background gradients
 
   - General concept of what a background gradient is
-  
+
   - Linear gradients
-  
+
   - (Radial, conic, and repeating gradients are more advanced and not required to cover in depth at this stage)
 
 - Accessibility considerations of backgrounds — ensure good contrast
