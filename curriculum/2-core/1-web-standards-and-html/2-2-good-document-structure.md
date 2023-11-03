@@ -12,9 +12,17 @@ Learning outcomes:
 
   - It is tempting to just use `<div>` elements wherever a block-level container is required, but you should be aware of the other available structural elements and their benefits (such as improved accessibility). Examples include `<main>`, `<section>`, `<article>`, `<header>`, `<nav>`, and `<footer>`.
 
+  > **Notes:**
+  >
+  > - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
+
 - The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's a job for CSS).
 
 - SEO benefits: for example, keywords are boosted in headings.
+
+> **Notes:**
+>
+> - This conformance criterium doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
 - Accessibility benefits: Assistive Technology (AT) such as screen readers use headings and landmarks as signposts to navigate content. HTML documents are very difficult for Assistive Technology users to use without headings.
 
@@ -29,11 +37,6 @@ Resources:
 - [Document and website structure](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 - [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
-
-> **Notes:**
->
-> - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
-> - This set of conformance criteria doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
 ---
 

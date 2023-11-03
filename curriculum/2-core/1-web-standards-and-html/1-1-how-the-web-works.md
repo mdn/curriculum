@@ -18,6 +18,11 @@ Learning outcomes:
 
 - Hosting, how to purchase it, and how to put a website online
 
+> **Notes:**
+>
+> - One of the key goals of this section is a high-level understanding of how the web functions behind the code that students write.
+> - Students should also gain a vocabulary to start talking about how the web functions precisely.
+
 Resources:
 
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -25,11 +30,6 @@ Resources:
 - [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
 
 - [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
-
-> **Notes:**
->
-> - One of the key goals of this section is a high-level understanding of how the web functions behind the code that students write.
-> - Students should also gain a vocabulary to start talking about how the web functions precisely.
 
 ---
 

@@ -6,6 +6,12 @@ Learning outcomes:
 
 - The process of standards creation
 
+> **Notes:**
+>
+> - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
+> - This basis means that the web is a unique and exciting industry to get involved in.
+> - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
+
 - The lifecycle of web standards features
 
   - Experimental (usually only available in one browser engine as it is developed, sometimes not in a specification yet. Too early to use in production.)
@@ -35,12 +41,6 @@ Resources:
 - [WHATWG FAQ](https://whatwg.org/faq)
 
 - [https://www.w3.org/TR/design-principles/](https://www.w3.org/TR/design-principles/)
-
-> **Notes:**
->
-> - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
-> - This basis means that the web is a unique and exciting industry to get involved in.
-> - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
 
 ---
 

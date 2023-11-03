@@ -22,6 +22,10 @@ Learning outcomes:
 
   - Other text markup features such as `<u>`, `<s>`, and `<ruby>`
 
+> **Notes:**
+>
+> - It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
+
 Resources:
 
 - [HTML text fundamentals > Emphasis and importance](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#emphasis_and_importance)
@@ -29,10 +33,6 @@ Resources:
 - [Advanced text formatting](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
-
-> **Notes:**
->
-> - It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
 
 ---
 

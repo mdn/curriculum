@@ -14,13 +14,13 @@ Learning outcomes:
 
 - `line-height`
 
-Resources:
-
-- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
-
 > **Notes:**
 >
 > - There are a large number of other font and text styling properties, and students should be encouraged to explore more of them as part of their constant learning.
+
+Resources:
+
+- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
 
 ---
 

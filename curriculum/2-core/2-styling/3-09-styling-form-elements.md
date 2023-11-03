@@ -16,6 +16,10 @@ Learning outcomes:
 
 - Mitigating issues with difficult-to-style types such as `datetime-local`, `color`, etc.
 
+> **Notes:**
+>
+> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
+
 Resources:
 
 - [Images, media, and form elements](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Images_media_form_elements)
@@ -23,10 +27,6 @@ Resources:
 - [Styling web forms](https://developer.mozilla.org/docs/Learn/Forms/Styling_web_forms)
 
 - [Advanced form styling](https://developer.mozilla.org/docs/Learn/Forms/Advanced_form_styling)
-
-> **Notes:**
->
-> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling needs.
 
 ---
 

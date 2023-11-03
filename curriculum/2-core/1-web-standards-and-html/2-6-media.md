@@ -34,10 +34,6 @@ Resources:
 
 - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
-> **Notes:**
->
-> - It is not necessary to understand how to script a `<canvas>` element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](../../3-extensions/3-web-apis.md#32-graphicsanimation-apis).
-
 ---
 
 [Previous: 2.5 Links](/curriculum/2-core/1-web-standards-and-html/2-5-links.md) | [Next: 2.7 Other interactive elements](/curriculum/2-core/1-web-standards-and-html/2-7-other-interactive-elements.md) | [Table of contents](/TOC.md)
