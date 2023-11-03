@@ -1,5 +1,7 @@
 # Reviewing guide
 
+> Note: Boilerplate reviewing guide for the repo, not needed for the final publication
+
 All reviewers must abide by the [code of conduct](CODE_OF_CONDUCT.md); they are also protected by the code of conduct.
 A reviewer should not tolerate poor behavior and is encouraged to [report any behavior](CODE_OF_CONDUCT.md#Reporting_violations) that violates the code of conduct.
 

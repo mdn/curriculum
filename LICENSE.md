@@ -1,5 +1,7 @@
 # Licenses for MDN content
 
+> Note: License file for the repo, not needed in the final publication
+
 MDN's content (including prose and code examples) is entirely available under various open source licenses.
 This file covers the types of content we provide and the licenses that are in effect for each.
 

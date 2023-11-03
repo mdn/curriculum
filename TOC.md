@@ -1,5 +1,7 @@
 # Table of contents
 
+> Note: TOC for the entire curriculum, useful to include in the final publication, but probably on a separate page. don't make this the entire main nav
+
 [Introduction](/curriculum)
 
 ---
