@@ -69,4 +69,4 @@ Resources:
 
 ---
 
-[Previous: 1.3 Web standards](/curriculum/2-core/1-standards-and-semantics/1-3-web-standards.md) | [Next: 2 Semantic HTML](/curriculum/2-core/1-standards-and-semantics/2-0-semantic-html.md) | [Table of contents](/TOC.md)
+[Previous: 1.3 Web standards](/curriculum/2-core/1-web-standards-and-html/1-3-web-standards.md) | [Next: 2 Semantic HTML](/curriculum/2-core/1-web-standards-and-html/2-0-semantic-html.md) | [Table of contents](/TOC.md)

@@ -24,4 +24,4 @@ Resources:
 
 ---
 
-[Previous: 2.2 Good document structure](/curriculum/2-core/1-standards-and-semantics/2-2-good-document-structure.md) | [Next: 2.4 Advanced text techniques](/curriculum/2-core/1-standards-and-semantics/2-4-advanced-text-techniques.md) | [Table of contents](/TOC.md)
+[Previous: 2.2 Good document structure](/curriculum/2-core/1-web-standards-and-html/2-2-good-document-structure.md) | [Next: 2.4 Advanced text techniques](/curriculum/2-core/1-web-standards-and-html/2-4-advanced-text-techniques.md) | [Table of contents](/TOC.md)

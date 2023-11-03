@@ -42,4 +42,4 @@ Resources:
 
 ---
 
-[Previous: 2.6 Media](/curriculum/2-core/1-standards-and-semantics/2-6-media.md) | [Next: 2.8 HTML tables](/curriculum/2-core/1-standards-and-semantics/2-8-html-tables.md) | [Table of contents](/TOC.md)
+[Previous: 2.6 Media](/curriculum/2-core/1-web-standards-and-html/2-6-media.md) | [Next: 2.8 HTML tables](/curriculum/2-core/1-web-standards-and-html/2-8-html-tables.md) | [Table of contents](/TOC.md)

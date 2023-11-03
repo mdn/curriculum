@@ -4,4 +4,4 @@ CSS enables you to add style to your webpages, including color, text, positionin
 
 ---
 
-[Previous: 2.9 Debugging HTML](/curriculum/2-core/1-standards-and-semantics/2-9-debugging-html.md) | [Next: 3.1 Basic CSS syntax](/curriculum/2-core/2-styling/3-01-basic-css-syntax.md) | [Table of contents](/TOC.md)
+[Previous: 2.9 Debugging HTML](/curriculum/2-core/1-web-standards-and-html/2-9-debugging-html.md) | [Next: 3.1 Basic CSS syntax](/curriculum/2-core/2-styling/3-01-basic-css-syntax.md) | [Table of contents](/TOC.md)

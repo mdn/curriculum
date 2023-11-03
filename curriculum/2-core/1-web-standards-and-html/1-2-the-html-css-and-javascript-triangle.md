@@ -48,4 +48,4 @@ Resources:
 
 ---
 
-[Previous: 1.1 How the web works](/curriculum/2-core/1-standards-and-semantics/1-1-how-the-web-works.md) | [Next: 1.3 Web standards](/curriculum/2-core/1-standards-and-semantics/1-3-web-standards.md) | [Table of contents](/TOC.md)
+[Previous: 1.1 How the web works](/curriculum/2-core/1-web-standards-and-html/1-1-how-the-web-works.md) | [Next: 1.3 Web standards](/curriculum/2-core/1-web-standards-and-html/1-3-web-standards.md) | [Table of contents](/TOC.md)

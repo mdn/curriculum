@@ -8,4 +8,4 @@ General resources:
 
 ---
 
-[Previous: 1.4 How browsers load webpages](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-load-webpages.md) | [Next: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-standards-and-semantics/2-1-basic-html-syntax-and-structure.md) | [Table of contents](/TOC.md)
+[Previous: 1.4 How browsers load webpages](/curriculum/2-core/1-web-standards-and-html/1-4-how-browsers-load-webpages.md) | [Next: 2.1 Basic HTML syntax and structure](/curriculum/2-core/1-web-standards-and-html/2-1-basic-html-syntax-and-structure.md) | [Table of contents](/TOC.md)

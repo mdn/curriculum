@@ -44,4 +44,4 @@ Resources:
 
 ---
 
-[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Next: 1.4 How browsers load webpages](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-load-webpages.md) | [Table of contents](/TOC.md)
+[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-web-standards-and-html/1-2-the-html-css-and-javascript-triangle.md) | [Next: 1.4 How browsers load webpages](/curriculum/2-core/1-web-standards-and-html/1-4-how-browsers-load-webpages.md) | [Table of contents](/TOC.md)

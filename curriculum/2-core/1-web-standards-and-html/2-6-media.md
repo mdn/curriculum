@@ -40,4 +40,4 @@ Resources:
 
 ---
 
-[Previous: 2.5 Links](/curriculum/2-core/1-standards-and-semantics/2-5-links.md) | [Next: 2.7 Other interactive elements](/curriculum/2-core/1-standards-and-semantics/2-7-other-interactive-elements.md) | [Table of contents](/TOC.md)
+[Previous: 2.5 Links](/curriculum/2-core/1-web-standards-and-html/2-5-links.md) | [Next: 2.7 Other interactive elements](/curriculum/2-core/1-web-standards-and-html/2-7-other-interactive-elements.md) | [Table of contents](/TOC.md)
