@@ -124,15 +124,15 @@ Learning outcomes:
 >
 > - IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.
 
-  - IndexedDB
+- IndexedDB
 
-    - Complete client-side transactional database system.
+  - Complete client-side transactional database system.
 
-    - Specialized, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
+  - Specialized, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
 
-  - Service Workers/Cache
+- Service Workers/Cache
 
-    - Understand the basic ideas behind their usage in Progressive Web Apps (PWAs), and the fundamental use case of making a site work offline.
+  - Understand the basic ideas behind their usage in Progressive Web Apps (PWAs), and the fundamental use case of making a site work offline.
 
 Resources:
 
