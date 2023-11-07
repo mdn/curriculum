@@ -1,6 +1,6 @@
 # Introduction
 
-> Note: Main Introductory text for the curriculum, written to provide more depth on its purpose, target audience, scope, and usage. This information should be included somewhere in te final publication, perhaps as an FAQ or "About" page.
+> Note: Main Introductory text for the curriculum, written to provide more depth on its purpose, target audience, scope, and usage. This information should be included somewhere in the final publication, perhaps as an FAQ or "About" page.
 
 Welcome to the MDN front-end developer curriculum — the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today's web industry!
 
