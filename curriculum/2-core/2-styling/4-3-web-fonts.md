@@ -8,13 +8,11 @@ Learning outcomes:
 
 - Using a web font with the `font-family` property.
 
-- Other descriptors — `font-weight`, `font-style`, `unicode-range`, etc.
+- Other descriptors — `font-weight`, `font-style`, etc.
 
 - Using an online service to find web fonts and generate web font code (for example, [Font Squirrel](https://www.fontsquirrel.com) or [Google Fonts](https://fonts.google.com/)).
 
 - Usability implications of web fonts — using several of them can increase page download size.
-
-- Variable fonts — how these are different from standard web fonts. Gain a basic understanding.
 
 Resources:
 

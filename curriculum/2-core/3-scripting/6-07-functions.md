@@ -10,29 +10,23 @@ Learning outcomes:
 
 - Invoking a function.
 
-- Passing in arguments to function calls.
-
-  - Required and optional arguments
-
-  - Default argument values
-
-- Named and anonymous functions.
-
-- Callback functions — understand that arguments to functions can themselves be functions, and what this pattern is used for
-
-- Understand the purpose of async functions and `await` (for easier writing of async JavaScript code) and what an example looks like (see also [6.11 Asynchronous JavaScript Fundamentals](./6-11-asynchronous-javascript-fundamentals.md)).
-
-- Arrow functions.
-
 - Return values.
 
-- Understand global scope and function scope.
+- Understand global scope and function/block scope.
+
+- Passing in arguments to function calls.
+
+- Named and anonymous functions.
 
 - Building your own functions.
 
   - Including parameters
 
   - Including return values
+
+- Callback functions — understand that arguments to functions can themselves be functions, and what this pattern is used for
+
+- Arrow functions.
 
 Resources:
 

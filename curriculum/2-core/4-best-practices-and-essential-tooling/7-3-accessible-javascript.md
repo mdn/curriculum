@@ -2,11 +2,7 @@
 
 Learning outcomes:
 
-- Understand that there is such a thing as too much JavaScript.
-
-  - A simpler approach is usually more accessible, and often better for everyone
-
-  - Source order is important to assistive technology. Using JavaScript to generate all your content on the fly can result in an inaccessible experience
+- Understand that there is such a thing as too much JavaScript. A simpler approach is usually more accessible, and often better for everyone
 
 - Understand the value of unobtrusive JavaScript.
 
@@ -14,9 +10,7 @@ Learning outcomes:
 
   - A good example is client-side validation of form inputs
 
-- Be mindful of avoiding mouse-specific events that lock out keyboard or touch-screen users, for example, `mouseover`, `mouseout`, `dblclick`, and `hover`.
-
-- Use touch/pointer events to handle alternative pointing devices and mobile interfaces.
+- Use events sensibly so as not to lock out specific control types (for example, mouse-specific events such as `mouseover` and `mouseout` could lock out keyboard or touchscreen users).
 
 Resources:
 

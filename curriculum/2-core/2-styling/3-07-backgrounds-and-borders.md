@@ -6,13 +6,17 @@ Learning outcomes:
 
 - Background image size, repeat, position, and attachment
 
-- Multiple background images
+- Background gradients
 
-- Background gradients — linear, radial, conic, and repeating gradients
+  - General concept of what a background gradient is
+
+  - Linear gradients
+
+  - (Radial, conic, and repeating gradients are more advanced and not required to cover in depth at this stage)
 
 - Accessibility considerations of backgrounds — ensure good contrast
 
-- Border basics — `width`, `style`, `color`
+- Border basics — `border-width`, `border-style`, `border-color`, border shorthand (e.g. `border-top` and `border`)
 
 - Border radius for rounded corners
 

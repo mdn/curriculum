@@ -2,6 +2,12 @@
 
 Learning outcome: Gain an understanding of modern CSS layout techniques:
 
+- Understand that for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective:
+
+  - Margins and padding for spacing
+
+  - Auto margins for horizontal centering tasks (e.g. `margin: 0 auto`)
+
 - Flexbox
 
   - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension

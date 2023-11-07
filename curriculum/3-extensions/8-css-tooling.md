@@ -4,6 +4,11 @@ Tooling is not just confined to JavaScript frameworks. There are also common CSS
 
 ## 8.1 CSS frameworks
 
+> **Notes:**
+>
+> - Whatever framework your course or learning includes, the tool's site should include information on the basics of using it.
+> - The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
+
 Learning outcomes:
 
 - Understand the value that CSS frameworks bring — consistency, organization, ready-made components and style guidelines, best practices built in.
@@ -16,12 +21,12 @@ Learning outcomes:
 
 - Understand how to weigh up the burden of adopting a CSS framework (e.g. handling integration, initial learning curve) versus the advantages (how much they can speed up development once you are familiar with them).
 
+## 8.2 CSS preprocessors
+
 > **Notes:**
 >
-> - Whatever framework your course or learning includes, the tool's site should include information on the basics of using it.
-> - The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
-
-## 8.2 CSS preprocessors
+> - Whatever preprocessor your course or learning includes, the tool's site should include information on the basics of using it.
+> - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.
 
 Learning outcomes:
 
@@ -34,11 +39,6 @@ Learning outcomes:
 - Understand how they integrate into a web project.
 
 - Understand how to weigh up the burden of adopting a CSS preprocessor (e.g. handling integration, initial learning curve) versus the advantages (how much they can speed up writing your CSS once you are familiar with them).
-
-> **Notes:**
->
-> - Whatever preprocessor your course or learning includes, the tool's site should include information on the basics of using it.
-> - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.
 
 ---
 

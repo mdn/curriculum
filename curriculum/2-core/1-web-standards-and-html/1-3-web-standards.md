@@ -6,6 +6,12 @@ Learning outcomes:
 
 - The process of standards creation
 
+> **Notes:**
+>
+> - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
+> - This basis means that the web is a unique and exciting industry to get involved in.
+> - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
+
 - The lifecycle of web standards features
 
   - Experimental (usually only available in one browser engine as it is developed, sometimes not in a specification yet. Too early to use in production.)
@@ -36,12 +42,6 @@ Resources:
 
 - [https://www.w3.org/TR/design-principles/](https://www.w3.org/TR/design-principles/)
 
-> **Notes:**
->
-> - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
-> - This basis means that the web is a unique and exciting industry to get involved in.
-> - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
-
 ---
 
-[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Next: 1.4 How browsers work](/curriculum/2-core/1-standards-and-semantics/1-4-how-browsers-work.md) | [Table of contents](/TOC.md)
+[Previous: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-web-standards-and-html/1-2-the-html-css-and-javascript-triangle.md) | [Next: 1.4 How browsers load webpages](/curriculum/2-core/1-web-standards-and-html/1-4-how-browsers-load-webpages.md) | [Table of contents](/TOC.md)

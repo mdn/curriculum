@@ -6,15 +6,11 @@ Learning outcomes:
 
 - `list-style` properties
 
-- Styling nested lists
-
-- Understand default link styles, and why they came to be — familiarity
+- Understand why default link styles are important for usability on the web (they are familiar and help users to recognize links)
 
 - Styling link states: `:hover`, `:focus`, `:visited`, and `:active`
 
   - Understand why these are necessary for usability and accessibility
-
-- Adding icons to links using `background-image`
 
 - Creating a navigation menu with lists and links
 

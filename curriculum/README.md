@@ -1,5 +1,7 @@
 # Introduction
 
+> Note: Main Introductory text for the curriculum, written to provide more depth on its purpose, target audience, scope, and usage. This information should be included somewhere in the final publication, perhaps as an FAQ or "About" page.
+
 Welcome to the MDN front-end developer curriculum — the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today's web industry!
 
 This curriculum has been created with lots of help from Mozilla's friends at EdX, Scrimba, the University of Greenwich, and throughout the wider web community. Thank you for your valuable input; you know who you are!

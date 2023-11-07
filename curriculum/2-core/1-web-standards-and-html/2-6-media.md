@@ -12,10 +12,6 @@ Learning outcomes:
 
   - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
 
-  - Best practice uses of `title`
-
-  - `<figure>` and `<figcaption>`
-
   - Video and audio-specific attributes such as `controls` and `muted`
 
   - `<sources>`
@@ -30,14 +26,6 @@ Learning outcomes:
 
   - Complying with license requirements.
 
-- Canvas
-
-  - Understanding what `<canvas>` is — a scriptable, updateable image
-
-  - `width` and `height`
-
-- `<picture>` and `srcset` for responsive images
-
 - Alternative text for media
 
   - Alt text for images and video
@@ -46,10 +34,6 @@ Resources:
 
 - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
-> **Notes:**
->
-> - It is not necessary to understand how to script a `<canvas>` element at this stage. That requires JavaScript APIs, and is covered in [Extension 3.2 Graphics/animation APIs](../../3-extensions/3-web-apis.md#32-graphicsanimation-apis).
-
 ---
 
-[Previous: 2.5 Links](/curriculum/2-core/1-standards-and-semantics/2-5-links.md) | [Next: 2.7 Other interactive elements](/curriculum/2-core/1-standards-and-semantics/2-7-other-interactive-elements.md) | [Table of contents](/TOC.md)
+[Previous: 2.5 Links](/curriculum/2-core/1-web-standards-and-html/2-5-links.md) | [Next: 2.7 Other interactive elements](/curriculum/2-core/1-web-standards-and-html/2-7-other-interactive-elements.md) | [Table of contents](/TOC.md)

@@ -2,17 +2,13 @@
 
 Learning outcomes:
 
-- Understand the behavior of default — `static` — positioning
+- Understand that `static` positioning is the default way elements are positioned on the page.
 
 - Relative positioning
 
   - Understand that relatively-positioned elements remain in the normal flow
 
   - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties
-
-    - Or logical equivalents such as `inline-block-start`, `inline-block-end`, etc.
-
-  - The `inset` shorthand
 
 - Absolute positioning
 
@@ -26,7 +22,7 @@ Learning outcomes:
 
   - Understand how these differ from absolute positioning
 
-- Understand what the stacking context is, and how to control z-axis position of positioned elements with `z-index`
+- Understand what z-index is, and how to control the stacking of positioned elements with the `z-index` property
 
 Resources:
 

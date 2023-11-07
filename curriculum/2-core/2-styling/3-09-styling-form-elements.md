@@ -1,4 +1,4 @@
-### 3.10 Styling form elements
+### 3.09 Styling form elements
 
 Learning outcomes:
 
@@ -16,6 +16,10 @@ Learning outcomes:
 
 - Mitigating issues with difficult-to-style types such as `datetime-local`, `color`, etc.
 
+> **Notes:**
+>
+> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
+
 Resources:
 
 - [Images, media, and form elements](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Images_media_form_elements)
@@ -24,10 +28,6 @@ Resources:
 
 - [Advanced form styling](https://developer.mozilla.org/docs/Learn/Forms/Advanced_form_styling)
 
-> **Notes:**
->
-> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling needs.
-
 ---
 
-[Previous: 3.9 Styling replaced elements](/curriculum/2-core/2-styling/3-09-styling-replaced-elements.md) | [Next: 3.11 Debugging CSS](/curriculum/2-core/2-styling/3-11-debugging-css.md) | [Table of contents](/TOC.md)
+[Previous: 3.8 Overflow](/curriculum/2-core/2-styling/3-08-overflow.md) | [Next: 3.10 Debugging CSS](/curriculum/2-core/2-styling/3-10-debugging-css.md) | [Table of contents](/TOC.md)

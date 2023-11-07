@@ -10,8 +10,6 @@ Learning outcomes:
 
   - Properties and methods
 
-  - Static and instance properties/methods
-
   - Nesting objects and arrays in objects
 
 - Using constructors to create a new object

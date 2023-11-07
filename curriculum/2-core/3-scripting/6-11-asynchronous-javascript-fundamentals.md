@@ -20,11 +20,7 @@ Learning outcomes:
 
   - Chaining promises
 
-  - Catching errors
-
-  - `all()`, `any()`, `finally()`
-
-  - Understand the cases in which you'd still use promises rather than `async`/`await`
+  - Catching errors with `catch()`
 
 Resources:
 

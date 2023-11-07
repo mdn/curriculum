@@ -10,7 +10,7 @@ Learning outcomes:
 
 - Getting references to DOM nodes, for example with `querySelector()` and `getElementById()`.
 
-- Creating new nodes, for example with `createElement()` and `createTextNode()`.
+- Creating new nodes, for example with `innerHTML()` and `createElement()`.
 
 - Adding and removing nodes to the DOM with `appendChild()` and `removeChild()`.
 

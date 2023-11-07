@@ -18,6 +18,11 @@ Learning outcomes:
 
 - Hosting, how to purchase it, and how to put a website online
 
+> **Notes:**
+>
+> - One of the key goals of this section is a high-level understanding of how the web functions behind the code that students write.
+> - Students should also gain a vocabulary to start talking about how the web functions precisely.
+
 Resources:
 
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -26,11 +31,6 @@ Resources:
 
 - [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 
-> **Notes:**
->
-> - One of the key goals of this section is a high-level understanding of how the web functions behind the code that students write.
-> - Students should also gain a vocabulary to start talking about how the web functions precisely.
-
 ---
 
-[Previous: 1 The web standards model](/curriculum/2-core/1-standards-and-semantics/1-0-the-web-standards-model.md) | [Next: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-standards-and-semantics/1-2-the-html-css-and-javascript-triangle.md) | [Table of contents](/TOC.md)
+[Previous: 1 The web standards model](/curriculum/2-core/1-web-standards-and-html/1-0-the-web-standards-model.md) | [Next: 1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-web-standards-and-html/1-2-the-html-css-and-javascript-triangle.md) | [Table of contents](/TOC.md)

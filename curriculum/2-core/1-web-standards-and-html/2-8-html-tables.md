@@ -18,4 +18,4 @@ Resources:
 
 ---
 
-[Previous: 2.7 Other interactive elements](/curriculum/2-core/1-standards-and-semantics/2-7-other-interactive-elements.md) | [Next: 2.9 Debugging HTML](/curriculum/2-core/1-standards-and-semantics/2-9-debugging-html.md) | [Table of contents](/TOC.md)
+[Previous: 2.7 Other interactive elements](/curriculum/2-core/1-web-standards-and-html/2-7-other-interactive-elements.md) | [Next: 2.9 Debugging HTML](/curriculum/2-core/1-web-standards-and-html/2-9-debugging-html.md) | [Table of contents](/TOC.md)

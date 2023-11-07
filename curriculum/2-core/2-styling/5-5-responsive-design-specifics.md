@@ -12,9 +12,7 @@ Learning outcomes:
 
   - Understand breakpoints
 
-  - Using `width`/`height` and `orientation` media queries to create responsible layouts
-
-  - Using resolution media queries to serve appropriate assets for different resolution screens
+  - Using `width` and `height` media queries to create responsive layouts
 
 - `<meta viewport="">`, and how to use it to get web documents to display appropriately on mobile devices.
 

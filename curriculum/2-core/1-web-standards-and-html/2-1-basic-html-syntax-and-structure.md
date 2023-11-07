@@ -10,7 +10,7 @@ Learning outcomes:
 
   - Setting information like character encoding and title.
 
-  - Providing metadata for search engines and social media platforms, and the Search Engine Optimization (SEO) benefits.
+  - Providing metadata for search engines (e.g. `<meta name="description">`) and social media platforms (e.g. [Open Graph Data](https://ogp.me/)), and the Search Engine Optimization (SEO) benefits.
 
   - Linking to icons for use on browsers and mobile platforms.
 
@@ -22,8 +22,6 @@ Learning outcomes:
 
 - What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are and how they differ from standard elements.
 
-- Replaced elements, and their purpose — they act as containers into which external content (such as images and video) is embedded.
-
 Resources:
 
 - [Getting started with HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
@@ -32,4 +30,4 @@ Resources:
 
 ---
 
-[Previous: 2 Semantic HTML](/curriculum/2-core/1-standards-and-semantics/2-0-semantic-html.md) | [Next: 2.2 Good document structure](/curriculum/2-core/1-standards-and-semantics/2-2-good-document-structure.md) | [Table of contents](/TOC.md)
+[Previous: 2 Semantic HTML](/curriculum/2-core/1-web-standards-and-html/2-0-semantic-html.md) | [Next: 2.2 Good document structure](/curriculum/2-core/1-web-standards-and-html/2-2-good-document-structure.md) | [Table of contents](/TOC.md)

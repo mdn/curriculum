@@ -18,7 +18,9 @@ Learning outcomes:
 
   - Values
 
-  - Consider also that other CSS syntax exists — such as shorthand, at-rules, and descriptors
+    - Shorthand values
+
+  - At-rules and descriptors
 
 - Default browser styles — understand that the browser provides default CSS styling to HTML elements so that it is in some way usable even with no user-defined styles at all.
 
