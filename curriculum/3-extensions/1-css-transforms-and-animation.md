@@ -24,6 +24,4 @@ Resources:
 
 - [Using CSS animations](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
----
 
-[Previous: Optional extension modules](/curriculum/3-extensions) | [Next: Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md) | [Table of contents](/TOC.md)

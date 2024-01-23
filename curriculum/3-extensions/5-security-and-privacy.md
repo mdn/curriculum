@@ -95,6 +95,4 @@ Resources:
 
 - [Complete guide to GDPR compliance](https://gdpr.eu/)
 
----
 
-[Previous: Extension 4 Performance](/curriculum/3-extensions/4-performance.md) | [Next: Extension 6 Testing](/curriculum/3-extensions/6-testing.md) | [Table of contents](/TOC.md)

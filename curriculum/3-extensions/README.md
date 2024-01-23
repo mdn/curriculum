@@ -16,6 +16,4 @@ These "extension" topics constitute useful additional skills to learn as web dev
 - [Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md): Tooling is not just confined to JavaScript frameworks. There are also common CSS tooling types that you'll encounter on your learning journey.
 - [Extension 9 Other tooling types](/curriculum/3-extensions/9-other-tooling-types.md): There are other types of tooling that you'll commonly encounter on a web project. This module aims to provide a useful list to research.
 
----
 
-[Previous: 9.4 Understanding design briefs](/curriculum/2-core/4-best-practices-and-essential-tooling/9-4-understanding-design-briefs.md) | [Next: Extension 1 CSS transforms and animation](/curriculum/3-extensions/1-css-transforms-and-animation.md) | [Table of contents](/TOC.md)

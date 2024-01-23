@@ -49,6 +49,4 @@ Resources:
 
 - [Git and GitHub](https://developer.mozilla.org/docs/Learn/Tools_and_testing/GitHub)
 
----
 
-[Previous: 7.5 WAI-ARIA](/curriculum/2-core/4-best-practices-and-essential-tooling/7-5-wai-aria.md) | [Next: 9 Design theory for developers](/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md) | [Table of contents](/TOC.md)

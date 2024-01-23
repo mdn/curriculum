@@ -142,6 +142,4 @@ Resources:
 
 - [What is a progressive web app?](https://developer.mozilla.org/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)
 
----
 
-[Previous: Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md) | [Next: Extension 4 Performance](/curriculum/3-extensions/4-performance.md) | [Table of contents](/TOC.md)

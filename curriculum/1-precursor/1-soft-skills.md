@@ -224,6 +224,4 @@ Recommendations:
 
   - How loops work and why they are needed.
 
----
 
-[Previous: Precursor knowledge](/curriculum/1-precursor) | [Next: Environment knowledge](/curriculum/1-precursor/2-environment.md) | [Table of contents](/TOC.md)

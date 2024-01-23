@@ -38,6 +38,4 @@ Learning outcomes — understand the purpose and basic usage of other common too
 
   - Integrations with popular frameworks and app platforms.
 
----
 
-[Previous: Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md) | [Table of contents](/TOC.md)

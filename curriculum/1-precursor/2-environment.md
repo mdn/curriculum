@@ -110,7 +110,7 @@ Resources:
 
   - Find and replace, often with the ability to use regular expressions to make the functionality more powerful (e.g. keep a specific string beginning and end, but replace the substring in between)
 
-  - Integration with version control is often provided (see also [8 Version control fundamentals (Git/GitHub)](../2-core/4-best-practices-and-essential-tooling/8-0-version-control-fundamentals-git-github.md))
+  - Integration with version control is often provided (see also [8 Version control fundamentals (Git/GitHub)](../2-core/4-best-practices-and-essential-tooling.md))
 
 - Customize and enhance your code editor with extensions
 
@@ -128,6 +128,4 @@ Resources:
 
       - Be aware that, while useful, AI tools have no reasoning skill, and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 
----
 
-[Previous: Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md) | [Next: Core modules](/curriculum/2-core) | [Table of contents](/TOC.md)

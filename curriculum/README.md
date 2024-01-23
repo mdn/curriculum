@@ -117,7 +117,7 @@ There are also several areas that we explicitly don't cover in this curriculum, 
 
 - Deep-dive DevOps topics such as cloud platforms for provisioning and automation (for example, [Amazon AWS](https://aws.amazon.com/) , [Google Cloud Platform](https://console.cloud.google.com), and [Microsoft Azure](https://azure.microsoft.com/)) and containerization tools (for example, [Kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com/)). We do lightly touch upon some tools that are considered to be in the DevOps space — like GitHub and automated testing tools — but these have distinct crossover into the front-end developer space.
 
-- Graphic design beyond the basic knowledge outlined in [9 Design theory for developers](./2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md).
+- Graphic design beyond the basic knowledge outlined in [9 Design theory for developers](./2-core/4-best-practices-and-essential-tooling.md).
 
 - Skills related to roles such as product and program management (for example, organization, research, planning).
 
@@ -159,6 +159,4 @@ The web development industry is changing constantly and rapidly. To keep our rec
 
 We intend to do this in Q2 each year, to give educators time over Q2/Q3 to implement changes before the start of the following academic year.
 
----
 
-[Next: Precursor knowledge](/curriculum/1-precursor) | [Table of contents](/TOC.md)

@@ -158,6 +158,4 @@ Resources:
 
 - [JavaScript performance](https://developer.mozilla.org/docs/Learn/Performance/JavaScript)
 
----
 
-[Previous: Extension 3 Web APIs](/curriculum/3-extensions/3-web-apis.md) | [Next: Extension 5 Security and privacy](/curriculum/3-extensions/5-security-and-privacy.md) | [Table of contents](/TOC.md)
