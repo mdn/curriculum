@@ -1,6 +1,7 @@
 summary:
 topic:
 icon:
+
 ---
 
 ## 6 JavaScript fundamentals

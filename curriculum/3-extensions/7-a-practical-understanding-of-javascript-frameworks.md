@@ -1,6 +1,7 @@
 summary:
 topic:
 icon:
+
 ---
 
 # Extension 7 A practical understanding of JavaScript frameworks
