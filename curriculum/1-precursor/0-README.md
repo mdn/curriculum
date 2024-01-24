@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Precursor knowledge
 
 > Note: Intro and TOC for the "Precursor knowledge" section only.

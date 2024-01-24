@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 1 The web standards model
 
 The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.

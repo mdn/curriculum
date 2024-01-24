@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Extension 7 A practical understanding of JavaScript frameworks
 
 JavaScript frameworks are commonly used to build web applications, so it is beneficial to learn about common frameworks and use cases (as listed below) for employment prospects.

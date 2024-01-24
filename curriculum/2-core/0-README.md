@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Core modules
 
 > Note: Intro and TOC for the "Core" section only.

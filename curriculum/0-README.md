@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Introduction
 
 > Note: Main Introductory text for the curriculum, written to provide more depth on its purpose, target audience, scope, and usage. This information should be included somewhere in the final publication, perhaps as an FAQ or "About" page.

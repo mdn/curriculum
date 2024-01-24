@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 2 Semantic HTML
 
 HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.

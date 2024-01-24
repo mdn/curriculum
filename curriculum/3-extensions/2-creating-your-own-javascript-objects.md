@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Extension 2 Creating your own JavaScript objects
 
 Having a deeper knowledge of how JavaScript objects work is very useful as you build confidence with web development, start to build more complex apps, and create your own libraries.

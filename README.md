@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Welcome to the MDN front-end developer curriculum
 
 > Note: Main README for the repo, providing light introduction

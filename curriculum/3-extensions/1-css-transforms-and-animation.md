@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Extension 1 CSS transforms and animation
 
 Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.

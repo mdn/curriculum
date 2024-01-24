@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Extension 6 Testing
 
 Any codebase past a certain level of complexity needs to have a system of tests associated with it, to make sure that as new code is added, the codebase continues to function correctly and performantly, and continues to meet the users' needs. This module lists the fundamentals that you should start with.

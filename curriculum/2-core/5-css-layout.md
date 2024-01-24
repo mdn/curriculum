@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 5 CSS layout
 
 Our final core CSS module looks deep into another crucial topic: creating layouts for modern websites. This module looks at floatings, positioning, modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.

@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Extension 9 Other tooling types
 
 > **Notes:**

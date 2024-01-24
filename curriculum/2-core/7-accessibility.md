@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 7 Accessibility
 
 Access to public services, education, entertainment, and all the other valuable content the web offers is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.

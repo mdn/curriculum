@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 3 CSS fundamentals
 
 CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works

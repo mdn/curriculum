@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 ## 4 CSS text styling
 
 This module focuses specifically on CSS font and text styling, including loading custom web fonts and applying them to your text.

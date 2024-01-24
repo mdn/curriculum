@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Optional extension modules
 
 > Note: Intro and TOC for the "Extensions" section only.

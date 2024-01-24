@@ -1,3 +1,8 @@
+summary:
+topic:
+icon:
+---
+
 # Recommended soft skills
 
 This section provides recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry. Including these skills in a course is not required to conform to the curriculum, but they will help immensely in developing the right attitudes for learning, researching, and collaborating, and increase the chances of getting hired.
