@@ -4,12 +4,8 @@
 
 [Introduction](/curriculum)
 
-
-
 - [Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
 - [Environment knowledge](/curriculum/1-precursor/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
-
-
 
 - [1 The web standards model](/curriculum/2-core/1-the-web-standards-model.md): The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
   - [1.1 How the web works](/curriculum/2-core/1-the-web-standards-model.md#1-1-how-the-web-works)
@@ -71,11 +67,10 @@
   - [7.5 WAI-ARIA](/curriculum/2-core/7-accessibility.md#7-5-wai-aria)
 - [8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/8-version-control-fundamentals-git-github.md): Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
 - [9 Design theory for developers](/curriculum/2-core/9-design-theory-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
+
   - [9.1 Basic design theory](/curriculum/2-core/9-design-theory-for-developers.md#9-1-basic-design-theory)
   - [9.2 User-centered design](/curriculum/2-core/9-design-theory-for-developers.md#9-2-user-centered-design)
   - [9.3 Understanding design briefs](/curriculum/2-core/9-design-theory-for-developers.md#9-3-understanding-design-briefs)
-
-
 
 - [Extension 1 CSS transforms and animation](/curriculum/3-extensions/1-css-transforms-and-animation.md): Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.
 - [Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md): Having a deeper knowledge of how JavaScript objects work is very useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
