@@ -78,5 +78,3 @@ Resources:
 - [Getting started with Svelte](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
 
 - [Getting started with Angular](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
-
-

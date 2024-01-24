@@ -2,7 +2,6 @@
 
 CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works
 
-
 ### 3.1 Basic CSS syntax
 
 Learning outcomes:
@@ -45,7 +44,6 @@ Resources:
 
 - [CSS first steps overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-
 ### 3.2 Selectors and combinators
 
 Learning outcomes:
@@ -69,7 +67,6 @@ Learning outcomes:
 Resources:
 
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-
 
 ### 3.3 The box model
 
@@ -97,7 +94,6 @@ Resources:
 
 - [The box model](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/The_box_model)
 
-
 ### 3.4 Cascade, specificity, and inheritance
 
 Learning outcomes:
@@ -119,7 +115,6 @@ Learning outcomes:
 Resources:
 
 - [Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
-
 
 ### 3.5 Values and units
 
@@ -147,7 +142,6 @@ Resources
 
 - [CSS values and units](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Values_and_units)
 
-
 ### 3.6 Sizing
 
 Learning outcomes:
@@ -165,7 +159,6 @@ Resources:
 - [Sizing items in CSS](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
 
 - [Handling different text directions > Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
-
 
 ### 3.7 Backgrounds and borders
 
@@ -193,7 +186,6 @@ Resources:
 
 - [Backgrounds and borders](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
 
-
 ### 3.8 Overflow
 
 Learning outcomes:
@@ -205,7 +197,6 @@ Learning outcomes:
 Resources:
 
 - [Overflowing content](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Overflowing_content)
-
 
 ### 3.09 Styling form elements
 
@@ -237,7 +228,6 @@ Resources:
 
 - [Advanced form styling](https://developer.mozilla.org/docs/Learn/Forms/Advanced_form_styling)
 
-
 ### 3.10 Debugging CSS
 
 Learning outcomes:
@@ -265,5 +255,3 @@ Resources:
 - [Firefox > Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode)
 
 - [Chrome > CSS DevTools docs](https://developer.chrome.com/docs/devtools/css/)
-
-

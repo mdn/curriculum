@@ -107,5 +107,3 @@ Learning outcomes:
 Resources:
 
 - [Usability testing 101](https://www.nngroup.com/articles/usability-testing-101/)
-
-

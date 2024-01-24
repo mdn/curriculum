@@ -69,5 +69,3 @@ The core modules include the topics that we feel every web developer should have
   - [9.1 Basic design theory](/curriculum/2-core/9-design-theory-for-developers.md#9-1-basic-design-theory)
   - [9.2 User-centered design](/curriculum/2-core/9-design-theory-for-developers.md#9-2-user-centered-design)
   - [9.3 Understanding design briefs](/curriculum/2-core/9-design-theory-for-developers.md#9-3-understanding-design-briefs)
-
-

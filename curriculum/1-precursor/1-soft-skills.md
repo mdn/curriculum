@@ -223,5 +223,3 @@ Recommendations:
   - The purpose of objects, and what they enable in terms of the design of a language like JavaScript and its surrounding APIs.
 
   - How loops work and why they are needed.
-
-

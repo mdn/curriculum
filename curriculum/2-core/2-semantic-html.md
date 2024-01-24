@@ -6,7 +6,6 @@ General resources:
 
 - [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
 
-
 ### 2.1 Basic HTML syntax and structure
 
 Learning outcomes:
@@ -36,7 +35,6 @@ Resources:
 - [Getting started with HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-
 
 ### 2.2 Good document structure
 
@@ -78,7 +76,6 @@ Resources:
 
 - [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
 
-
 ### 2.3 Lists
 
 Learning outcomes:
@@ -102,7 +99,6 @@ Resources:
 - [HTML text fundamentals > Lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists)
 
 - [Advanced text formatting > Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
-
 
 ### 2.4 Advanced text techniques
 
@@ -140,7 +136,6 @@ Resources:
 
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
-
 ### 2.5 Links
 
 Learning outcomes:
@@ -164,7 +159,6 @@ Learning outcomes:
 Resources:
 
 - [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
-
 
 ### 2.6 Media
 
@@ -201,7 +195,6 @@ Learning outcomes:
 Resources:
 
 - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
-
 
 ### 2.7 Other interactive elements
 
@@ -251,7 +244,6 @@ Resources:
 
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
-
 ### 2.8 HTML tables
 
 Learning outcomes:
@@ -269,7 +261,6 @@ Learning outcomes:
 Resources:
 
 - [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
-
 
 ### 2.9 Debugging HTML
 
@@ -292,5 +283,3 @@ Resources:
 - [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html)
 
 - [Chrome DevTools > Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/)
-
-

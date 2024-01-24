@@ -157,5 +157,3 @@ Learning outcomes: Understand techniques for improving JavaScript performance
 Resources:
 
 - [JavaScript performance](https://developer.mozilla.org/docs/Learn/Performance/JavaScript)
-
-

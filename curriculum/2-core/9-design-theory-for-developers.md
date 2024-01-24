@@ -22,7 +22,6 @@ General resources:
 
 - [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
 
-
 ### 9.1 Basic design theory
 
 Learning outcomes:
@@ -50,7 +49,6 @@ Learning outcomes:
 Resources:
 
 - [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
-
 
 ### 9.2 User-centered design
 
@@ -88,7 +86,6 @@ Resources:
 
 - [Inclusive design principles](https://inclusivedesignprinciples.org/)
 
-
 ### 9.3 Understanding design briefs
 
 Learning outcomes:
@@ -98,5 +95,3 @@ Learning outcomes:
 - Interpreting design brief requirements to produce an implementation
 
 - Typical tools designers use to get their message across to developers (e.g. Figma)
-
-

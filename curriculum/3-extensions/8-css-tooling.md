@@ -39,5 +39,3 @@ Learning outcomes:
 - Understand how they integrate into a web project.
 
 - Understand how to weigh up the burden of adopting a CSS preprocessor (e.g. handling integration, initial learning curve) versus the advantages (how much they can speed up writing your CSS once you are familiar with them).
-
-

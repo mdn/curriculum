@@ -8,5 +8,3 @@ The topics outlined in this section are not web development topics, but they do 
 
 - [Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
 - [Environment knowledge](/curriculum/1-precursor/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
-
-

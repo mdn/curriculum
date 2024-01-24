@@ -2,7 +2,6 @@
 
 Access to public services, education, entertainment, and all the other valuable content the web offers is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.
 
-
 ### 7.1 Accessibility basics
 
 Learning outcomes:
@@ -49,7 +48,6 @@ Resources:
 
 - [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
 
-
 ### 7.2 Accessible styling
 
 Learning outcomes:
@@ -92,7 +90,6 @@ Resources:
 
 - [Mozilla Accessibility design guide](https://wiki.mozilla.org/Accessibility/Design_Guide), which includes guidelines on design when in high contrast mode
 
-
 ### 7.3 Accessible JavaScript
 
 Learning outcomes:
@@ -114,7 +111,6 @@ Resources:
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
 - [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/)
-
 
 ### 7.4 Assistive technology and testing
 
@@ -159,7 +155,6 @@ Resources:
 
 - [WebAIM accessibility tooling articles](https://webaim.org/articles/#evaluation)
 
-
 ### 7.5 WAI-ARIA
 
 Learning outcomes:
@@ -183,5 +178,3 @@ Resources:
 - [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) (a set of useful ARIA design patterns)
-
-

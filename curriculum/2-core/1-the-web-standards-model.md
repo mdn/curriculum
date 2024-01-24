@@ -6,7 +6,6 @@ General resources:
 
 - [Resilient Web Design](https://resilientwebdesign.com/), by Jeremy Keith — a useful and enjoyable scene-setting text for the criteria covered in this section.
 
-
 ### 1.1 How the web works
 
 Learning outcomes:
@@ -39,7 +38,6 @@ Resources:
 - [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
 
 - [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
-
 
 ### 1.2 The HTML, CSS, and JavaScript triangle
 
@@ -93,7 +91,6 @@ Resources:
 
 - [What is Progressive Enhancement, and why it matters](https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/)
 
-
 ### 1.3 Web standards
 
 Learning outcomes:
@@ -137,7 +134,6 @@ Resources:
 - [WHATWG FAQ](https://whatwg.org/faq)
 
 - [https://www.w3.org/TR/design-principles/](https://www.w3.org/TR/design-principles/)
-
 
 ### 1.4 How browsers load webpages
 
@@ -209,5 +205,3 @@ Resources:
 - [Populating the page: how browsers work](https://developer.mozilla.org/docs/Web/Performance/How_browsers_work)
 
 - [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-
-

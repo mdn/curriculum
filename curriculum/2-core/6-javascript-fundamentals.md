@@ -2,7 +2,6 @@
 
 JavaScript is a huge topic, with so many different features, styles, and techniques to learn, and so many APIs and tools built on top of it. This module focuses on the essentials of the core language. Learning these topics will give you a solid basis to work from.
 
-
 ### 6.1 Variables
 
 Learning outcomes:
@@ -24,7 +23,6 @@ Learning outcomes:
 Resources:
 
 - [Storing the information you need — Variables](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Variables)
-
 
 ### 6.2 Math
 
@@ -51,7 +49,6 @@ Resources:
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Math)
 
 - [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_dates)
-
 
 ### 6.3 Text
 
@@ -93,7 +90,6 @@ Resources:
 
 - [Useful string methods](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
-
 ### 6.4 Arrays
 
 Learning outcomes:
@@ -122,7 +118,6 @@ Resources:
 
 - [Arrays](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Arrays)
 
-
 ### 6.5 Conditionals
 
 Learning outcomes:
@@ -143,7 +138,6 @@ Resources:
 
 - [Making decisions in your code — conditionals](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-
 ### 6.6 Loops
 
 Learning outcomes:
@@ -163,7 +157,6 @@ Learning outcomes:
 Resources:
 
 - [Looping code](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Looping_code)
-
 
 ### 6.7 Functions
 
@@ -203,7 +196,6 @@ Resources:
 
 - [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
 
-
 ### 6.8 JavaScript object fundamentals
 
 Learning outcomes:
@@ -232,7 +224,6 @@ Resources:
 
 - [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
-
 ### 6.9 DOM scripting
 
 Learning outcomes:
@@ -257,7 +248,6 @@ Resources:
 
 - [Manipulating documents](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 
-
 ### 6.10 Events
 
 Learning outcomes:
@@ -281,7 +271,6 @@ Learning outcomes:
 Resources:
 
 - [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
-
 
 ### 6.11 Asynchronous JavaScript fundamentals
 
@@ -311,7 +300,6 @@ Resources:
 
 - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
-
 ### 6.12 Network requests with fetch()
 
 - Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common async JavaScript use case on the web.
@@ -334,7 +322,6 @@ Resources:
 
 - [Fetching data from the server](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
-
 ### 6.13 Working with JSON
 
 Learning outcomes:
@@ -352,7 +339,6 @@ Learning outcomes:
 Resources:
 
 - [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
-
 
 ### 6.14 JavaScript libraries and frameworks introduction
 
@@ -406,7 +392,6 @@ Resources:
 
 - [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
 
-
 ### 6.15 Debugging JavaScript
 
 Learning outcomes:
@@ -440,5 +425,3 @@ Resources:
 - [Chrome > Console overview](https://developer.chrome.com/docs/devtools/console/)
 
 - [Chrome > Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/)
-
-

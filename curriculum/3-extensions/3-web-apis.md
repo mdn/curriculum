@@ -141,5 +141,3 @@ Resources:
 - [Using HTTP cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies)
 
 - [What is a progressive web app?](https://developer.mozilla.org/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)
-
-

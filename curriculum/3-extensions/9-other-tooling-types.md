@@ -37,5 +37,3 @@ Learning outcomes — understand the purpose and basic usage of other common too
   - Handling access control, integration with identity providers such as Okta/Auth0.
 
   - Integrations with popular frameworks and app platforms.
-
-

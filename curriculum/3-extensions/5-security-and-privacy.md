@@ -94,5 +94,3 @@ Learning outcomes:
 Resources:
 
 - [Complete guide to GDPR compliance](https://gdpr.eu/)
-
-
