@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 9 Other tooling types
 
 > **Notes:**
@@ -37,7 +43,3 @@ Learning outcomes — understand the purpose and basic usage of other common too
   - Handling access control, integration with identity providers such as Okta/Auth0.
 
   - Integrations with popular frameworks and app platforms.
-
----
-
-[Previous: Extension 8 CSS tooling](/curriculum/3-extensions/8-css-tooling.md) | [Table of contents](/TOC.md)

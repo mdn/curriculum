@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 6 Testing
 
 Any codebase past a certain level of complexity needs to have a system of tests associated with it, to make sure that as new code is added, the codebase continues to function correctly and performantly, and continues to meet the users' needs. This module lists the fundamentals that you should start with.
@@ -24,7 +30,7 @@ Learning outcomes:
 
   - Security Testing: Identifying vulnerabilities and weaknesses in the web app's security mechanisms (see also [Extension 5 Security and privacy](./5-security-and-privacy.md)).
 
-  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [7 Accessibility](../2-core/4-best-practices-and-essential-tooling/7-0-accessibility.md)).
+  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [7 Accessibility](../2-core/7-accessibility.md)).
 
 ## 6.2 Functional and compatibility testing
 
@@ -107,7 +113,3 @@ Learning outcomes:
 Resources:
 
 - [Usability testing 101](https://www.nngroup.com/articles/usability-testing-101/)
-
----
-
-[Previous: Extension 5 Security and privacy](/curriculum/3-extensions/5-security-and-privacy.md) | [Next: Extension 7 A practical understanding of JavaScript frameworks](/curriculum/3-extensions/7-a-practical-understanding-of-javascript-frameworks.md) | [Table of contents](/TOC.md)

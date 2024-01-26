@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 ## 8 Version control fundamentals (Git/GitHub)
 
 Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
@@ -48,7 +54,3 @@ Learning outcomes:
 Resources:
 
 - [Git and GitHub](https://developer.mozilla.org/docs/Learn/Tools_and_testing/GitHub)
-
----
-
-[Previous: 7.5 WAI-ARIA](/curriculum/2-core/4-best-practices-and-essential-tooling/7-5-wai-aria.md) | [Next: 9 Design theory for developers](/curriculum/2-core/4-best-practices-and-essential-tooling/9-0-design-theory-for-developers.md) | [Table of contents](/TOC.md)

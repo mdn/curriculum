@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 3 Web APIs
 
 This module covers common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail, providing a useful grounding for those who want to go deeper into browser API usage.
@@ -141,7 +147,3 @@ Resources:
 - [Using HTTP cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies)
 
 - [What is a progressive web app?](https://developer.mozilla.org/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)
-
----
-
-[Previous: Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md) | [Next: Extension 4 Performance](/curriculum/3-extensions/4-performance.md) | [Table of contents](/TOC.md)

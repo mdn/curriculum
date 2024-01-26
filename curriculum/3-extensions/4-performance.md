@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 4 Performance
 
 Performance centers around making your websites as fast as possible, both in real terms (for example small file sizes, quicker loading), and in terms of how performance is perceived (for example getting initial content to a usable state as fast as possible, even if all the content is not yet loaded).
@@ -157,7 +163,3 @@ Learning outcomes: Understand techniques for improving JavaScript performance
 Resources:
 
 - [JavaScript performance](https://developer.mozilla.org/docs/Learn/Performance/JavaScript)
-
----
-
-[Previous: Extension 3 Web APIs](/curriculum/3-extensions/3-web-apis.md) | [Next: Extension 5 Security and privacy](/curriculum/3-extensions/5-security-and-privacy.md) | [Table of contents](/TOC.md)

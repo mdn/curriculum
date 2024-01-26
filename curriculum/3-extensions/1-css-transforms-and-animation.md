@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 1 CSS transforms and animation
 
 Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.
@@ -23,7 +29,3 @@ Resources:
 - [Using CSS transitions](https://developer.mozilla.org/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 - [Using CSS animations](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-
----
-
-[Previous: Optional extension modules](/curriculum/3-extensions) | [Next: Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md) | [Table of contents](/TOC.md)

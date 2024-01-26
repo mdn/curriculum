@@ -1,3 +1,9 @@
+---
+summary:
+topic:
+icon:
+---
+
 # Extension 5 Security and privacy
 
 It is vital to have an understanding of how you can and should protect your data and your user's data from would-be attackers who may try to steal it. This module covers both hardening websites to make it more difficult to steal data, and collecting user data in a respectful way that avoids tracking them or sharing it with unsuitable third parties.
@@ -94,7 +100,3 @@ Learning outcomes:
 Resources:
 
 - [Complete guide to GDPR compliance](https://gdpr.eu/)
-
----
-
-[Previous: Extension 4 Performance](/curriculum/3-extensions/4-performance.md) | [Next: Extension 6 Testing](/curriculum/3-extensions/6-testing.md) | [Table of contents](/TOC.md)
