@@ -1,7 +1,7 @@
+---
 summary:
 topic:
 icon:
-
 ---
 
 # Extension 3 Web APIs

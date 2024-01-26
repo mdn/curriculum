@@ -1,7 +1,7 @@
+---
 summary:
 topic:
 icon:
-
 ---
 
 ## 1 The web standards model

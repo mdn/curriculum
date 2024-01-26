@@ -1,7 +1,7 @@
+---
 summary:
 topic:
 icon:
-
 ---
 
 # Extension 2 Creating your own JavaScript objects

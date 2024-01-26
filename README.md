@@ -1,7 +1,7 @@
+---
 summary:
 topic:
 icon:
-
 ---
 
 # Welcome to the MDN front-end developer curriculum
