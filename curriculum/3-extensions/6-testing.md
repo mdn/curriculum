@@ -56,7 +56,7 @@ Learning outcomes:
 
   - Fix the code and rerun the tests to make sure they pass, and ensure that new errors have not been introduced by the code updates (regression testing).
 
-- Understand the typical tool set used to run automated tests:
+- Understand the typical toolset used to run automated tests:
 
   - Use a combination of physical devices and virtual machines (such as [VirtualBox](https://www.virtualbox.org/)) to make the different browser and device combinations available.
 
@@ -76,7 +76,7 @@ Learning outcomes:
 
 Resources:
 
-- [Cross-browser testing](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing) (MDN)
+- [Cross-browser testing](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing)
 
 ## 6.3 Usability testing
 
@@ -106,10 +106,10 @@ Learning outcomes:
 
   - Clear instructions are needed: Explain the purpose of the test to the test subject. Instruct them to think aloud while performing the tasks. Observe their interactions and take notes on any issues or difficulties they encounter. Encourage participants to provide honest feedback.
 
-  - Video conferencing software such as Zoom, which should include screen sharing functionality so you can observe what the test subjects are doing, and the ability to record the session so you can review it later.
+  - Video conferencing software such as Zoom that includes screen-sharing functionality so you can observe what the test subjects are doing, and the ability to record the session so you can review it later.
 
   - Eye-tracking software can be useful, to allow you to see what the user looks at as they try to follow your script.
 
 Resources:
 
-- [Usability testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+- [Usability testing 101](https://www.nngroup.com/articles/usability-testing-101/), nngroup.com (2019)

@@ -4,7 +4,7 @@ topic:
 icon:
 ---
 
-# 9 Design theory for developers
+# 9 Design for developers
 
 The idea of this module is to (re-)introduce developers to design thinking. They may not want to work as designers, but having some basic user experience and design theory is good for everyone involved in building websites, no matter what their role. At the very least, even the most technical, "non-designer" developer should understand design briefs, why things are designed as they are, and be able to get into the mindset of the user. And it'll help them make their portfolios look better.
 
@@ -12,21 +12,23 @@ In addition, front-end developers are often tasked with doing various bits of de
 
 General resources:
 
-- [The Shape of Design](https://shapeofdesignbook.com/), by Frank Chimero (free online book)
+- [The Shape of Design](https://shapeofdesignbook.com/chapters/00-introduction/), Frank Chimero
 
-- [Designing for the Web](https://designingfortheweb.co.uk/), by Mark Boulton (free online book)
+- [Designing for the Web](https://designingfortheweb.co.uk/), Mark Boulton
 
-- [Design trampoline: Learn design theory basics](https://designtrampoline.org/), by Anna Riazhskikh (free online book)
+- [Design trampoline: Learn design theory basics](https://designtrampoline.org/), Anna Riazhskikh
 
-- [Practical Typography](https://practicaltypography.com/), by Matthew Butterick (free online book)
+- [Practical Typography](https://practicaltypography.com/), Matthew Butterick
 
-- [Web typography made simple](https://eyelearn.org/typelab-by-hannahBoom/), by Hannah Boom (free online book)
+- [Web typography made simple](https://eyelearn.org/typelab-by-hannahBoom/), Hannah Boom
 
-- [Web Style Guide](https://webstyleguide.com/), by Patrick J. Lynch and Sarah Horton (free online book)
+- [Web Style Guide](https://webstyleguide.com/), Patrick J. Lynch and Sarah Horton
 
-- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/), Anthony Hobday
 
-- [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules)
+- [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules), Adham Dannaway
+
+- [Learn UI Design Fundamentals](https://scrimba.com/learn/design), Scrimba
 
 ## 9.1 Basic design theory
 
@@ -90,7 +92,7 @@ Resources:
 
 - [Accessibility overview](https://developer.mozilla.org/docs/Learn/Accessibility)
 
-- [Inclusive design principles](https://inclusivedesignprinciples.org/)
+- [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
 
 ## 9.3 Understanding design briefs
 

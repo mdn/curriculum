@@ -128,9 +128,9 @@ Resources
 
 - [Google Lighthouse > Performance](https://developer.chrome.com/docs/lighthouse/performance/)
 
-- Relevant Firefox DevTools: [Network Monitor](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/index.html), [Performance Monitor](https://firefox-source-docs.mozilla.org/devtools-user/performance/index.html)
+- Relevant Firefox DevTools: [Network Monitor](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/index.html) and [Performance Monitor](https://firefox-source-docs.mozilla.org/devtools-user/performance/index.html), Firefox Source Docs
 
-- Relevant Chrome DevTools: [Inspect network activity](https://developer.chrome.com/docs/devtools/network/), [Analyze runtime performance](https://developer.chrome.com/docs/devtools/performance/)
+- Relevant Chrome DevTools: [Inspect network activity](https://developer.chrome.com/docs/devtools/network/) (2019) and [Analyze runtime performance](https://developer.chrome.com/docs/devtools/performance/) (2017), developer.chrome.com
 
 ## 4.4 CSS and performance
 

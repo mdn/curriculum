@@ -4,17 +4,17 @@ topic:
 icon:
 ---
 
-# Environment knowledge
+# Environment setup
 
 This section provides recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps. These topics are not directly related to creating web code, but you will benefit greatly from understanding the environment you are working in.
 
 General resources:
 
-- [macOS User Guide](https://support.apple.com/guide/mac-help/mchld1690538/mac)
+- [macOS User Guide](https://support.apple.com/guide/mac-help/mchld1690538/mac), Apple (2024)
 
-- [Windows help and learning](https://support.microsoft.com/windows)
+- [Windows help and learning](https://support.microsoft.com/windows), Microsoft (2024)
 
-- [Official Ubuntu documentation](https://help.ubuntu.com/)
+- [Official Ubuntu documentation](https://help.ubuntu.com/), ubuntu.com (2024)
 
 ## 1.1 Computer basics
 
@@ -48,7 +48,7 @@ Resources:
 
 Resources:
 
-- [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files) (on MDN)
+- [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ## 1.3 Browsing the web
 
@@ -64,7 +64,7 @@ Resources:
 
 - [What is the difference between web page, website, web server, and search engine?](https://developer.mozilla.org/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
 
-- [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond)
+- [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond), theguardian.com (2016)
 
 ## 1.4 Command line basics
 

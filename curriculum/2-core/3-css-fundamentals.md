@@ -6,7 +6,11 @@ icon:
 
 # 3 CSS fundamentals
 
-CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works
+CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works.
+
+General resources:
+
+- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss), Scrimba
 
 ## 3.1 Basic CSS syntax
 
@@ -48,7 +52,11 @@ Resources:
 
 - [What is CSS?](https://developer.mozilla.org/docs/Learn/CSS/First_steps/What_is_CSS)
 
-- [CSS first steps overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+
+- [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+
+- [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 
 ## 3.2 Selectors and combinators
 
@@ -73,6 +81,8 @@ Learning outcomes:
 Resources:
 
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+
+- [CSS Selectors – Cheat Sheet for Class, Name, Child Selector List](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/), freeCodeCamp (2022)
 
 ## 3.3 The box model
 
@@ -99,6 +109,8 @@ Learning outcomes:
 Resources:
 
 - [The box model](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/The_box_model)
+
+- [Box Model](https://web.dev/learn/css/box-model/), web.dev (2019)
 
 ## 3.4 Cascade, specificity, and inheritance
 
@@ -256,8 +268,8 @@ Resources:
 
 - [Handling common HTML and CSS problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS)
 
-- [Firefox > Examine and edit CSS](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html)
+- [Firefox > Examine and edit CSS](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html), Firefox Source Docs
 
-- [Firefox > Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode)
+- [Firefox > Responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/index.html#responsive-design-mode), Firefox Source Docs
 
-- [Chrome > CSS DevTools docs](https://developer.chrome.com/docs/devtools/css/)
+- [Chrome > View and change CSS](https://developer.chrome.com/docs/devtools/css/), developer.chrome.com)

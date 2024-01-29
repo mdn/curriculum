@@ -10,7 +10,7 @@ The fundamentals of how the web works at a high level, including the model used 
 
 General resources:
 
-- [Resilient Web Design](https://resilientwebdesign.com/), by Jeremy Keith — a useful and enjoyable scene-setting text for the criteria covered in this section.
+- [Resilient Web Design](https://resilientwebdesign.com/), Jeremy Keith
 
 ## 1.1 How the web works
 
@@ -41,9 +41,15 @@ Resources:
 
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
+- [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/), freeCodeCamp (2015)
+
 - [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
 
 - [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
+
+- [Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+
+
 
 ## 1.2 The HTML, CSS, and JavaScript triangle
 
@@ -89,11 +95,13 @@ Learning outcomes:
 >
 > - Progressive enhancement is often seen as unimportant, because browsers tend to support new features more consistently these days, and more people tend to have faster internet connections. However, you should think about relevant examples to relate to in the modern day, for example cutting down on bling to make a mobile experience smoother and saving on data, or providing a simpler, lower bandwidth experience for users in developing countries who might still pay for home internet by the megabyte.
 >
->   - This bleeds over into responsive design, which is covered later on in more depth.
+>   - This bleeds over into responsive design, which is [covered later on in more depth](/).
 
 Resources:
 
 - [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+
+- [The Web Standards Model](https://www.websitearchitecture.co.uk/resources/examples/web-standards-model/), websitearchitecture.co.uk
 
 - [What is Progressive Enhancement, and why it matters](https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/)
 
@@ -133,13 +141,13 @@ Resources:
 
 - [The web and web standards](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
 
-- [About W3C web standards](https://beta.w3.org/standards/about/)
+- [About W3C web standards](https://www.w3.org/standards/about/), W3C
 
-- [The W3C recommendation track](https://www.w3.org/2021/Process-20211102/#rec-track)
+- [The W3C recommendation track](https://www.w3.org/2021/Process-20211102/#rec-track), W3C (2021)
 
-- [WHATWG FAQ](https://whatwg.org/faq)
+- [WHATWG FAQ](https://whatwg.org/faq), WHATWG
 
-- [https://www.w3.org/TR/design-principles/](https://www.w3.org/TR/design-principles/)
+- [Web Platform Design Principles](https://www.w3.org/TR/design-principles/), W3C (2023)
 
 ## 1.4 How browsers load webpages
 
@@ -211,3 +219,5 @@ Resources:
 - [Populating the page: how browsers work](https://developer.mozilla.org/docs/Web/Performance/How_browsers_work)
 
 - [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+
+- [How browsers work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/), freeCodeCamp (2018)

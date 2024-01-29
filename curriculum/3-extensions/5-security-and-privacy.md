@@ -8,6 +8,12 @@ icon:
 
 It is vital to have an understanding of how you can and should protect your data and your user's data from would-be attackers who may try to steal it. This module covers both hardening websites to make it more difficult to steal data, and collecting user data in a respectful way that avoids tracking them or sharing it with unsuitable third parties.
 
+General resources:
+
+- [Privacy on the web](https://developer.mozilla.org/en-US/docs/Web/Privacy)
+
+- [Learn Privacy](https://web.dev/learn/privacy/), web.dev (2023)
+
 ## 5.1 Security and privacy basics
 
 > **Notes:**
@@ -25,7 +31,7 @@ Learning outcomes:
 
 - Same-origin security
 
-  - Why this is important and fundamental to the web
+  - Why this is fundamental to the web
 
   - Ways of working around it safely, such as Cross-Origin Resource Sharing (CORS)
 
@@ -85,11 +91,11 @@ Learning outcomes:
 
   - [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (EU)
 
-  - [Data Protection Act 2018](https://www.gov.uk/data-protection) (UK)
+  - [Data Protection Act 2018](https://www.gov.uk/data-protection) (UK), gov.uk
 
-  - [California Consumer Privacy Act (2018)](https://www.oag.ca.gov/privacy/ccpa) (US, CA)
+  - [California Consumer Privacy Act (2018)](https://www.oag.ca.gov/privacy/ccpa) (US, CA), ca.gov
 
-  - [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (US)
+  - [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (US), ftc.gov
 
 - Understand what compliance with such laws looks like in terms of practical implementation
 
@@ -99,4 +105,4 @@ Learning outcomes:
 
 Resources:
 
-- [Complete guide to GDPR compliance](https://gdpr.eu/)
+- [Complete guide to GDPR compliance](https://gdpr.eu/), gdpr.eu

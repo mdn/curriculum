@@ -77,6 +77,8 @@ Resources:
 
 - [Getting started with React](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
+- [Learn React](https://scrimba.com/learn/learnreact), Scrimba
+
 - [Getting started with Vue](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 
 - [Getting started with Ember](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)

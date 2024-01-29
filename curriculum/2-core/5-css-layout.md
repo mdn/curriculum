@@ -20,6 +20,8 @@ Resources:
 
 - [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
 
+- [Normal flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+
 ## 5.2 Floats
 
 Learning outcomes:
@@ -36,6 +38,8 @@ Resources:
 
 - [Floats](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Floats)
 
+- [All About FLoats](https://css-tricks.com/all-about-floats/), CSS-Tricks (2021)
+
 ## 5.3 Positioning
 
 Learning outcomes:
@@ -44,7 +48,7 @@ Learning outcomes:
 
 - Relative positioning
 
-  - Understand that relatively-positioned elements remain in the normal flow
+  - Understand that relatively positioned elements remain in the normal flow
 
   - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties
 
@@ -65,6 +69,8 @@ Learning outcomes:
 Resources:
 
 - [Positioning](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Positioning)
+
+- [position](https://css-tricks.com/almanac/properties/p/position/), CSS-Tricks (2022)
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 

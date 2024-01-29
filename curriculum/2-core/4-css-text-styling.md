@@ -32,6 +32,8 @@ Resources:
 
 - [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
 
+- [Text and typography](https://web.dev/learn/css/typography/), web.dev (2021)
+
 ## 4.2 Styling lists and links
 
 Learning outcomes:
@@ -74,4 +76,4 @@ Resources:
 
 - [Web fonts](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Web_fonts)
 
-- [Fonts Knowledge](https://fonts.google.com/knowledge)
+- [Fonts Knowledge](https://fonts.google.com/knowledge), Google Fonts
