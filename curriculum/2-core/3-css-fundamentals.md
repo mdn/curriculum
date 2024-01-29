@@ -4,11 +4,11 @@ topic:
 icon:
 ---
 
-## 3 CSS fundamentals
+# 3 CSS fundamentals
 
 CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works
 
-### 3.1 Basic CSS syntax
+## 3.1 Basic CSS syntax
 
 Learning outcomes:
 
@@ -50,7 +50,7 @@ Resources:
 
 - [CSS first steps overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-### 3.2 Selectors and combinators
+## 3.2 Selectors and combinators
 
 Learning outcomes:
 
@@ -74,7 +74,7 @@ Resources:
 
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 
-### 3.3 The box model
+## 3.3 The box model
 
 Learning outcomes:
 
@@ -100,7 +100,7 @@ Resources:
 
 - [The box model](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/The_box_model)
 
-### 3.4 Cascade, specificity, and inheritance
+## 3.4 Cascade, specificity, and inheritance
 
 Learning outcomes:
 
@@ -122,7 +122,7 @@ Resources:
 
 - [Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 
-### 3.5 Values and units
+## 3.5 Values and units
 
 Learning outcomes:
 
@@ -148,7 +148,7 @@ Resources
 
 - [CSS values and units](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Values_and_units)
 
-### 3.6 Sizing
+## 3.6 Sizing
 
 Learning outcomes:
 
@@ -166,7 +166,7 @@ Resources:
 
 - [Handling different text directions > Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
 
-### 3.7 Backgrounds and borders
+## 3.7 Backgrounds and borders
 
 Learning outcomes:
 
@@ -192,7 +192,7 @@ Resources:
 
 - [Backgrounds and borders](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
 
-### 3.8 Overflow
+## 3.8 Overflow
 
 Learning outcomes:
 
@@ -204,7 +204,7 @@ Resources:
 
 - [Overflowing content](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Overflowing_content)
 
-### 3.09 Styling form elements
+## 3.9 Styling form elements
 
 Learning outcomes:
 
@@ -234,7 +234,7 @@ Resources:
 
 - [Advanced form styling](https://developer.mozilla.org/docs/Learn/Forms/Advanced_form_styling)
 
-### 3.10 Debugging CSS
+## 3.10 Debugging CSS
 
 Learning outcomes:
 

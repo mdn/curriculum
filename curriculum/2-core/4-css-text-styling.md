@@ -4,11 +4,11 @@ topic:
 icon:
 ---
 
-## 4 CSS text styling
+# 4 CSS text styling
 
 This module focuses specifically on CSS font and text styling, including loading custom web fonts and applying them to your text.
 
-### 4.1 Text and font styling
+## 4.1 Text and font styling
 
 Learning outcomes:
 
@@ -32,7 +32,7 @@ Resources:
 
 - [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
 
-### 4.2 Styling lists and links
+## 4.2 Styling lists and links
 
 Learning outcomes:
 
@@ -54,7 +54,7 @@ Resources:
 
 - [Styling links](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Styling_links)
 
-### 4.3 Web fonts
+## 4.3 Web fonts
 
 Learning outcomes:
 
