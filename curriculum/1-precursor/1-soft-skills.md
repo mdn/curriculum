@@ -224,7 +224,7 @@ Resources:
 
 - [Website development team structure: roles and processes](https://www.truemark.dev/blog/web-development-team-structure-role-process/), truemark.dev (2017)
 
-- [Waterfall vs. Agile vs. Kanban vs. Scrum: What’s the difference?](https://asana.com/resources/waterfall-agile-kanban-scrum), Asana (2022)
+- [Waterfall vs. Agile vs. Kanban vs. Scrum: What's the difference?](https://asana.com/resources/waterfall-agile-kanban-scrum), Asana (2022)
 
 ## Grasp of relevant contextual information
 
