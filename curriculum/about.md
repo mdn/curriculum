@@ -96,13 +96,14 @@ There are also several areas that we explicitly don't cover in this curriculum, 
 This resource is free for anyone to use. If you find the curriculum useful, we request that you consider doing the following:
 
 - Link to it. For example, an educator could include the following in their public program information:
-  
+
   ```html
   <p>
     This course is based on the
     <a href="#">MDN front-end development curriculum</a>.
   </p>
   ```
+
 - Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
 
 > **Note:** This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.

@@ -15,7 +15,7 @@ Welcome to the MDN front-end developer curriculum — the up-to-date industry-st
 ## Getting started
 
 - Just starting your coding journey? Learn all the fundamental web development skills you need by studying our [Setup](#) and [Core](#) topics.
-- Know the fundamentals and want to go further? Develop specialisms with our [Extensions](#). 
+- Know the fundamentals and want to go further? Develop specialisms with our [Extensions](#).
 - Looking for employment? Consult our [Soft skills](#) to help you secure a job.
 <!-- for Anuja: leave some space here to separate the student offering from the educator one -->
 - Are you an educator? Structure your syllabus and help your students with our topics.
