@@ -168,8 +168,7 @@ Learning outcomes:
 
 Resources:
 
-- [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
-)
+- [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
 ## 2.6 Media
 

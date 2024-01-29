@@ -16,7 +16,6 @@ General resources:
 
 - [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 
-
 ## 6.1 Variables
 
 Learning outcomes:
