@@ -4,7 +4,7 @@ topic:
 icon:
 ---
 
-## 1 The web standards model
+# 1 The web standards model
 
 The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
 
@@ -12,7 +12,7 @@ General resources:
 
 - [Resilient Web Design](https://resilientwebdesign.com/), by Jeremy Keith — a useful and enjoyable scene-setting text for the criteria covered in this section.
 
-### 1.1 How the web works
+## 1.1 How the web works
 
 Learning outcomes:
 
@@ -45,7 +45,7 @@ Resources:
 
 - [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 
-### 1.2 The HTML, CSS, and JavaScript triangle
+## 1.2 The HTML, CSS, and JavaScript triangle
 
 Learning outcomes:
 
@@ -97,7 +97,7 @@ Resources:
 
 - [What is Progressive Enhancement, and why it matters](https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/)
 
-### 1.3 Web standards
+## 1.3 Web standards
 
 Learning outcomes:
 
@@ -141,7 +141,7 @@ Resources:
 
 - [https://www.w3.org/TR/design-principles/](https://www.w3.org/TR/design-principles/)
 
-### 1.4 How browsers load webpages
+## 1.4 How browsers load webpages
 
 Learning outcomes:
 

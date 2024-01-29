@@ -4,7 +4,7 @@ topic:
 icon:
 ---
 
-## 2 Semantic HTML
+# 2 Semantic HTML
 
 HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
 
@@ -12,7 +12,7 @@ General resources:
 
 - [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
 
-### 2.1 Basic HTML syntax and structure
+## 2.1 Basic HTML syntax and structure
 
 Learning outcomes:
 
@@ -42,7 +42,7 @@ Resources:
 
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-### 2.2 Good document structure
+## 2.2 Good document structure
 
 Learning outcomes:
 
@@ -82,7 +82,7 @@ Resources:
 
 - [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
 
-### 2.3 Lists
+## 2.3 Lists
 
 Learning outcomes:
 
@@ -106,7 +106,7 @@ Resources:
 
 - [Advanced text formatting > Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
 
-### 2.4 Advanced text techniques
+## 2.4 Advanced text techniques
 
 Learning outcomes:
 
@@ -142,7 +142,7 @@ Resources:
 
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
-### 2.5 Links
+## 2.5 Links
 
 Learning outcomes:
 
@@ -166,7 +166,7 @@ Resources:
 
 - [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
-### 2.6 Media
+## 2.6 Media
 
 Learning outcomes:
 
@@ -202,7 +202,7 @@ Resources:
 
 - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
-### 2.7 Other interactive elements
+## 2.7 Other interactive elements
 
 Learning outcomes:
 
@@ -250,7 +250,7 @@ Resources:
 
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
-### 2.8 HTML tables
+## 2.8 HTML tables
 
 Learning outcomes:
 
@@ -268,7 +268,7 @@ Resources:
 
 - [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 
-### 2.9 Debugging HTML
+## 2.9 Debugging HTML
 
 Learning outcomes:
 
