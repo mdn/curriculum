@@ -41,7 +41,7 @@ Once a student has the list of topics they are going to learn, they should go fo
 
 Educators can use the curriculum as a guide when creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Conforming to the curriculum will help ensure that courses teach current techniques and best practices, and avoid out-of-date practices.
 
-> **Note:** Any course based on the MDN curriculum should conform to the [Core](#), but could also optionally include one or more [Extensions](#).
+> **Note:** Any course based on the MDN curriculum should conform to the [Core](/), but could also optionally include one or more [Extensions](/).
 
 We recommend that any course conforming to the MDN curriculum should:
 
@@ -52,7 +52,7 @@ We recommend that any course conforming to the MDN curriculum should:
 
 The term _front-end developer_ can be ambiguous; it can mean different things to different people, and folks working on the front end can be expected to do a wide variety of different tasks.
 
-### What’s covered
+### What's covered
 
 This curriculum does not attempt to outline every topic that a web developer could conceivably be expected to know in-depth. The curriculum covers the following topics:
 
@@ -60,7 +60,7 @@ This curriculum does not attempt to outline every topic that a web developer cou
 - Best practices such as accessibility, responsive design, and UI design theory
 - Key tools such as frameworks and version control
 - Soft skills for promoting the mindset and attitude required to secure a job
-- “Web-adjacent” topics like computer and file systems, browsing the web, command line basics, and code editors.
+- "Web-adjacent" topics like computer and file systems, browsing the web, command line basics, and code editors.
 - Several "extension topics" that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
   - CSS transforms and animation
   - Common categories of Web API, including video and audio, graphics/animation, and storage
