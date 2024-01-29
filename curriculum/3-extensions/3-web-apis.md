@@ -96,8 +96,6 @@ Resources:
 
 - [Drawing graphics](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
 
-- [Animating with javascript: from setInterval to requestAnimationFrame](https://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/)
-
 - [Web Animations API](https://developer.mozilla.org/docs/Web/API/Web_Animations_API)
 
 - [Canvas tutorial](https://developer.mozilla.org/docs/Web/API/Canvas_API/Tutorial)

@@ -76,7 +76,7 @@ These strategies include:
 
 - Using social media effectively
 
-  - Build a network of folks that can help
+  - Build a network of folks who can help
 
   - Join community groups where you can look for answers. For example:
 
@@ -90,7 +90,7 @@ These strategies include:
 
     - [Dev.to](https://dev.to/)
 
-  - Learn to give back as well as take; web developers that reciprocate are much more likely to build strong relationships and keep getting help.
+  - Learn to give back as well as take; web developers who reciprocate are much more likely to build strong relationships and keep getting help.
 
   - When you find a useful answer, write about it. For example, blog about it or share it on a social network. Not only will the process of writing clarify the concepts to you, but you'll also get validation and/or feedback from the community. It would also help you to start making a name for yourself in the industry.
 
@@ -118,9 +118,11 @@ These strategies include:
 
   - On the other hand, AI tools have no reasoning skills and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 
-- See also [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help) on MDN
-
 > **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn't constantly pester their peers/colleagues, but equally, they shouldn't soldier on and pretend they know what they are doing when they don't. Consider the value of saying "I don't know" at the right time.
+
+Resources:
+
+- [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help)
 
 ## Collaborating and working in a team
 
@@ -198,6 +200,12 @@ Recommendations:
 
 - Be patient. Even the best candidates will get rejections from multiple job applications before they land the job they want.
 
+Resources:
+
+- [https://learntocodewith.me/posts/technical-interview/](Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview), learntocodewith.me (2022)
+
+- [30 Technical Interview Questions and Tips for Answering](https://www.coursera.org/articles/technical-interview-questions), Coursera (2023)
+
 ## Familiarity with workflows and processes
 
 An important aspect of technical projects that beginners often miss out on is an idea of the bigger picture — they might learn an individual tool or language, but not be aware of all the other pieces of the puzzle, and different job roles, that go together to deliver an entire web application. It is useful to understand the following at a high level:
@@ -209,6 +217,14 @@ An important aspect of technical projects that beginners often miss out on is an
 - Typical job roles, and where they are involved in those processes
 
 - Common work management styles, such as agile and waterfall
+
+Resources:
+
+- [What is a Tech Stack and How Do They Work?](https://www.mongodb.com/basics/technology-stack), mongodb.com
+
+- [Website development team structure: roles and processes](https://www.truemark.dev/blog/web-development-team-structure-role-process/), truemark.dev (2017)
+
+- [Waterfall vs. Agile vs. Kanban vs. Scrum: What's the difference?](https://asana.com/resources/waterfall-agile-kanban-scrum), Asana (2022)
 
 ## Grasp of relevant contextual information
 

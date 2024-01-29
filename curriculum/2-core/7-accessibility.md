@@ -92,9 +92,9 @@ Resources:
 
 - [CSS and JavaScript accessibility best practices > CSS](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#css)
 
-- [Inclusive design principles](https://inclusivedesignprinciples.org/)
+- [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
 
-- [Mozilla Accessibility design guide](https://wiki.mozilla.org/Accessibility/Design_Guide), which includes guidelines on design when in high contrast mode
+- [Accessibility Design Guide](https://wiki.mozilla.org/Accessibility/Design_Guide), wiki.mozilla.org (2023)
 
 ## 7.3 Accessible JavaScript
 
@@ -116,7 +116,7 @@ Resources:
 
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
-- [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/)
+- [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/), W3C (2019)
 
 ## 7.4 Assistive technology and testing
 
@@ -157,9 +157,9 @@ Resources:
 
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 
-- [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
+- [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/), W3C (2017)
 
-- [WebAIM accessibility tooling articles](https://webaim.org/articles/#evaluation)
+- [WebAIM accessibility tooling articles](https://webaim.org/articles/#evaluation), WebAIM
 
 ## 7.5 WAI-ARIA
 
@@ -167,7 +167,9 @@ Learning outcomes:
 
 - Understand the purpose of WAI-ARIA — to provide semantics to otherwise non-semantic HTML, so that AT users can make sense of the interfaces being presented to them.
 
-  - Using semantic HTML is an ideal, which is not possible at all times. WAI-ARIA is a bridging technology for such cases
+  - [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
+
+  - In other words, using semantic HTML is an ideal, which is not possible at all times. WAI-ARIA is a bridging technology for such cases
 
 - The basic syntax — roles, properties, and states.
 
@@ -181,6 +183,4 @@ Resources:
 
 - [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics)
 
-- [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
-
-- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) (a set of useful ARIA design patterns)
+- [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/). W3C

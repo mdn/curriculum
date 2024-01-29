@@ -12,6 +12,10 @@ General resources:
 
 - [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
 
+- [Learn HTML](https://www.codecademy.com/learn/learn-html), Codecademy
+
+- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss), Scrimba
+
 ## 2.1 Basic HTML syntax and structure
 
 Learning outcomes:
@@ -34,7 +38,7 @@ Learning outcomes:
 
 - The anatomy of an HTML element — element, opening tag, content, closing tag, attributes.
 
-- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are and how they differ from standard elements.
+- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are, and how they differ from standard elements.
 
 Resources:
 
@@ -140,7 +144,7 @@ Resources:
 
 - [Advanced text formatting](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
-- [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
+- [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/), Toptal (2023)
 
 ## 2.5 Links
 
@@ -199,6 +203,8 @@ Learning outcomes:
   - Alt text for images and video
 
 Resources:
+
+- [What is multimedia?](https://www.geeksforgeeks.org/what-is-multimedia/), Geeks for geeks (2023)
 
 - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
 
@@ -286,6 +292,6 @@ Resources:
 
 - [Debugging HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-- [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html)
+- [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html), Firefox Source Docs
 
-- [Chrome DevTools > Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/)
+- [Chrome DevTools > Get started with viewing and changing the DOM](https://developer.chrome.com/docs/devtools/dom/), developer.chrome.com (2019)

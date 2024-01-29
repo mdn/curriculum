@@ -71,7 +71,7 @@ The core modules include the topics that we feel every web developer should have
   - [7.4 Assistive technology and testing](/curriculum/2-core/7-accessibility.md#7-4-assistive-technology-and-testing)
   - [7.5 WAI-ARIA](/curriculum/2-core/7-accessibility.md#7-5-wai-aria)
 - [8 Version control fundamentals (Git/GitHub)](/curriculum/2-core/8-version-control-fundamentals-git-github.md): Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
-- [9 Design theory for developers](/curriculum/2-core/9-design-theory-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
-  - [9.1 Basic design theory](/curriculum/2-core/9-design-theory-for-developers.md#9-1-basic-design-theory)
-  - [9.2 User-centered design](/curriculum/2-core/9-design-theory-for-developers.md#9-2-user-centered-design)
-  - [9.3 Understanding design briefs](/curriculum/2-core/9-design-theory-for-developers.md#9-3-understanding-design-briefs)
+- [9 Design for developers](/curriculum/2-core/9-design-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
+  - [9.1 Basic design theory](/curriculum/2-core/9-design-for-developers.md#9-1-basic-design-theory)
+  - [9.2 User-centered design](/curriculum/2-core/9-design-for-developers.md#9-2-user-centered-design)
+  - [9.3 Understanding design briefs](/curriculum/2-core/9-design-for-developers.md#9-3-understanding-design-briefs)

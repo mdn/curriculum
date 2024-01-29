@@ -8,6 +8,14 @@ icon:
 
 JavaScript is a huge topic, with so many different features, styles, and techniques to learn, and so many APIs and tools built on top of it. This module focuses on the essentials of the core language. Learning these topics will give you a solid basis to work from.
 
+General resources:
+
+- [Learn JavaScript](https://scrimba.com/learn/learnjavascript), Scrimba
+
+- [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+- [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+
 ## 6.1 Variables
 
 Learning outcomes:
@@ -201,6 +209,8 @@ Resources:
 - [Build your own function](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
 
 - [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
+
+- [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 ## 6.8 JavaScript object fundamentals
 
@@ -426,8 +436,8 @@ Resources:
 
 - [Control flow and error handling > Exception handling statements](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
 
-- [The Firefox JavaScript debugger](https://firefox-source-docs.mozilla.org/devtools-user/debugger/index.html)
+- [The Firefox JavaScript debugger](https://firefox-source-docs.mozilla.org/devtools-user/debugger/index.html), Firefox Source Docs
 
-- [Chrome > Console overview](https://developer.chrome.com/docs/devtools/console/)
+- [Chrome > Console overview](https://developer.chrome.com/docs/devtools/console/), developer.chrome.com (2019)
 
-- [Chrome > Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/)
+- [Chrome > Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/), developer.chrome.com (2017)
