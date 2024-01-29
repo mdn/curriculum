@@ -204,7 +204,7 @@ Resources:
 
 - [Overflowing content](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Overflowing_content)
 
-## 3.09 Styling form elements
+## 3.9 Styling form elements
 
 Learning outcomes:
 
