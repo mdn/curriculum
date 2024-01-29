@@ -4,11 +4,11 @@ topic:
 icon:
 ---
 
-## 5 CSS layout
+# 5 CSS layout
 
 Our final core CSS module looks deep into another crucial topic: creating layouts for modern websites. This module looks at floatings, positioning, modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.
 
-### 5.1 The basics of CSS layout
+## 5.1 The basics of CSS layout
 
 Learning outcomes:
 
@@ -20,7 +20,7 @@ Resources:
 
 - [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
 
-### 5.2 Floats
+## 5.2 Floats
 
 Learning outcomes:
 
@@ -36,7 +36,7 @@ Resources:
 
 - [Floats](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Floats)
 
-### 5.3 Positioning
+## 5.3 Positioning
 
 Learning outcomes:
 
@@ -68,7 +68,7 @@ Resources:
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 
-### 5.4 Modern layout
+## 5.4 Modern layout
 
 Learning outcome: Gain an understanding of modern CSS layout techniques:
 
@@ -120,7 +120,7 @@ Resources:
 
 - [Grids](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Grids)
 
-### 5.5 Responsive design specifics
+## 5.5 Responsive design specifics
 
 Learning outcomes:
 

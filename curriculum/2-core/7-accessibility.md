@@ -4,11 +4,11 @@ topic:
 icon:
 ---
 
-## 7 Accessibility
+# 7 Accessibility
 
 Access to public services, education, entertainment, and all the other valuable content the web offers is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.
 
-### 7.1 Accessibility basics
+## 7.1 Accessibility basics
 
 Learning outcomes:
 
@@ -54,7 +54,7 @@ Resources:
 
 - [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
 
-### 7.2 Accessible styling
+## 7.2 Accessible styling
 
 Learning outcomes:
 
@@ -96,7 +96,7 @@ Resources:
 
 - [Mozilla Accessibility design guide](https://wiki.mozilla.org/Accessibility/Design_Guide), which includes guidelines on design when in high contrast mode
 
-### 7.3 Accessible JavaScript
+## 7.3 Accessible JavaScript
 
 Learning outcomes:
 
@@ -118,7 +118,7 @@ Resources:
 
 - [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/)
 
-### 7.4 Assistive technology and testing
+## 7.4 Assistive technology and testing
 
 Learning outcomes:
 
@@ -161,7 +161,7 @@ Resources:
 
 - [WebAIM accessibility tooling articles](https://webaim.org/articles/#evaluation)
 
-### 7.5 WAI-ARIA
+## 7.5 WAI-ARIA
 
 Learning outcomes:
 
