@@ -10,8 +10,8 @@ icon:
 
 [Introduction](/curriculum)
 
-- [Recommended soft skills](/curriculum/1-precursor/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
-- [Environment knowledge](/curriculum/1-precursor/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
+- [Recommended soft skills](/curriculum/1-setup/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
+- [Environment knowledge](/curriculum/1-setup/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
 
 - [1 The web standards model](/curriculum/2-core/1-the-web-standards-model.md): The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
   - [1.1 How the web works](/curriculum/2-core/1-the-web-standards-model.md#1-1-how-the-web-works)

@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Create your own custom JavaScript objects gain a deeper understanding of object-oriented programming.
+topic: Scripting
 icon:
 ---
 

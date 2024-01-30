@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Appreciate basic design theory, how to speak design language, and what makes websites look good.
+topic: Best Practices
 icon:
 ---
 

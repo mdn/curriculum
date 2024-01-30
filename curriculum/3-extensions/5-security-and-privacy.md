@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Learn how to protect data from unauthorized access, and how to treat user data responsibly.
+topic: Best Practices
 icon:
 ---
 

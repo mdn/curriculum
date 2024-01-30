@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Understand the need for universal access to web content and how to write accessible code.
+topic: Best Practices
 icon:
 ---
 

@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Study the features of popular JavaScript frameworks, and use them to implement common use cases.
+topic: Tooling
 icon:
 ---
 

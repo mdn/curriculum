@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Explore the need for testing, and learning how to implement common test types.
+topic: Best Practices
 icon:
 ---
 

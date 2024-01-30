@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Focus on the core JavaScript language and fundamental surrounding topics.
+topic: Scripting
 icon:
 ---
 

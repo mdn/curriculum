@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Focus on using CSS to style text and apply custom web fonts.
+topic: Styling
 icon:
 ---
 

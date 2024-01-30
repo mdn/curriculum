@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Learn modern techniques for creating flexible layouts that work on a wide variety of devices.
+topic: Styling
 icon:
 ---
 
