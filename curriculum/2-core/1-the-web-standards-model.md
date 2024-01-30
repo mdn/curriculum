@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Understand how the web works at a high level, and how web technologies are created.
+topic: Web Standards & Semantics
 icon:
 ---
 

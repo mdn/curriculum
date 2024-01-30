@@ -1,6 +1,6 @@
 ---
-summary:
-topic:
+summary: Add animations to your toolbox to enhance user experience and perceived performance.
+topic: Web Standards & Semantics
 icon:
 ---
 
