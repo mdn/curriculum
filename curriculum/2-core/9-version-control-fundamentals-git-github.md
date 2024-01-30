@@ -1,10 +1,10 @@
 ---
-summary:
-topic:
+summary: Understand why version control is necessary, and use GitHub to store code and collaborate with others.
+topic: Tooling
 icon:
 ---
 
-# 8 Version control fundamentals (Git/GitHub)
+# 9 Version control fundamentals (Git/GitHub)
 
 Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
 

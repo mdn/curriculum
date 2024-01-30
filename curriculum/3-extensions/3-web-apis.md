@@ -1,5 +1,5 @@
 ---
-summary: Study common WebAPIs in depth to gain an appreciation of how WebAPIs work in general. 
+summary: Study common WebAPIs in depth to gain an appreciation of how WebAPIs work in general.
 topic: Scripting
 icon:
 ---
