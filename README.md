@@ -1,7 +1,7 @@
 ---
 summary:
 topic:
-icon:
+template: module
 ---
 
 # Welcome to the MDN front-end developer curriculum

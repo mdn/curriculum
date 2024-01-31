@@ -1,7 +1,7 @@
 ---
 summary: Understand why version control is necessary, and use GitHub to store code and collaborate with others.
 topic: Tooling
-icon:
+template: module
 ---
 
 # 9 Version control fundamentals (Git/GitHub)

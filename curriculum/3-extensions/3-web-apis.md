@@ -1,7 +1,7 @@
 ---
 summary: Study common WebAPIs in depth to gain an appreciation of how WebAPIs work in general.
 topic: Scripting
-icon:
+template: module
 ---
 
 # Extension 3 Web APIs

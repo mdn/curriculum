@@ -1,7 +1,7 @@
 ---
 summary: Understand how the web works at a high level, and how web technologies are created.
 topic: Web Standards & Semantics
-icon:
+template: module
 ---
 
 # 1 The web standards model

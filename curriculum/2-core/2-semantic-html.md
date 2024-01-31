@@ -1,7 +1,7 @@
 ---
 summary: Learn the fundamentals of HTML, the language used to define and structure web content.
 topic: Web Standards & Semantics
-icon:
+template: module
 ---
 
 # 2 Semantic HTML

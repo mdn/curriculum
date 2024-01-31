@@ -1,7 +1,7 @@
 ---
 summary: Focus on the core JavaScript language and fundamental surrounding topics.
 topic: Scripting
-icon:
+template: module
 ---
 
 # 6 JavaScript fundamentals

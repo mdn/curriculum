@@ -1,7 +1,7 @@
 ---
 summary: Focus on using CSS to style text and apply custom web fonts.
 topic: Styling
-icon:
+template: module
 ---
 
 # 4 CSS text styling

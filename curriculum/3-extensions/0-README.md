@@ -1,7 +1,7 @@
 ---
 summary:
 topic:
-icon:
+template: overview
 ---
 
 # Optional extension modules

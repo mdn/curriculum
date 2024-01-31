@@ -1,7 +1,7 @@
 ---
 summary: Understand the purpose and usage of other tooling types commonly found in a web project.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Extension 9 Other tooling types

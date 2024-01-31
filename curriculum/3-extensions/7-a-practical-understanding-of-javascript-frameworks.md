@@ -1,7 +1,7 @@
 ---
 summary: Study the features of popular JavaScript frameworks, and use them to implement common use cases.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Extension 7 A practical understanding of JavaScript frameworks

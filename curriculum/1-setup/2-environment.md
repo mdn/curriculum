@@ -1,7 +1,7 @@
 ---
 summary: Familiarize yourself with your computer hardware, and the tools you'll use to build web applications.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Environment setup

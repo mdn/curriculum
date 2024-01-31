@@ -1,7 +1,7 @@
 ---
 summary: Look at popular CSS tooling and understand what code problems they can solve.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Extension 8 CSS tooling

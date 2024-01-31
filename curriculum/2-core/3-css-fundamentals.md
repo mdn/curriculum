@@ -1,7 +1,7 @@
 ---
 summary: Dive into the fundamentals of CSS, the language you'll use to style and layout websites.
 topic: Styling
-icon:
+template: module
 ---
 
 # 3 CSS fundamentals

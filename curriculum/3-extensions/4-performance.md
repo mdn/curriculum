@@ -1,7 +1,7 @@
 ---
-summary:
-topic:
-icon:
+summary: Explore how to create performant, fast-loading websites, and enhance perceived performance.
+topic: Best Practices
+template: module
 ---
 
 # Extension 4 Performance
