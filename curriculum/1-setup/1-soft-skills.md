@@ -118,7 +118,7 @@ These strategies include:
 
   - On the other hand, AI tools have no reasoning skills and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
 
-> **Note:** There is definitely a balance to knowing the right time to ask for help. Web developers shouldn't constantly pester their peers/colleagues, but equally, they shouldn't soldier on and pretend they know what they are doing when they don't. Consider the value of saying "I don't know" at the right time.
+> **Note**: There is definitely a balance to knowing the right time to ask for help. Web developers shouldn't constantly pester their peers/colleagues, but equally, they shouldn't soldier on and pretend they know what they are doing when they don't. Consider the value of saying "I don't know" at the right time.
 
 Resources:
 

@@ -234,7 +234,7 @@ Learning outcomes:
 
 - Mitigating issues with difficult-to-style types such as `datetime-local`, `color`, etc.
 
-> **Notes:**
+> **Notes**:
 >
 > - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
 

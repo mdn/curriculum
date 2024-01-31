@@ -26,7 +26,7 @@ Learning outcomes:
 
   - Understand key functionality associated with audio and video — play, pause, stop, seeking backwards and forwards, duration, current time
 
-  > **Notes:**
+  > **Notes**:
   >
   > - This set of conformance criteria does not expect a successful student to understand all of the web platform's video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
   >
@@ -102,7 +102,7 @@ Resources:
 
 ## 3.3 Storage APIs
 
-> **Notes:**
+> **Notes**:
 >
 > - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for most simple client-side storage tasks, and how cookies are used in positive and negative ways.
 
@@ -124,7 +124,7 @@ Learning outcomes:
 
 - Other related APIs
 
-> **Notes:**
+> **Notes**:
 >
 > - IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.
 

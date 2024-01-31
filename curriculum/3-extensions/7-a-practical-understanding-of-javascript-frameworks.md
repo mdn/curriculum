@@ -8,7 +8,7 @@ template: module
 
 JavaScript frameworks are commonly used to build web applications, so it is beneficial to learn about common frameworks and use cases (as listed below) for employment prospects.
 
-> **Notes:**
+> **Notes**:
 >
 > - Conforming to this set of criteria does not involve becoming a master of a particular framework and learning everything it has to offer. To do so can be limiting — one framework might be the most popular choice now, but in five years everything could change.
 > - Instead, we want to encourage students to get a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [6 JavaScript fundamentals](../2-core/6-javascript-fundamentals.md)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.

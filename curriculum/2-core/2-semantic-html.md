@@ -60,7 +60,7 @@ Learning outcomes:
 
   - It is tempting to just use `<div>` elements wherever a block-level container is required, but you should be aware of the other available structural elements and their benefits (such as improved accessibility). Examples include `<main>`, `<section>`, `<article>`, `<header>`, `<nav>`, and `<footer>`.
 
-  > **Notes:**
+  > **Notes**:
   >
   > - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
 
@@ -68,7 +68,7 @@ Learning outcomes:
 
 - SEO benefits: for example, keywords are boosted in headings.
 
-> **Notes:**
+> **Notes**:
 >
 > - This conformance criterium doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
@@ -96,7 +96,7 @@ Learning outcomes:
 
 - The correct usage for each list type
 
-> **Notes:**
+> **Notes**:
 >
 > - Unordered lists are for marking up a list of items where the order doesn't matter, such as a shopping list.
 > - Ordered lists are for marking up a list of items where the order does matter, such as a set of directions.
@@ -134,7 +134,7 @@ Learning outcomes:
 
   - Other text markup features such as `<u>`, `<s>`, and `<ruby>`
 
-> **Notes:**
+> **Notes**:
 >
 > - It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
 
@@ -214,7 +214,7 @@ Learning outcomes:
 
 - Aside from links, `<button>` and form elements are the main way to build controls for users to interact with your sites.
 
-> **Notes:**
+> **Notes**:
 >
 > - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
@@ -230,13 +230,13 @@ Learning outcomes:
 
 - Client-side validation basics — `required`, `min`, `max`, `minlength`, `maxlength`, `pattern`.
 
-> **Notes:**
+> **Notes**:
 >
 > - Make sure to understand that client-side form validation is really a usability enhancement, to be used alongside server-side form validation. It is not a substitute for it.
 
 - Making forms accessible — Correct semantics, `<label>`, and the `for` attribute.
 
-> **Notes:**
+> **Notes**:
 >
 > - Going back to the argument for semantic HTML (see also [2.2 Good document structure](./2-2-good-document-structure.md)), you should understand why it is important to use the right element for the right job — e.g. use a `<button>` to submit your form, and not a `<div>` programmed to behave like a `<button>`. Understand the features programmed into these elements by the browser, by default, and how important they are.
 
