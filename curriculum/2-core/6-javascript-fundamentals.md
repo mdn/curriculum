@@ -1,7 +1,7 @@
 ---
 summary: Focus on the core JavaScript language and fundamental surrounding topics.
 topic: Scripting
-icon:
+template: module
 ---
 
 # 6 JavaScript fundamentals
@@ -162,7 +162,7 @@ Learning outcomes:
 
 - Looping through collections with `for ... of`.
 
-> **Notes:**
+> **Notes**:
 >
 > - There are many other types of loop in JavaScript that we haven't listed here. It is not necessary (or useful) to understand all of them at this stage. For now, students need to understand the purpose of loops, and the most common types.
 

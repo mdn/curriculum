@@ -1,7 +1,7 @@
 ---
 summary:
 topic:
-icon:
+template: about
 ---
 
 # About
@@ -35,13 +35,13 @@ This curriculum is useful for several groups of students:
 
 Once a student has the list of topics they are going to learn, they should go forth and learn them, via self-study, taking a course or boot camp to teach them, or a combination. Either way, upon completing a conforming course, students should be able to pass an examination that tests their knowledge of the topics they have studied.
 
-> **Note:** This resource is not a course for learning front-end web development, and does not aim to thoroughly teach it. It is a recommendation of what modern front-end web developers should know. However, we did spend a considerable amount of time and effort reviewing different courses that cover our topic lists, and intend to make recommendations for free and paid courses we consider suitable for learning the curriculum.
+> **Note**: This resource is not a course for learning front-end web development, and does not aim to thoroughly teach it. It is a recommendation of what modern front-end web developers should know. However, we did spend a considerable amount of time and effort reviewing different courses that cover our topic lists, and intend to make recommendations for free and paid courses we consider suitable for learning the curriculum.
 
 ### Educators
 
 Educators can use the curriculum as a guide when creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Conforming to the curriculum will help ensure that courses teach current techniques and best practices, and avoid out-of-date practices.
 
-> **Note:** Any course based on the MDN curriculum should conform to the [Core](/), but could also optionally include one or more [Extensions](/).
+> **Note**: Any course based on the MDN curriculum should conform to the [Core](/), but could also optionally include one or more [Extensions](/).
 
 We recommend that any course conforming to the MDN curriculum should:
 
@@ -106,7 +106,7 @@ This resource is free for anyone to use. If you find the curriculum useful, we r
 
 - Tell others about it! We would love as many students and educators as possible to start using this curriculum and converging around it as a standard for web developer baseline knowledge.
 
-> **Note:** This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
+> **Note**: This curriculum should be used as a guide, but its use does not imply endorsement by Mozilla.
 
 ## Curriculum update process
 

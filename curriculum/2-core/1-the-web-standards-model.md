@@ -1,7 +1,7 @@
 ---
 summary: Understand how the web works at a high level, and how web technologies are created.
 topic: Web Standards & Semantics
-icon:
+template: module
 ---
 
 # 1 The web standards model
@@ -32,7 +32,7 @@ Learning outcomes:
 
 - Hosting, how to purchase it, and how to put a website online
 
-> **Notes:**
+> **Notes**:
 >
 > - One of the key goals of this section is a high-level understanding of how the web functions behind the code that students write.
 > - Students should also gain a vocabulary to start talking about how the web functions precisely.
@@ -55,7 +55,7 @@ Learning outcomes:
 
 - The purpose of HTML, CSS, and JavaScript
 
-> **Notes:**
+> **Notes**:
 >
 > - Purposes of the main web authoring technologies
 >
@@ -67,7 +67,7 @@ Learning outcomes:
 
 - Why separating the layers is a good idea
 
-> **Notes:**
+> **Notes**:
 >
 > - Separation is a good idea for
 >
@@ -77,7 +77,7 @@ Learning outcomes:
 
 - The fact that in reality, the separation is not always clear
 
-> **Notes:**
+> **Notes**:
 >
 > - A prime example is the case of using JavaScript to dynamically update CSS styling on-the-fly in response to app state changes, user choices, etc.
 >
@@ -89,7 +89,7 @@ Learning outcomes:
 
 - The concept of progressive enhancement
 
-> **Notes:**
+> **Notes**:
 >
 > - Progressive enhancement is often seen as unimportant, because browsers tend to support new features more consistently these days, and more people tend to have faster internet connections. However, you should think about relevant examples to relate to in the modern day, for example cutting down on bling to make a mobile experience smoother and saving on data, or providing a simpler, lower bandwidth experience for users in developing countries who might still pay for home internet by the megabyte.
 >
@@ -111,7 +111,7 @@ Learning outcomes:
 
 - The process of standards creation
 
-> **Notes:**
+> **Notes**:
 >
 > - The basic principles of the web — interoperable, accessible, collaborative, and not owned by a single corporation.
 > - This basis means that the web is a unique and exciting industry to get involved in.
@@ -155,7 +155,7 @@ Learning outcomes:
 
 - The different kinds of assets that are returned in an HTTP response.
 
-> **Notes:**
+> **Notes**:
 >
 > - The different kinds of downloaded resources to understand are:
 >
@@ -179,7 +179,7 @@ Learning outcomes:
 
 - How these are assembled to create a web document that is then displayed by the browser.
 
-> **Notes:**
+> **Notes**:
 >
 > - The different stages of rendering a web page
 >

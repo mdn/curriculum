@@ -1,7 +1,7 @@
 ---
 summary: Look at popular CSS tooling and understand what code problems they can solve.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Extension 8 CSS tooling
@@ -10,7 +10,7 @@ Tooling is not just confined to JavaScript frameworks. There are also common CSS
 
 ## 8.1 CSS frameworks
 
-> **Notes:**
+> **Notes**:
 >
 > - Whatever framework your course or learning includes, the tool's site should include information on the basics of using it.
 > - The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
@@ -29,7 +29,7 @@ Learning outcomes:
 
 ## 8.2 CSS preprocessors
 
-> **Notes:**
+> **Notes**:
 >
 > - Whatever preprocessor your course or learning includes, the tool's site should include information on the basics of using it.
 > - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.

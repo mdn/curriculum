@@ -1,7 +1,7 @@
 ---
 summary: Learn how to protect data from unauthorized access, and how to treat user data responsibly.
 topic: Best Practices
-icon:
+template: module
 ---
 
 # Extension 5 Security and privacy
@@ -16,7 +16,7 @@ General resources:
 
 ## 5.1 Security and privacy basics
 
-> **Notes:**
+> **Notes**:
 >
 > - Conforming to all of the criteria in this module is not going to result in a student being a qualified security engineer, but equally it is very important for any web developer to understand the basics of web security and privacy.
 > - It is also important for students to understand that a lot of security issues are caused by problems with server-side code, or a combination of client-side and server-side code. A lot of code should present very few security risks, provided the browser is doing its job properly.
@@ -99,7 +99,7 @@ Learning outcomes:
 
 - Understand what compliance with such laws looks like in terms of practical implementation
 
-> **Notes:**
+> **Notes**:
 >
 > - Conforming to the above criteria does not require students to become legal experts in privacy laws, but they should understand the implications of these laws, and how that affects their work.
 

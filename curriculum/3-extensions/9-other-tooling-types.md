@@ -1,12 +1,12 @@
 ---
 summary: Understand the purpose and usage of other tooling types commonly found in a web project.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Extension 9 Other tooling types
 
-> **Notes:**
+> **Notes**:
 >
 > - Understanding this set of criteria doesn't require having an in-depth knowledge of the tools listed below; instead, students are encouraged to learn the basic concepts of why and how they are used (and where in a web app project), test them out, and play with usage examples.
 

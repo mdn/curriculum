@@ -1,7 +1,7 @@
 ---
 summary: Familiarize yourself with your computer hardware, and the tools you'll use to build web applications.
 topic: Tooling
-icon:
+template: module
 ---
 
 # Environment setup
@@ -88,7 +88,7 @@ Resources:
 
 - Stack Overflow is a very good place to find specific solutions to command line problems, for example [How to Batch Rename Files in a macOS Terminal?](https://stackoverflow.com/questions/24102974/how-to-batch-rename-files-in-a-macos-terminal)
 
-> **Notes:**
+> **Notes**:
 >
 > - The command line / terminal is intimidating to newcomers — you just get a blinking cursor, with no obvious signs of what to do next. We are not saying that you should be a command line wizard before you start learning web development, but you should at least understand what it is and know some basics — you will be surprised how often you come across command line usage in web development tooling.
 

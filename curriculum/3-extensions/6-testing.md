@@ -1,7 +1,7 @@
 ---
 summary: Explore the need for testing, and learning how to implement common test types.
 topic: Best Practices
-icon:
+template: module
 ---
 
 # Extension 6 Testing

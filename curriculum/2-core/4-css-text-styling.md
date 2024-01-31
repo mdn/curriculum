@@ -1,7 +1,7 @@
 ---
 summary: Focus on using CSS to style text and apply custom web fonts.
 topic: Styling
-icon:
+template: module
 ---
 
 # 4 CSS text styling
@@ -24,7 +24,7 @@ Learning outcomes:
 
 - `line-height`
 
-> **Notes:**
+> **Notes**:
 >
 > - There are a large number of other font and text styling properties, and students should be encouraged to explore more of them as part of their constant learning.
 

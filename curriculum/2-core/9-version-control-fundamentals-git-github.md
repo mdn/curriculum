@@ -1,7 +1,7 @@
 ---
 summary: Understand why version control is necessary, and use GitHub to store code and collaborate with others.
 topic: Tooling
-icon:
+template: module
 ---
 
 # 9 Version control fundamentals (Git/GitHub)
@@ -12,7 +12,7 @@ Learning outcomes:
 
 - Understand why version control systems are necessary
 
-> **Notes:**
+> **Notes**:
 >
 > - Git and associated social coding sites like GitHub have a lot of functionality, and can be intimidating and unfriendly to begin with. This set of conformance criteria does not expect mastery of all aspects of these tools, but rather an understanding of the basics, and why it is necessary to have some experience here before entering the industry.
 > - Git is the web industry standard for version control, and has been for some time.

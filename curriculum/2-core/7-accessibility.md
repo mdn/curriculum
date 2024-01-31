@@ -1,7 +1,7 @@
 ---
 summary: Understand the need for universal access to web content and how to write accessible code.
 topic: Best Practices
-icon:
+template: module
 ---
 
 # 7 Accessibility
@@ -126,7 +126,7 @@ Learning outcomes:
 
   - What they are used for, and who uses them
 
-  > **Notes:**
+  > **Notes**:
   >
   > - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed above), but to be aware of their existence and types of people who use them, and also to appreciate how and why accessibility best practices work.
   > - It is also a really good idea for web developers to have a go at using screen readers or other types of assistive technology, to give an idea of what the web experience is like for users of those technologies.

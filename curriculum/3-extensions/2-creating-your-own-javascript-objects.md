@@ -1,7 +1,7 @@
 ---
 summary: Create your own custom JavaScript objects gain a deeper understanding of object-oriented programming.
 topic: Scripting
-icon:
+template: module
 ---
 
 # Extension 2 Creating your own JavaScript objects

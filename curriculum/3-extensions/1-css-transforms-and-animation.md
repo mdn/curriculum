@@ -1,7 +1,7 @@
 ---
 summary: Add animations to your toolbox to enhance user experience and perceived performance.
 topic: Web Standards & Semantics
-icon:
+template: module
 ---
 
 # Extension 1 CSS transforms and animation
