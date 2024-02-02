@@ -34,7 +34,7 @@ Developed by Mozilla and refined with insights from the broader MDN community.
 
   Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
 
-  [Start the Core Module](./2-core/)  
+  [Start the Core Module](./2-core/)
 
 - ### Advancing Your Skills
 
