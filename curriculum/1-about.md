@@ -4,7 +4,7 @@ topic:
 template: about
 ---
 
-# About
+# About Curriculum
 
 The MDN front-end developer curriculum aims to provide the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today's web industry.
 
