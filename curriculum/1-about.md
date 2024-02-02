@@ -41,7 +41,7 @@ Once a student has the list of topics they are going to learn, they should go fo
 
 Educators can use the curriculum as a guide when creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Conforming to the curriculum will help ensure that courses teach current techniques and best practices, and avoid bad practices and out-of-date information.
 
-> **Note**: Any course based on the MDN curriculum should conform to the [Core](/), but could also optionally include one or more [Extensions](/).
+> **Note**: Any course based on the MDN curriculum should conform to the [Core](./2-core/), but could also optionally include one or more [Extensions](./3-extensions/).
 
 We recommend that any course conforming to the MDN curriculum should:
 
