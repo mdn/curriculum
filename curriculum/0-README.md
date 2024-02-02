@@ -12,14 +12,15 @@ The MDN Curriculum provides a structured guide to the essential skills and pract
 
 Last updated: February 2024
 
+## About the curriculum
+
 - Beginner's level
 - Self-paced
 - Free
 
-## About the curriculum
+The go-to resource for the essential skills and knowledge every front-end developer needs for career success and industry relevance.
 
-- The go-to resource for the essential skills and knowledge every front-end developer needs for career success and industry relevance.
-- Developed by Mozilla and refined with insights from the broader MDN community.
+Developed by Mozilla and refined with insights from the broader MDN community.
 
 [Learn more](./1-about.md)
 
@@ -29,18 +30,26 @@ Last updated: February 2024
 
 ## Don’t know where to start?
 
-### For Beginners
+- ### For Beginners
 
-- Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
+  Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
 
-### Advancing Your Skills
+  [Start the Core Module](./2-core/)  
 
-- Beyond the basics? Dive deeper with our "Extensions" modules to develop specialized skills.
+- ### Advancing Your Skills
 
-### Career Ready
+  Beyond the basics? Dive deeper with our "Extensions" modules to develop specialized skills.
 
-- Seeking employment? Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
+  [Start the Extensions Module](./3-extensions/)
 
-### For Educators
+- ### Career Ready
 
-- Crafting courses? Utilize our modules to guide your teaching and support your students' learning journey.
+  Seeking employment? Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
+
+  [Start the Getting Started Module](./1-getting-started/)
+
+- ### For Educators
+
+  Crafting courses? Utilize our modules to guide your teaching and support your students' learning journey.
+
+  [Start the Core Module](./2-core/)
