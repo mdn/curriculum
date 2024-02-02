@@ -1,5 +1,5 @@
 ---
-summary: Study common WebAPIs in depth to gain an appreciation of how WebAPIs work in general.
+summary: Study common WebAPIs in depth to appreciate how WebAPIs work in general.
 topic: Scripting
 template: module
 ---
@@ -18,39 +18,39 @@ General resources:
 
 Learning outcomes:
 
-- General concepts
+- General concepts:
 
-  - Understand the different types of video and audio formats
+  - Understand the different types of video and audio formats.
 
-  - Understand codecs
+  - Understand codecs.
 
-  - Understand key functionality associated with audio and video — play, pause, stop, seeking backwards and forwards, duration, current time
+  - Understand key functionality associated with audio and video — play, pause, stop, seeking backward and forward, duration, and current time.
 
   > **Notes**:
   >
-  > - This set of conformance criteria does not expect a successful student to understand all of the web platform's video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful: some of the functionality is for very niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
+  > - This set of conformance criteria does not expect a successful student to understand all of the web platform's video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful. Some of the functionality is for niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
   >
-  >   - For now, students would be expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
+  > - For now, you are expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
 
-- Using the HTMLMediaElement API to build a basic custom media player
+- Using the `HTMLMediaElement` API to build a basic custom media player:
 
   - Understand why you'd do this — your target audience might have specific needs not addressed by the browser defaults.
 
-  - One good example is that some browser default controls are not very accessible by the keyboard.
+  - One good example is that some browser default controls are not very keyboard accessible.
 
   - Another is that you might just want a consistent UI design across browsers.
 
-- Using media streams/getUserMedia to capture video and audio from a local device
+- Using media streams/`getUserMedia()` to capture video and audio from a local device.
 
-- Handling common errors related to media delivery
+- Handling common errors related to media delivery:
 
-  - Using `<source>` elements to handle multiple formats
+  - Using `<source>` elements to handle multiple formats.
 
-  - Using the correct MIME type
+  - Using the correct MIME type.
 
-  - Showing fallback content if the media is not supported
+  - Showing fallback content if the media is not supported.
 
-- Understand the purpose of other video and audio APIs, including the Web Audio API, Media Stream Recording API, and Media Source Extensions API
+- Understand the purpose of other video and audio APIs, including the Web Audio API, Media Stream Recording API, and Media Source Extensions API.
 
 Resources:
 
@@ -66,31 +66,29 @@ Resources:
 
 Learning outcomes:
 
-- Using timers and requestAnimationFrame to set up animation loops
+- Using timers and `requestAnimationFrame()` to set up animation loops:
 
-  - Basic syntax and usage
+  - Basic syntax and usage.
 
-  - Understand why requestAnimationFrame is an improvement over what came before it
+  - Understand why `requestAnimationFrame()` is an improvement over what came before it.
 
-  - Common use cases for animation loops, for example decorative animations, games
+  - Common use cases for animation loops, for example, decorative animations and games.
 
-- Web Animation API
+- Web Animations API:
 
-  - Basic syntax and usage
+  - Basic syntax and usage.
 
-  - Understand how the Web Animations API relates to CSS animation properties.
+  - Understand how the Web Animations API relates to CSS animation properties, and when should you use each one.
 
-    - When should you use each one
+  - Common use cases.
 
-  - Common use cases
+- Canvas:
 
-- Canvas
+  - Understand conceptually what the `<canvas>` element and associated APIs enable.
 
-  - Understand conceptually what the `<canvas>` element and associated APIs enable
+  - Basic syntax and usage of the 2D Canvas API.
 
-  - Basic syntax and usage of the 2D Canvas API
-
-  - Looping a canvas to create a simple animation or game
+  - Looping `<canvas>` updates to create a simple animation or game.
 
 Resources:
 
@@ -100,43 +98,39 @@ Resources:
 
 - [Canvas tutorial](https://developer.mozilla.org/docs/Web/API/Canvas_API/Tutorial)
 
-## 3.3 Storage APIs
+## 3.3 Client-side storage
 
 > **Notes**:
 >
-> - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for most simple client-side storage tasks, and how cookies are used in positive and negative ways.
+> - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for simple client-side storage tasks, and how cookies are used in positive and negative ways.
 
 Learning outcomes:
 
-- Understand the concepts of client-side storage
+- Understand the concepts of client-side storage:
 
-  - From web storage to other storage technologies
+  - Know the common client-side data storage mechanisms — Web Storage API, cookies, Cache API, and the IndexedDB API.
 
-  - Understand using embedded content to access storage across sites
+  - Key use cases — maintaining state across reloads, persisting login and user personalization data, and local/offline working.
 
-  - Key use cases — maintaining state across reloads and different sites to persisting login and user personalization data, and local/offline working
+  - Understand the negative patterns associated with client-side storage — for example using cookies for tracking/fingerprinting.
 
-  - Understand the negative patterns associated with client-side storage — tracking/fingerprinting
+- Using cookies to store arbitrary data, normally controlled by HTTP headers.
 
-- Using Web Storage
+- Using Web Storage for simple key-value pair storage, controlled by JavaScript.
 
-- Using cookies
-
-- Other related APIs
-
-> **Notes**:
->
-> - IndexedDB and Service Workers are complex, and constitute huge topics. It is not expected that students would exhaustively understand them at this stage, although we would suggest that students gain an understanding of the basics behind how they work.
-
-- IndexedDB
+- Using IndexedDB:
 
   - Complete client-side transactional database system.
 
-  - Specialized, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
+  - Complex, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
 
-- Service Workers/Cache
+- Using Cache/Service Workers:
 
   - Understand the basic ideas behind their usage in Progressive Web Apps (PWAs), and the fundamental use case of making a site work offline.
+
+> **Notes**:
+>
+> - IndexedDB and the Cache API (commonly used with Service Workers) are complex, and constitute huge topics. Exhaustively understanding them at this stage is not necessary, although we would suggest that you gain an understanding of the basics behind how they work.
 
 Resources:
 

@@ -36,23 +36,21 @@ Learning outcomes:
 
 - UI design fundamentals:
 
-  - Contrast
+  - Contrast.
 
-  - Typography
+  - Typography.
 
-  - Visual Hierarchy
+  - Visual Hierarchy.
 
-  - Scale
+  - Scale.
 
-  - Alignment
+  - Alignment.
 
-  - Use of whitespace
+  - Use of whitespace.
 
-- Color theory
+- Color theory.
 
-- Revisiting CSS resets, and using them as a base on which to create a good design
-
-- Use of images; remember to optimize file sizes
+- Use of images.
 
 Resources:
 
@@ -62,31 +60,31 @@ Resources:
 
 Learning outcomes:
 
-- Understand that everything we do is for the user
+- Understand that everything we do is for the user.
 
-- Intro to user research/testing, and user requirements
+- Intro to user research/testing, and user requirements.
 
-- Design for accessibility — consider the target audience and what additional needs they may have. Design for those from the very start
+- Design for accessibility — consider the target audience and what additional needs they may have. Design for those from the very start.
 
 - Understand what design patterns are, and the common patterns used on the web, for example:
 
-  - Dark mode
+  - Dark mode.
 
-  - Breadcrumbs
+  - Breadcrumbs.
 
-  - Cards
+  - Cards.
 
-  - Deferred/Lazy registration
+  - Deferred/Lazy registration.
 
-  - Infinite scroll
+  - Infinite scroll.
 
-  - Modal dialogs
+  - Modal dialogs.
 
-  - Progressive disclosure
+  - Progressive disclosure.
 
-  - Progress indication on forms/registration/setup
+  - Progress indication on forms/registration/setup.
 
-  - Shopping cart
+  - Shopping cart.
 
 Resources:
 
@@ -94,12 +92,12 @@ Resources:
 
 - [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
 
-## 9.3 Understanding design briefs
+## 9.3 Design briefs
 
 Learning outcomes:
 
-- Speaking design language, to communicate with designers
+- Speaking design language, to communicate with designers.
 
-- Interpreting design brief requirements to produce an implementation
+- Interpreting design brief requirements to produce an implementation.
 
-- Typical tools designers use to get their message across to developers (e.g. Figma)
+- Typical tools designers use to get their message across to developers (e.g. Figma).

@@ -6,7 +6,7 @@ template: module
 
 # 3 CSS fundamentals
 
-CSS enables you to add style to your webpages, including color, text, positioning and layout, and animation. In our first CSS module we cover all the fundamental language mechanics you need to understand how CSS works.
+CSS enables you to add style to your web pages including color, text, positioning and layout, and animation. In our first CSS module, we cover all the fundamental language mechanics you need to understand how CSS works.
 
 General resources:
 
@@ -16,37 +16,33 @@ General resources:
 
 Learning outcomes:
 
-- The purpose of CSS — to style, layout, and provide other visual enhancements to web pages (such as animation).
+- The purpose of CSS — style, layout, and provide other visual enhancements to web pages (such as animation).
 
-- Key CSS syntax
+- Key CSS syntax:
 
-  - Rules
+  - Rules.
 
-  - Selectors
+  - Selectors.
 
-  - Declarations
+  - Declarations.
 
-  - Properties
+  - Properties (including custom properties).
 
-    - Custom properties
+  - Values (including shorthand values).
 
-  - Values
+  - At-rules and descriptors.
 
-    - Shorthand values
-
-  - At-rules and descriptors
-
-- Default browser styles — understand that the browser provides default CSS styling to HTML elements so that it is in some way usable even with no user-defined styles at all.
+- Default browser styles — understand that the browser provides default CSS styling to HTML elements so that it is in some way usable even with no user-defined styles at all:
 
   - Understand also therefore that HTML has nothing to do with styling.
 
   - Use this to reinforce the idea of separating semantics and structure (semantic HTML) from presentation (CSS), and not using presentational markup.
 
-  - Study CSS resets, first to prove that browser styles exist and show what a page looks like when they are removed, but also as a technique for providing a blank canvas for developers to build their own styles on.
+  - Study CSS resets, first to prove that browser styles exist and show what a page looks like when they are removed, but also as a technique for providing a blank canvas for developers to build styles on top of.
 
-- Applying CSS to an HTML document — inline styles, internal stylesheets, external stylesheets
+- Applying CSS to an HTML document — inline styles, internal stylesheets, external stylesheets:
 
-  - Why external stylesheets are usually the best option
+  - Why external stylesheets are usually the best option.
 
 Resources:
 
@@ -58,25 +54,25 @@ Resources:
 
 - [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 
-## 3.2 Selectors and combinators
+## 3.2 Selectors
 
 Learning outcomes:
 
-- Basic selectors — element type, class, ID
+- Basic selectors — element type, class, ID:
 
   - IDs are unique per document — you should use an ID to select one specific element.
 
   - You can have multiple classes per element, and these can be used to layer on styles as required.
 
-  - IDs and classes should be used sparingly when it makes sense for getting the selections you want, but you shouldn't use them for everything — keep your HTML as clean and uncluttered as possible.
+  - IDs and classes should be used sparingly where they make sense for selections, but you shouldn't use them for everything — keep your HTML as clean and uncluttered as possible.
 
-- Selector lists
+- Selector lists.
 
-- Attribute selectors
+- Attribute selectors.
 
-- Combinators
+- Combinators.
 
-- Pseudo-classes and pseudo-elements
+- Pseudo-classes and pseudo-elements.
 
 Resources:
 
@@ -88,23 +84,23 @@ Resources:
 
 Learning outcomes:
 
-- Block and inline elements
+- Block and inline elements.
 
-- The different boxes that make up an element and how to style them
+- The different boxes that make up an element and how to style them:
 
-  - `width` and `height`
+  - `width` and `height`.
 
-  - `margin`
+  - `margin`.
 
-  - `border`
+  - `border`.
 
-  - `padding`
+  - `padding`.
 
-- The alternative box model accessed via `box-sizing: border-box`, and why this is easier to understand (and how it differs from) the standard box model
+- The alternative box model accessed via `box-sizing: border-box`, and why this is easier to understand (and how it differs from) the standard box model.
 
-- Margin collapsing
+- Margin collapsing.
 
-- Basic display values, and how they affect box behavior — `block`, `inline`, `inline-block`, `none`
+- Basic display values, and how they affect box behavior — `block`, `inline`, `inline-block`, and `none`.
 
 Resources:
 
@@ -112,23 +108,23 @@ Resources:
 
 - [Box Model](https://web.dev/learn/css/box-model/), web.dev (2019)
 
-## 3.4 Cascade, specificity, and inheritance
+## 3.4 Handling conflicts in CSS
 
 Learning outcomes:
 
-- Understand how rules can conflict in CSS
+- Understand how rules can conflict in CSS.
 
-- Inheritance
+- Inheritance.
 
-- The cascade
+- The cascade.
 
-- The concepts that govern the outcome of CSS conflicts
+- The concepts that govern the outcome of CSS conflicts:
 
-  - Specificity
+  - Specificity.
 
-  - Source order
+  - Source order.
 
-  - Importance
+  - Importance.
 
 Resources:
 
@@ -138,25 +134,25 @@ Resources:
 
 Learning outcomes:
 
-- Understand that property values can take many different types, and what these types represent
+- Understand that property values can take many different types, and what these types represent:
 
-  - Numbers, lengths, and percentages
+  - Numbers, lengths, and percentages.
 
-  - Ems and rems
+  - Ems and rems.
 
-  - Colors
+  - Colors.
 
-  - Images
+  - Images.
 
-  - Positions
+  - Positions.
 
-  - Strings and identifiers
+  - Strings and identifiers.
 
-  - Functions
+  - Functions.
 
-- Understand what absolute and relative units are, and the difference between them
+- Understand what absolute and relative units are, and the difference between them.
 
-Resources
+Resources:
 
 - [CSS values and units](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Values_and_units)
 
@@ -164,13 +160,13 @@ Resources
 
 Learning outcomes:
 
-- Intrinsic size
+- Intrinsic size.
 
-- Setting absolute and percentage sizes
+- Setting absolute and percentage sizes.
 
-- `min-`/`max-width` and `min-`/`max-height`
+- `min-`/`max-width` and `min-`/`max-height`.
 
-- Viewport units
+- Viewport units.
 
 Resources:
 
@@ -182,23 +178,23 @@ Resources:
 
 Learning outcomes:
 
-- Basic background styling — colors, images
+- Basic background styling — colors and images.
 
-- Background image size, repeat, position, and attachment
+- Background image size, repeat, position, and attachment.
 
-- Background gradients
+- Background gradients:
 
-  - General concept of what a background gradient is
+  - The general concept of what a background gradient is.
 
-  - Linear gradients
+  - Linear gradients.
 
-  - (Radial, conic, and repeating gradients are more advanced and not required to cover in depth at this stage)
+  - (Radial, conic, and repeating gradients are more advanced and in-depth coverage is not required at this stage.)
 
-- Accessibility considerations of backgrounds — ensure good contrast
+- Accessibility considerations of backgrounds — ensure good contrast.
 
-- Border basics — `border-width`, `border-style`, `border-color`, border shorthand (e.g. `border-top` and `border`)
+- Border basics — `border-width`, `border-style`, `border-color`, and border shorthand (e.g. `border-top` and `border`).
 
-- Border radius for rounded corners
+- `border-radius` for rounded corners.
 
 Resources:
 
@@ -208,9 +204,9 @@ Resources:
 
 Learning outcomes:
 
-- Understand what overflow is
+- Understand what overflow is.
 
-- Control overflow with `overflow` properties
+- Control overflow with `overflow` properties.
 
 Resources:
 
@@ -224,7 +220,7 @@ Learning outcomes:
 
 - Using CSS resets to overcome `<input>` font styling inheritance and box styling default differences.
 
-- Understand that not all form elements are easy to style, and why.
+- Understand that not all form elements are easy to style, and why:
 
   - System styles are applied to some form elements, making consistent styling difficult across browsers.
 
@@ -236,7 +232,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, students should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
+> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, you should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
 
 Resources:
 
@@ -256,7 +252,7 @@ Learning outcomes:
 
 - Use browser developer tools to inspect the CSS that is applied to HTML elements on a page.
 
-- Modify the applied CSS — enable and disable declarations, modify values, add new declarations — to figure out what changes are needed to get what you want.
+- Modify the applied CSS to figure out what changes are needed to get what you want. This includes enabling and disabling declarations, modifying values, and adding new declarations.
 
 - Use layout inspection tools to inspect the box model, grids, flexbox, and other layout features (see also [5 CSS Layout](./5-0-css-layout.md)).
 

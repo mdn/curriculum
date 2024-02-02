@@ -1,5 +1,5 @@
 ---
-summary: Learn how to protect data from unauthorized access, and how to treat user data responsibly.
+summary: Learn how to protect data from unauthorized access and how to treat user data responsibly.
 topic: Best Practices
 template: module
 ---
@@ -18,52 +18,52 @@ General resources:
 
 > **Notes**:
 >
-> - Conforming to all of the criteria in this module is not going to result in a student being a qualified security engineer, but equally it is very important for any web developer to understand the basics of web security and privacy.
+> - Conforming to all of the criteria in this module is not going to result in a student being a qualified security engineer, but equally it is important for web developers to understand the basics of web security and privacy.
 > - It is also important for students to understand that a lot of security issues are caused by problems with server-side code, or a combination of client-side and server-side code. A lot of code should present very few security risks, provided the browser is doing its job properly.
 
 Learning outcomes:
 
-- Understand the difference between security and privacy
+- Understand the difference between security and privacy.
 
-- Understand the general HTTP model from a high level
+- Understand the general HTTP model from a high-level.
 
-- Learn what HTTPS is, and why it is important
+- Learn what HTTPS is, and why it is important.
 
-- Same-origin security
+- Same-origin security:
 
-  - Why this is fundamental to the web
+  - Why this is fundamental to the web.
 
-  - Ways of working around it safely, such as Cross-Origin Resource Sharing (CORS)
+  - Ways of working around it safely, such as Cross-Origin Resource Sharing (CORS).
 
-- How cookies are stored, and their security and privacy implications, such as tracking
+- How cookies are stored, and their security and privacy implications, such as tracking.
 
-- Learn about situations where security issues generally occur
+- Learn about situations where security issues generally occur:
 
-  - When asking users to provide sensitive data (such as passwords or credit card data) and transmitting it to a server
+  - When asking users to provide sensitive data (such as passwords or credit card data) and transmitting it to a server.
 
-  - When requesting data from a server
+  - When requesting data from a server.
 
-  - When transmitting data between servers (for example, if a server requests data from a web service)
+  - When transmitting data between servers (for example, if a server requests data from a web service).
 
-  - When preserving user state by setting a cookie or other mechanisms
+  - When preserving user state by setting a cookie or other mechanisms.
 
-- Learn about the common security threats and how to mitigate them
+- Learn about common security threats and how to mitigate them:
 
-  - Cross-site scripting (XSS)
+  - Cross-site scripting (XSS).
 
-  - Cross-site request forgery (CSRF)
+  - Cross-site request forgery (CSRF).
 
-  - Clickjacking
+  - Clickjacking.
 
-  - Denial of service (DoS)
+  - Denial of service (DoS).
 
-- Understand the purpose of other important technologies, such as
+- Understand the purpose of other important technologies, such as:
 
-  - Content Security Policy (CSP)
+  - Content Security Policy (CSP).
 
-  - Permissions-Policy
+  - Permissions-Policy.
 
-  - The web model for user activation of "powerful features" (aka transient activation)
+  - The web model for user activation of "powerful features" (aka transient activation).
 
 Resources:
 
@@ -73,31 +73,31 @@ Resources:
 
 - [Privacy on the web](https://developer.mozilla.org/docs/Web/Privacy)
 
-## 5.2 Understanding relevant data protection laws
+## 5.2 Data protection laws
 
 Learning outcomes:
 
-- Understand fundamental concepts related to user privacy
+- Understand fundamental concepts related to user privacy:
 
-  - Personally identifiable information (PII)
+  - Personally identifiable information (PII).
 
-  - Confidentiality
+  - Confidentiality.
 
-  - Tracking
+  - Tracking.
 
-  - Fingerprinting
+  - Fingerprinting.
 
-- Be aware of regional privacy laws, for example
+- Be aware of regional privacy laws, for example:
 
-  - [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (EU)
+  - [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (EU).
 
-  - [Data Protection Act 2018](https://www.gov.uk/data-protection) (UK), gov.uk
+  - [Data Protection Act 2018](https://www.gov.uk/data-protection) (UK), gov.uk.
 
-  - [California Consumer Privacy Act (2018)](https://www.oag.ca.gov/privacy/ccpa) (US, CA), ca.gov
+  - [California Consumer Privacy Act (2018)](https://www.oag.ca.gov/privacy/ccpa) (US, CA), ca.gov.
 
-  - [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (US), ftc.gov
+  - [Children's Online Privacy Protection Rule (COPPA)](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (US), ftc.gov.
 
-- Understand what compliance with such laws looks like in terms of practical implementation
+- Understand how to comply with such laws, in terms of practical implementation.
 
 > **Notes**:
 >

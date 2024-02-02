@@ -6,7 +6,7 @@ template: module
 
 # 2 Semantic HTML
 
-HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
+HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and making use of the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
 
 General resources:
 
@@ -16,15 +16,15 @@ General resources:
 
 - [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss), Scrimba
 
-## 2.1 Basic HTML syntax and structure
+## 2.1 Basic HTML syntax
 
 Learning outcomes:
 
-- The need for a doctype at the top of an HTML document. Its original intended purpose, and the fact that now it is somewhat of a historical artifact.
+- The need for a doctype at the top of HTML documents. Its original intended purpose, and the fact that now it is somewhat of a historical artifact.
 
-- The need to set the language of a document using the `lang` attribute in the opening `<html>` tag
+- The need to set the language of a document using the `lang` attribute in the opening `<html>` tag.
 
-- The HTML head, and its purpose as a metadata container for the document including key uses
+- The HTML head, and its purpose as a metadata container for the document including key uses:
 
   - Setting information like character encoding and title.
 
@@ -38,7 +38,7 @@ Learning outcomes:
 
 - The anatomy of an HTML element — element, opening tag, content, closing tag, attributes.
 
-- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are, and how they differ from standard elements.
+- What [void elements](https://developer.mozilla.org/docs/Glossary/Void_element) (also known as empty elements) are, and how they differ from other elements.
 
 Resources:
 
@@ -50,13 +50,13 @@ Resources:
 
 Learning outcomes:
 
-- How to create a good document structure with headings and content beneath those headings
+- How to create a good document structure with headings and content beneath those headings.
 
-- Using semantic HTML rather than presentational HTML.
+- Using semantic HTML rather than presentational HTML:
 
-  - Some presentational markup should no longer be used at all (e.g. `<big>` or `<font>`); it is truly deprecated.
+  - Some presentational markup should no longer be used at all (e.g. `<big>` and `<font>`); it is deprecated.
 
-  - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>`, `<b>`).
+  - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>` and `<b>`).
 
   - It is tempting to just use `<div>` elements wherever a block-level container is required, but you should be aware of the other available structural elements and their benefits (such as improved accessibility). Examples include `<main>`, `<section>`, `<article>`, `<header>`, `<nav>`, and `<footer>`.
 
@@ -72,11 +72,11 @@ Learning outcomes:
 >
 > - This conformance criterium doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
-- Accessibility benefits: Assistive Technology (AT) such as screen readers use headings and landmarks as signposts to navigate content. HTML documents are very difficult for Assistive Technology users to use without headings.
+- Accessibility benefits: Assistive technology (AT) such as screen readers use headings and landmarks as signposts to navigate content. HTML documents are very difficult for AT users to use without headings.
 
-- That HTML needs to be correctly nested. If not, the browser has to guess what you meant your structure to be, and it might not be what you wanted.
+- Understanding that HTML needs to be correctly nested. If not, the browser has to guess what you meant your structure to be, and it might not be what you wanted.
 
-- Validating your markup using the [HTML validator](https://validator.w3.org/) or another similar tool (for example, view source in Firefox highlights validation errors with a dotted red underline).
+- Validating your markup using the [HTML validator](https://validator.w3.org/) or another similar tool (for example, [view source](https://firefox-source-docs.mozilla.org/devtools-user/view_source/index.html) in Firefox highlights validation errors with a dotted red underline).
 
 Resources:
 
@@ -90,11 +90,11 @@ Resources:
 
 Learning outcomes:
 
-- The HTML structure for the three types of lists — unordered, ordered, and description
+- The HTML structure for the three types of lists — unordered, ordered, and description.
 
-  - Understand that description lists are less commonly used than the other two types, with use cases mainly in areas such as academia and documentation.
+- Understand that description lists are less commonly used than the other two types, with use cases mainly in areas such as academia and documentation.
 
-- The correct usage for each list type
+- The correct usage for each list type.
 
 > **Notes**:
 >
@@ -102,7 +102,7 @@ Learning outcomes:
 > - Ordered lists are for marking up a list of items where the order does matter, such as a set of directions.
 > - Description lists are for associating a list of terms with descriptions of those terms, for example, product names and descriptions in a shopping cart.
 
-- The broader use cases of lists, such as navigation menus
+- The broader use cases of lists, such as navigation menus.
 
 Resources:
 
@@ -114,25 +114,25 @@ Resources:
 
 Learning outcomes:
 
-- Correct usage of elements for emphasis and importance, such as `<strong>` and `<em>`
+- Correct usage of elements for emphasis and importance, such as `<strong>` and `<em>`.
 
 <!-- -->
 
-- Understand that HTML elements exist for representing other less common semantic requirements, for example:
+- Understand HTML elements that represent other less common semantic requirements, for example:
 
-  - Quotations
+  - Quotations.
 
-  - Abbreviations and acronyms
+  - Abbreviations and acronyms.
 
-  - Addresses
+  - Addresses.
 
-  - Times and dates
+  - Times and dates.
 
-  - Superscript and subscript
+  - Superscript and subscript.
 
-  - HTML entities
+  - HTML entities.
 
-  - Other text markup features such as `<u>`, `<s>`, and `<ruby>`
+  - Other text markup features such as `<u>`, `<s>`, and `<ruby>`.
 
 > **Notes**:
 >
@@ -150,21 +150,19 @@ Resources:
 
 Learning outcomes:
 
-- Understand why links are the fundamental feature of the web. There is no web without links.
+- Understand why links are _the_ fundamental feature of the web. There is no web without links.
 
-- The `href` attribute
+- The `href` attribute.
 
-- Absolute and relative paths, and when to use them
+- Absolute and relative paths, and when to use them.
 
-- Path syntax in detail — slashes, single dot, and double dot
+- Path syntax in detail — slashes, single dot, and double dot.
 
-- Link states and why they are important — `:hover`, `:focus`, `:visited`, `:active`
+- Link states and why they are important — `:hover`, `:focus`, `:visited`, and `:active`.
 
-- Inline and block-level links
+- Inline and block-level links.
 
-- Writing good link text
-
-  - Understanding the benefits of good link text, such as better accessibility for screenreader users, and potential positive SEO effects
+- Understanding the benefits of writing good link text, such as better accessibility for screenreader users, and potential positive SEO effects.
 
 Resources:
 
@@ -176,31 +174,29 @@ Learning outcomes:
 
 - The term "replaced element" — what does it mean?
 
-- Images, audio, video
+- Images, audio, video:
 
-  - The basics — `<img>`, `<audio>`, and `<video>` tags
+  - The basics — `<img>`, `<audio>`, and `<video>` tags.
 
-  - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md))
+  - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md)).
 
-  - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed
+  - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed.
 
-  - Video and audio-specific attributes such as `controls` and `muted`
+  - Video and audio-specific attributes such as `controls` and `muted`.
 
-  - `<sources>`
+  - `<sources>`.
 
-  - Optimizing images for the web; keep file sizes small
+  - Optimizing media assets for the web — keep file sizes small.
 
-- Media assets and licensing
+- Media assets and licensing:
 
-  - Different types of licensing — public domain/CC0, permissive (e.g. CC license, MIT), copyrighted (rights-managed/royalty-free)
+  - Different types of licensing — public domain/CC0, permissive (e.g. CC license, MIT), copyrighted (rights-managed/royalty-free).
 
-  - Searching for appropriately-licensed media files to use in projects using search engines (e.g. [Google Images](https://images.google.co.uk/)) and specific media repositories (e.g. [Flickr,](https://www.flickr.com/) [The Noun Project](https://thenounproject.com/))
+  - Searching for appropriately licensed media files to use in projects, e.g. via [Google Images](https://images.google.co.uk/), [Flickr](https://www.flickr.com/), and [The Noun Project](https://thenounproject.com/).
 
   - Complying with license requirements.
 
-- Alternative text for media
-
-  - Alt text for images and video
+- Alternative text ("alt text") for media.
 
 Resources:
 
@@ -212,23 +208,23 @@ Resources:
 
 Learning outcomes:
 
-- Aside from links, `<button>` and form elements are the main way to build controls for users to interact with your sites.
+- Aside from links, `<button>` and form elements are the main tools for building controls for users to interact with your sites.
 
 > **Notes**:
 >
 > - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
-- `<button>`
+- `<button>`:
 
-  - Button types — `button`, `submit`, `reset`
+  - Button types — `button`, `submit`, and `reset`.
 
-  - Why reset buttons are nearly always a bad idea
+  - Why reset buttons are nearly always a bad idea.
 
-- Common `<input>` types — `text`, `number`, `file`, `checkbox`, `radio`, `password`, `search`, `submit`.
+- Common `<input>` types — `text`, `number`, `file`, `checkbox`, `radio`, `password`, `search`, and `submit`.
 
-- Common attributes — `name`, `value`.
+- Common attributes — `name` and `value`.
 
-- Client-side validation basics — `required`, `min`, `max`, `minlength`, `maxlength`, `pattern`.
+- Client-side validation basics — `required`, `min`, `max`, `minlength`, `maxlength`, and `pattern`.
 
 > **Notes**:
 >
@@ -238,7 +234,9 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - Going back to the argument for semantic HTML (see also [2.2 Good document structure](./2-2-good-document-structure.md)), you should understand why it is important to use the right element for the right job — e.g. use a `<button>` to submit your form, and not a `<div>` programmed to behave like a `<button>`. Understand the features programmed into these elements by the browser, by default, and how important they are.
+> - Going back to the argument for semantic HTML (see also [2.2 Good document structure](./2-2-good-document-structure.md)), you should understand why it is important to use the right element for the right job. For example, use a `<button>` to submit your form, and not a `<div>` programmed to behave like a `<button>`.
+>
+> - Understand the features programmed into `<button>`s and form elements by the browser by default, and how important they are. Examples include keyboard accessibility, focus outlines, and semantic meaning for AT to identify the elements and communicate their meaning.
 
 - Form states and why they are important — `:focus`, `:readonly`, `:disabled`, etc.
 
@@ -246,9 +244,9 @@ Learning outcomes:
 
 - `<select>` and `<option>`.
 
-- `<form>` elements
+- `<form>` elements:
 
-  - Form submission: what happens when a form is submitted
+  - Form submission: what happens when a form is submitted.
 
   - The difference between submission methods — `GET`, `POST`, etc.
 
@@ -260,15 +258,15 @@ Resources:
 
 Learning outcomes:
 
-- What tables are for — structuring tabular data
+- What tables are for — structuring tabular data.
 
-- What tables are not for — layout, or anything else
+- What tables are not for — layout, or _anything else_.
 
-- Basic tables — `<table>`, `<tr>`, `<td>`
+- Basic tables — `<table>`, `<tr>`, and `<td>`.
 
-- `colspan` and `rowspan`
+- `colspan` and `rowspan`.
 
-- Better table structuring for accessibility — `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, the `scope` attribute
+- Better table structuring for accessibility — `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the `scope` attribute.
 
 Resources:
 
@@ -282,11 +280,11 @@ Learning outcomes:
 
 - View source is a useful tool for getting a quick look at the source markup of a page.
 
-- Using the DOM inspector in your browser DevTools to dive deeper into your markup.
+- Using the DOM inspector in your browser DevTools to dive deeper into your markup:
 
   - Add and remove elements and attributes on the fly to see what effect it has.
 
-  - Add and remove classes on the fly to see if associated CSS is applied as expected.
+  - Add and remove classes on the fly to see if the associated CSS is applied as expected.
 
 Resources:
 
