@@ -60,7 +60,7 @@ This curriculum does not attempt to outline every topic that a web developer cou
 - Best practices such as accessibility, responsive design, and UI design theory.
 - Key tools such as frameworks and version control.
 - Soft skills for promoting the mindset and attitude required to secure a job.
-- "Web-adjacent" topics like computer and file systems, browsing the web, command line basics, and code editors.
+- Environment knowledge like computer and file systems, browsing the web, command line basics, and code editors.
 - Several "extensions" that we feel constitute useful additional skills to learn as developers start to expand their knowledge and develop specialisms. This includes:
   - CSS transforms and animation
   - Common categories of Web API (e.g. media, graphics, and storage)

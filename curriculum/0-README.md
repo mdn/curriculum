@@ -21,7 +21,7 @@ Last updated: February 2024
 - The go-to resource for the essential skills and knowledge every front-end developer needs for career success and industry relevance.
 - Developed by Mozilla and refined with insights from the broader MDN community.
 
-[Learn More](./1-about.md)
+[Learn more](./1-about.md)
 
 ## Modules
 
@@ -31,15 +31,15 @@ Last updated: February 2024
 
 ### For Beginners
 
-- Embarking on your coding journey? Begin with our [Getting Started](./1-getting-started/) and [Core](./2-core/) modules to grasp the essential skills for web development.
+- Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
 
 ### Advancing Your Skills
 
-- Beyond the basics? Dive deeper with our [Extensions](./3-extensions/) modules to develop specialized skills.
+- Beyond the basics? Dive deeper with our "Extensions" modules to develop specialized skills.
 
 ### Career Ready
 
-- Seeking employment? Our [Soft Skills](./1-getting-started/1-soft-skills.md) module offers crucial insights to help you land your job.
+- Seeking employment? Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
 
 ### For Educators
 
