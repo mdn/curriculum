@@ -44,4 +44,3 @@ Last updated: February 2024
 ### For Educators
 
 - Crafting courses? Utilize our modules to guide your teaching and support your students' learning journey.
-
