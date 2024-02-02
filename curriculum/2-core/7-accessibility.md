@@ -22,15 +22,15 @@ Learning outcomes:
 
 - Accessible best practices:
 
-  - Alt text (see also [2.6 Media](../1-web-standards-and-html/2-6-media.md)).
+  - Alt text (see also [2.6 Media](./2-semantic-html.md#2.6_media)).
 
-  - Good link text (see also [2.5 Links](../1-web-standards-and-html/2-5-links.md)).
+  - Good link text (see also [2.5 Links](./2-semantic-html.md#2.5_links)).
 
-  - `<label>`s for form elements (see also [2.7 Other interactive elements](../1-web-standards-and-html/2-7-other-interactive-elements.md)).
+  - `<label>`s for form elements (see also [2.7 Other interactive elements](./2-semantic-html.md#2.7_other_interactive_elements)).
 
   - Mobile browsers that provide specific usability advantages for specific `<input>` types such as `number` or `tel`.
 
-  - Making tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the `scope` attribute (See also [2.8 HTML tables](../1-web-standards-and-html/2-8-html-tables.md)).
+  - Making tables accessible with `<th>`, `<thead>`, `<tbody>`, `<tfoot>`, `<caption>`, and the `scope` attribute (See also [2.8 HTML tables](./2-semantic-html.md#2.8_html_tables)).
 
   - Using simple plain language, steering clear of slang and abbreviations where possible, and providing definitions where it is not possible.
 
@@ -64,7 +64,7 @@ Learning outcomes:
 
   - Consider providing large-type interfaces for those with visual impairments.
 
-  - See also [4.1 Text and font styling](../2-styling.md#4-1-text-and-font-styling).
+  - See also [4.1 Text and font styling](./2-styling.md#4.1_text_and_font_styling).
 
 - Color contrast:
 
@@ -76,7 +76,7 @@ Learning outcomes:
 
   - These are important cues for mouse and keyboard users.
 
-  - See also [4.2 Styling lists and links](../2-styling.md#4-2-styling-lists-and-links).
+  - See also [4.2 Styling lists and links](./2-styling.md#4.2_styling_lists_and_links).
 
 - Sensible animation usage — use animation subtly and provide controls to turn it off:
 
