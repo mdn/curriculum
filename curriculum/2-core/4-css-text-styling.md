@@ -12,17 +12,17 @@ This module focuses specifically on CSS font and text styling, including loading
 
 Learning outcomes:
 
-- `color`
+- `color`.
 
-- Font family, font stacks, web-safe fonts
+- Font family, font stacks, web safe fonts.
 
-- `font-size`, `font-weight`, and `font-style`
+- `font-size`, `font-weight`, and `font-style`.
 
-- `text-align`, `text-transform`, and `text-decoration`
+- `text-align`, `text-transform`, and `text-decoration`.
 
-- `text-shadow`
+- `text-shadow`.
 
-- `line-height`
+- `line-height`.
 
 > **Notes**:
 >
@@ -38,17 +38,17 @@ Resources:
 
 Learning outcomes:
 
-- Spacing list items (for example with `margin` or `line-height`)
+- Spacing list items, for example, with `margin` or `line-height`.
 
-- `list-style` properties
+- `list-style` properties.
 
-- Understand why default link styles are important for usability on the web (they are familiar and help users to recognize links)
+- Understand why default link styles are important for usability on the web — they are familiar and help users recognize links.
 
-- Styling link states: `:hover`, `:focus`, `:visited`, and `:active`
+- Styling link states: `:hover`, `:focus`, `:visited`, and `:active`:
 
-  - Understand why these are necessary for usability and accessibility
+  - Understand why these are necessary for usability and accessibility.
 
-- Creating a navigation menu with lists and links
+- Creating a navigation menu with lists and links.
 
 Resources:
 
@@ -60,7 +60,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand that web fonts allow developers to go beyond the web-safe font set and use custom fonts on their web apps.
+- Understand that web fonts allow developers to go beyond the web safe font set and use custom fonts on their web apps.
 
 - Basic setup — the `@font-face` at-rule, and `font-family` and `src` descriptors.
 
@@ -68,7 +68,7 @@ Learning outcomes:
 
 - Other descriptors — `font-weight`, `font-style`, etc.
 
-- Using an online service to find web fonts and generate web font code (for example, [Font Squirrel](https://www.fontsquirrel.com) or [Google Fonts](https://fonts.google.com/)).
+- Using an online service to find web fonts and generate web font code, for example, [Font Squirrel](https://www.fontsquirrel.com) and [Google Fonts](https://fonts.google.com/).
 
 - Usability implications of web fonts — using several of them can increase page download size.
 

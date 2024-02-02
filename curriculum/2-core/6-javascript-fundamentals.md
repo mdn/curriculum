@@ -6,7 +6,7 @@ template: module
 
 # 6 JavaScript fundamentals
 
-JavaScript is a huge topic, with so many different features, styles, and techniques to learn, and so many APIs and tools built on top of it. This module focuses on the essentials of the core language. Learning these topics will give you a solid basis to work from.
+JavaScript is a huge topic, with so many different features, styles, and techniques to learn, and so many APIs and tools built on top of it. This module focuses mostly on the essentials of the core language, plus some key surrounding topics — learning these topics will give you a solid basis to work from.
 
 General resources:
 
@@ -28,11 +28,11 @@ Learning outcomes:
 
 - Creating constants with `const`.
 
-  - The difference between variables and constants, and when you would use each one.
+- The difference between variables and constants, and when you would use each one.
 
 - Understand variable naming best practices. If not explicitly covered, all examples should show good variable naming pratices in action.
 
-- The different types of value that can be stored in variables — strings, numbers, booleans, arrays, objects.
+- The different types of value that can be stored in variables — strings, numbers, booleans, arrays, and objects.
 
 Resources:
 
@@ -42,21 +42,21 @@ Resources:
 
 Learning outcomes:
 
-- Basic number operations in JavaScript — add, subtract, multiply, divide
+- Basic number operations in JavaScript — add, subtract, multiply, and divide.
 
-- Understand that numbers are not numbers if they are defined as strings, and how this can cause calculations to go wrong
+- Understand that numbers are not numbers if they are defined as strings, and how this can cause calculations to go wrong.
 
-  - Converting strings to numbers with `Number()`
+- Converting strings to numbers with `Number()`.
 
-- Operator precedence
+- Operator precedence.
 
-- Incrementing and decrementing
+- Incrementing and decrementing.
 
-- Assignment operators, e.g. addition assignment, subtraction assignment
+- Assignment operators, e.g. addition assignment and subtraction assignment.
 
-- Comparison operators
+- Comparison operators.
 
-- Basic `Math` object methods, such as `Math.random()`, `Math.floor()`, and `Math.ceil()`
+- Basic `Math` object methods, such as `Math.random()`, `Math.floor()`, and `Math.ceil()`.
 
 Resources:
 
@@ -68,35 +68,35 @@ Resources:
 
 Learning outcomes:
 
-- Creating string literals
+- Creating string literals.
 
-  - Understand the need for matching quotes
+- Understand the need for matching quotes.
 
-- String concatenation
+- String concatenation.
 
-- Escaping characters in strings
+- Escaping characters in strings.
 
-- Template literals
+- Template literals:
 
-  - Using variables in template literals
+  - Using variables in template literals.
 
-  - Multiline template literals
+  - Multiline template literals.
 
-- String manipulation using common properties and methods such as
+- String manipulation using common properties and methods such as:
 
-  - `length`
+  - `length`.
 
-  - `toString()`
+  - `toString()`.
 
-  - `includes()`
+  - `includes()`.
 
-  - `indexOf()`
+  - `indexOf()`.
 
-  - `slice()`
+  - `slice()`.
 
-  - `toLowerCase()` and `toUpperCase()`
+  - `toLowerCase()` and `toUpperCase()`.
 
-  - `replace()`
+  - `replace()`.
 
 Resources:
 
@@ -116,17 +116,17 @@ Learning outcomes:
 
 - Array manipulation using common properties and methods, such as:
 
-  - `length`
+  - `length`.
 
-  - `indexOf()`
+  - `indexOf()`.
 
-  - `push()` and `pop()`
+  - `push()` and `pop()`.
 
-  - `shift()` and `unshift()`
+  - `shift()` and `unshift()`.
 
-  - `join()` and `split()`
+  - `join()` and `split()`.
 
-- Advanced array methods such as `forEach()`, `map()`, and `filter()`.
+- Advanced array methods such as `forEach()`, `map()` and `filter()`.
 
 Resources:
 
@@ -136,17 +136,17 @@ Resources:
 
 Learning outcomes:
 
-- Understand what a conditional is — run different code paths depending on a test result
+- Understand what a conditional is — a code structure for running different code paths depending on a test result.
 
-- `if ... else ... else if`
+- `if ... else ... else if`.
 
-- Using comparison operators to create tests
+- Using comparison operators to create tests.
 
-- AND, OR, and NOT in tests
+- AND, OR, and NOT in tests.
 
-- Switch statements
+- Switch statements.
 
-- Ternary operators
+- Ternary operators.
 
 Resources:
 
@@ -156,7 +156,7 @@ Resources:
 
 Learning outcomes:
 
-- Understand the purpose of loops — you want to do something very similar many times and don't want to have to repeat the same code every time.
+- Understand the purpose of loops — a code structure that allows you to do something very similar many times without repeating the same code for each iteration.
 
 - Basic `for` loops.
 
@@ -178,9 +178,9 @@ Learning outcomes:
 
 - Understand the purpose of functions — to enable the creation of reusable blocks of code that can be called wherever needed.
 
-- Understand that functions are used everywhere in JavaScript, and that some are built into the browser and some are user-defined.
+- Understand that functions are used everywhere in JavaScript and that some are built into the browser and some are user-defined.
 
-- Understand the difference between functions and methods
+- Understand the difference between functions and methods.
 
 - Invoking a function.
 
@@ -192,13 +192,13 @@ Learning outcomes:
 
 - Named and anonymous functions.
 
-- Building your own functions.
+- Building your own custom functions:
 
-  - Including parameters
+  - Including parameters.
 
-  - Including return values
+  - Including return values.
 
-- Callback functions — understand that arguments to functions can themselves be functions, and what this pattern is used for
+- Callback functions — understand that arguments to functions can themselves be functions, and what this pattern is used for.
 
 - Arrow functions.
 
@@ -212,27 +212,27 @@ Resources:
 
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
-## 6.8 JavaScript object fundamentals
+## 6.8 JavaScript object basics
 
 Learning outcomes:
 
-- Understand that, in JavaScript, most things are objects, and you've used objects every time you've touched JavaScript
+- Understand that in JavaScript most things are objects, and you've probably used objects every time you've touched JavaScript.
 
-- Basic syntax
+- Basic syntax:
 
-  - Object literals
+  - Object literals.
 
-  - Properties and methods
+  - Properties and methods.
 
-  - Nesting objects and arrays in objects
+  - Nesting objects and arrays in objects.
 
-- Using constructors to create a new object
+- Using constructors to create a new object.
 
-- Object scope, and `this`
+- Object scope, and `this`.
 
-- Accessing properties and methods — bracket and dot syntax
+- Accessing properties and methods — bracket and dot syntax.
 
-- Object destructuring
+- Object destructuring.
 
 Resources:
 
@@ -246,9 +246,9 @@ Learning outcomes:
 
 - Understand what the DOM is — the browser's internal representation of the document's HTML structure as a hierarchy of objects, which can be manipulated using JavaScript.
 
-- Understand the important parts of a web browser and how they are represented in JavaScript — `Navigator`, `Window`, `Document`.
+- Understand the important parts of a web browser and how they are represented in JavaScript — `Navigator`, `Window`, and `Document`.
 
-- Understand how DOM nodes exist relative to each other in the DOM tree — root, parent, child, sibling, descendant.
+- Understand how DOM nodes exist relative to each other in the DOM tree — root, parent, child, sibling, and descendant.
 
 - Getting references to DOM nodes, for example with `querySelector()` and `getElementById()`.
 
@@ -270,13 +270,13 @@ Learning outcomes:
 
 - Understand what events are — a signal fired by the browser when something significant happens, which the developer can run some code in response to.
 
-- Event handlers.
+- Event handlers:
 
   - `addEventListener()` and `removeEventListener()`
 
-  - Event handler properties
+  - Event handler properties.
 
-  - Inline event handler attributes, and why you shouldn't use them
+  - Inline event handler attributes, and why you shouldn't use them.
 
 - Event objects.
 
@@ -288,29 +288,29 @@ Resources:
 
 - [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
 
-## 6.11 Asynchronous JavaScript fundamentals
+## 6.11 Async JavaScript basics
 
 Learning outcomes:
 
-- Understand the concept of asynchronous JavaScript — what it is and how it differs from synchronous JavaScript
+- Understand the concept of asynchronous JavaScript — what it is and how it differs from synchronous JavaScript.
 
-- Understand that callbacks and events have historically provided the means to do asynchronous programming in JavaScript
+- Understand that callbacks and events have historically provided the means to do asynchronous programming in JavaScript.
 
-- Modern asynchronous programming with async functions and `await`
+- Modern asynchronous programming with async functions and `await`:
 
-  - Basic usage
+  - Basic usage.
 
-  - Understanding async function return values
+  - Understanding async function return values.
 
-  - Error handling with `try`/`catch`
+  - Error handling with `try ... catch`.
 
-- Promises
+- Promises:
 
-  - Understand that `async`/`await` use promises under the hood; they provide a simpler abstraction
+  - Understand that `async`/`await` use promises under the hood; they provide a simpler abstraction.
 
-  - Chaining promises
+  - Chaining promises.
 
-  - Catching errors with `catch()`
+  - Catching errors with `catch()`.
 
 Resources:
 
@@ -318,21 +318,21 @@ Resources:
 
 ## 6.12 Network requests with fetch()
 
-- Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common async JavaScript use case on the web.
+- Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common asynchronous JavaScript use case on the web.
 
-- Common types of resources that are fetched from the network.
+- Common types of resources that are fetched from the network:
 
   - Text content, [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), media assets, etc.
 
-  - [RESTful APIs](https://developer.mozilla.org/docs/Glossary/REST), and the basic concepts behind them — common patterns such as [CRUD](https://developer.mozilla.org/en-US/docs/Glossary/CRUD)
+  - Data from [RESTful APIs](https://developer.mozilla.org/docs/Glossary/REST). Learn the basic concepts behind REST, including common patterns such as [CRUD](https://developer.mozilla.org/en-US/docs/Glossary/CRUD).
 
-- Understand what SPAs are, and the issues surrounding them:
+- Understand what single-page apps (SPAs) are, and the issues surrounding them:
 
   - Accessibility issues behind asynchronous updates, for example, content updates not being announced by screen readers by default.
 
   - Usability issues behind asynchronous updates, like loss of history and breaking the back button.
 
-- Crash course in [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) basics. We've already talked about `GET`-ing resources, but you should also look at other common HTTP verbs, such as `DELETE`, `POST`, and `PUT`, and how they are handled via `fetch()`.
+- Understand [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) basics. You should look at common HTTP methods such as `GET`, `DELETE`, `POST`, and `PUT`, and how they are handled via `fetch()`.
 
 Resources:
 
@@ -342,13 +342,13 @@ Resources:
 
 Learning outcomes:
 
-- Understand what JSON is — a very commonly-used data format based on JavaScript object syntax.
+- Understand what JSON is — a very commonly used data format based on JavaScript object syntax.
 
-- Understand that JSON can also contain arrays
+- Understand that JSON can also contain arrays.
 
 - Retrieve JSON as a JavaScript object using mechanisms available in Web APIs (e.g. `Response.json()` in the Fetch API).
 
-- Access values inside JSON data using object bracket and dot syntax.
+- Access values inside JSON data using bracket and dot syntax.
 
 - Converting between objects and text using `JSON.parse()` and `JSON.stringify()`.
 
@@ -356,27 +356,27 @@ Resources:
 
 - [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
 
-## 6.14 JavaScript libraries and frameworks introduction
+## 6.14 Libraries and frameworks
 
 Learning outcomes:
 
-- Understand what third-party code is — code written by someone else that you can add to your own project, so you don't have to write everything yourself.
+- Understand what third-party code is — functionality written by someone else that you can use in your own project, so you don't have to write everything yourself.
 
 - Why developers use third-party code:
 
   - Efficiency and productivity: A huge amount of complex functionality is already written for you to use, created in a way that enforces efficient, modular code organization.
 
-  - Compatibility: Reputable framework code is already optimized to work across browsers/devices, for performance, etc. Many frameworks also have systems to output to platform-specific apps as build targets.
+  - Compatibility: Reputable framework code is already optimized to work across browsers/devices, for performance, etc. Many frameworks also have systems to output to specific platforms (e.g. Android or iOS) as build targets.
 
   - Support/ecosystem: Popular frameworks have vibrant communities and help resources to provide support, and rich systems of extensions/plugins to add functionality.
 
 - The difference between libraries and frameworks:
 
-  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate into your own application (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
+  - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate into your own app (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
 
   - A library tends to be unopinionated about how you work with it in your codebase, whereas a framework tends to enforce a specific coding style and control flow.
 
-- Why should you learn frameworks?
+- Why should you use frameworks?
 
   - They can provide a lot of functionality and save you a lot of time.
 
@@ -384,25 +384,25 @@ Learning outcomes:
 
 - Why is a framework not always the right choice? A framework:
 
-  - can easily be overkill for a small project — you might be better off writing a few lines of vanilla JavaScript to solve the problem, or using a tailored library.
+  - Can easily be overkill for a small project — you might be better off writing a few lines of vanilla JavaScript to solve the problem or using a tailored library.
 
-  - usually adds a lot of JavaScript to the initial download of your application, leading to an initial performance hit and possible usability issues.
+  - Usually adds a lot of JavaScript to the initial download of your application, leading to an initial performance hit and possible usability issues.
 
-  - usually comes with its own set of custom syntax and conventions, which can introduce a significant additional learning curve to the project.
+  - Usually comes with its own set of custom syntax and conventions, which can introduce a significant additional learning curve to the project.
 
-  - may be incompatible with an existing codebase because of its architecture choice.
+  - May be incompatible with an existing codebase because of its architecture choice.
 
-  - will need to be updated regularly, possibly leading to extra maintenance overhead for your application.
+  - Will need to be updated regularly, possibly leading to extra maintenance overhead for your application.
 
-  - may introduce significant accessibility issues for people using assistive technologies because of its architecture (for example, SPA-style client-side routing), which will need to be considered carefully.
+  - May introduce significant accessibility issues for people using assistive technologies because of its architecture (for example, SPA-style client-side routing), which will need to be considered carefully.
 
-- Choosing a good library or framework:
+- How to choose? A good library or framework must:
 
-  - It must solve the problems your codebase must solve, and offer advantages that significantly outweigh any negatives that it brings to the table.
+  - Solve your problems while offering advantages that significantly outweigh any negatives that it brings to the table.
 
-  - It must have good support and a friendly community.
+  - Have good support and a friendly community.
 
-  - It must be actively maintained — don't choose a codebase that has not been updated for over a year, or has no users.
+  - Be actively maintained — don't choose a codebase that has not been updated for over a year, or has no users.
 
 Resources:
 
@@ -412,21 +412,21 @@ Resources:
 
 Learning outcomes:
 
-- Understand the different types of JavaScript errors — syntax errors and logic errors.
+- Understand the different types of JavaScript errors, for example, syntax errors and logic errors.
 
-- Learn about the common types of JavaScript error messages, and what they mean.
+- Learn about the common types of JavaScript error messages and what they mean.
 
-- Use browser developer tools to inspect the JavaScript running on your page and see what errors it is generating.
+- Using browser developer tools to inspect the JavaScript running on your page and see what errors it is generating.
 
 - Using `console.log()` and `console.error()` for simple debugging.
 
-- Error handling
+- Error handling:
 
-  - Using conditionals to avoid errors
+  - Using conditionals to avoid errors.
 
-  - `try ... catch`
+  - `try ... catch`.
 
-  - `throw`
+  - `throw`.
 
 - Advanced JavaScript debugging with breakpoints, watchers, etc.
 

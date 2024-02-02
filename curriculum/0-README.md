@@ -8,46 +8,48 @@ template: landing
 
 ## The essential skillset for new front-end developers
 
-Welcome to the MDN front-end developer curriculum — the up-to-date industry-standard guide to the key skills front-end developers need to succeed in the web industry. It covers core technical skills, best practices, and modern tooling. Recommended learning resources are provided.
+The MDN Curriculum provides a structured guide to the essential skills and practices for being a successful front-end developer, along with recommended learning resources.
 
-Last updated: January 2024
+Last updated: February 2024
 
-## About Curriculum
+## About the curriculum
 
 - Beginner's level
-- Self paced
+- Self-paced
 - Free
 
-It aims to provide the definitive recommendation for fundamental skills and knowledge that a front-end web developer should have for employability and longevity in today's web industry.
+The go-to resource for the essential skills and knowledge every front-end developer needs for career success and industry relevance.
 
-It covers core technical skills, best practices, and modern tooling. Recommended learning resources are provided.
+Developed by Mozilla and refined with insights from the broader MDN community.
 
-[Learn More](./1-about.md)
+[Learn more](./1-about.md)
 
 ## Modules
 
 <!-- generate content -->
 
-## Getting started
+## Don’t know where to start?
 
-### Just starting your coding journey?
+- ### For Beginners
 
-Learn all the fundamental web development skills you need by studying our Setup and Core topics.
-[Start the Core Module](./2-core/)
+  Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
 
-### Know the fundamentals and want to go further?
+  [Start the Core Module](./2-core/)
 
-Develop specialisms with our Extensions.
-[Start the Extensions Module](./3-extensions/).
+- ### Advancing Your Skills
 
-### Looking for employment?
+  Beyond the basics? Dive deeper with our "Extensions" modules to develop specialized skills.
 
-Consult our soft skills to help you secure a job.
-[Start the Setup Module](./1-setup/)
+  [Start the Extensions Module](./3-extensions/)
 
-<!-- for Anuja: leave some space here to separate the student offering from the educator one -->
+- ### Career Ready
 
-### Are you an educator?
+  Seeking employment? Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
 
-Structure your syllabus and help your students with our topics.
-[Start the Core Module](./2-core/)
+  [Start the Getting Started Module](./1-getting-started/)
+
+- ### For Educators
+
+  Crafting courses? Utilize our modules to guide your teaching and support your students' learning journey.
+
+  [Start the Core Module](./2-core/)

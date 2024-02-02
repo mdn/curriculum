@@ -6,9 +6,9 @@ template: module
 
 # 5 CSS layout
 
-Our final core CSS module looks deep into another crucial topic: creating layouts for modern websites. This module looks at floatings, positioning, modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.
+Our final core CSS module looks deep into another crucial topic — creating layouts for modern websites. This module looks at floats, positioning, other modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.
 
-## 5.1 The basics of CSS layout
+## 5.1 CSS layout basics
 
 Learning outcomes:
 
@@ -46,25 +46,25 @@ Learning outcomes:
 
 - Understand that `static` positioning is the default way elements are positioned on the page.
 
-- Relative positioning
+- Relative positioning:
 
-  - Understand that relatively positioned elements remain in the normal flow
+  - Understand that relatively positioned elements remain in the normal flow.
 
-  - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties
+  - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties.
 
-- Absolute positioning
+- Absolute positioning:
 
-  - Absolute (and fixed/sticky) positioning takes elements completely out of the normal flow to sit in a separate layer
+  - Absolute (and fixed/sticky) positioning takes elements completely out of the normal flow to sit in a separate layer.
 
-  - `top`, `bottom`, `left`, `right`, and `inset` have different effects on absolutely-positioned elements than on relatively-positioned ones
+  - `top`, `bottom`, `left`, `right`, and `inset` have different effects on absolutely-positioned elements than on relatively-positioned ones.
 
-  - Setting the positioning context of a positioned element by positioning an ancestor element
+  - Setting the positioning context of a positioned element by positioning an ancestor element.
 
-- Fixed and sticky positioning
+- Fixed and sticky positioning:
 
-  - Understand how these differ from absolute positioning
+  - Understand how these differ from absolute positioning.
 
-- Understand what z-index is, and how to control the stacking of positioned elements with the `z-index` property
+- Understand what z-index is, and how to control the stacking of positioned elements with the `z-index` property.
 
 Resources:
 
@@ -78,47 +78,45 @@ Resources:
 
 Learning outcome: Gain an understanding of modern CSS layout techniques:
 
-- Understand that for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective:
+- Understand that, for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective:
 
-  - Margins and padding for spacing
+  - Margins and padding for spacing.
 
-  - Auto margins for horizontal centering tasks (e.g. `margin: 0 auto`)
+  - Auto margins for horizontal centering tasks (e.g. `margin: 0 auto`).
 
-- Flexbox
+- Flexbox:
 
-  - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension
+  - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension.
 
-  - Understand flex terminology — flex container, flex item, main axis, cross axis
+  - Understand flex terminology — flex container, flex item, main axis, and cross axis.
 
-  - `display: flex`, and what it gives you by default
+  - `display: flex`, and what it gives you by default.
 
-  - Rows or columns
+  - Rows and columns, and how to wrap content onto new rows and columns.
 
-    - Wrapping rows or columns
+  - Flexible sizing of flex items.
 
-  - Flexible sizing of flex items
+  - Justifying and aligning content.
 
-  - Justifying and aligning content
+  - Adjusting flex item ordering.
 
-  - Adjusting flex item ordering
+- CSS Grid:
 
-- CSS Grid
+  - Understand the purpose of CSS Grid — flexibly lay out a set of block or inline elements in two dimensions.
 
-  - Understand the purpose of CSS Grid — flexibly lay out a set of block or inline elements in two dimensions
+  - Understand grid terminology — rows, columns, gaps, and gutters.
 
-  - Understand grid terminology — rows, columns, gaps, gutters
+  - `display: grid`, and what it gives you by default.
 
-  - `display: grid`, and what it gives you by default
+  - Defining grid rows and columns:
 
-  - Defining grid rows and columns
+    - The `fr` unit.
 
-    - The `fr` unit
+    - `minmax()`.
 
-    - `minmax()`
+  - Defining gaps.
 
-  - Defining gaps
-
-  - Positioning elements on the grid
+  - Positioning elements on the grid.
 
 Resources:
 
@@ -126,25 +124,25 @@ Resources:
 
 - [Grids](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Grids)
 
-## 5.5 Responsive design specifics
+## 5.5 Responsive design
 
 Learning outcomes:
 
 - Understand what responsive design is — designing web layouts so that they are flexible and work well across different device screen sizes, resolutions, etc.
 
-  - Understand the relationship between modern layout tools such as grid and flexbox, and responsive design.
+- Understand the relationship between modern layout tools such as grid and flexbox, and responsive design.
 
 - Media queries:
 
-  - The mobile-first technique
+  - The mobile-first technique.
 
-  - Understand breakpoints
+  - Understand breakpoints.
 
-  - Using `width` and `height` media queries to create responsive layouts
+  - Using `width` and `height` media queries to create responsive layouts.
 
 - `<meta viewport="">`, and how to use it to get web documents to display appropriately on mobile devices.
 
-  - For the sake of accessibility, never set `user-scalable=no`
+  - For the sake of accessibility, never set `user-scalable=no`.
 
 Resources:
 

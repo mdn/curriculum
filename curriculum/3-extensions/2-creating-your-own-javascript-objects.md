@@ -1,24 +1,24 @@
 ---
-summary: Create your own custom JavaScript objects gain a deeper understanding of object-oriented programming.
+summary: Create custom JavaScript objects to gain a deeper understanding of object-oriented programming.
 topic: Scripting
 template: module
 ---
 
-# Extension 2 Creating your own JavaScript objects
+# Extension 2 Custom JS objects
 
-Having a deeper knowledge of how JavaScript objects work is very useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
+Having a deeper knowledge of how JavaScript objects work is useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
 
 Learning outcomes:
 
-- Object prototypes
+- Object prototypes.
 
-- JavaScript class syntax
+- JavaScript class syntax.
 
-- Defining a constructor
+- Defining a constructor.
 
-- Defining properties and methods
+- Defining properties and methods.
 
-- Defining static properties/methods
+- Defining static properties and methods.
 
 Resources:
 
