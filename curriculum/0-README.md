@@ -30,26 +30,26 @@ Developed by Mozilla and refined with insights from the broader MDN community.
 
 ## Don’t know where to start?
 
-- ### For Beginners
+- ### Embarking on your coding journey?
 
-  Embarking on your coding journey? Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
+  Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development.
 
-  [Start the Core Module](./2-core/)
+  [Core modules](./2-core/)
 
-- ### Advancing Your Skills
+- ### Beyond the basics?
 
-  Beyond the basics? Dive deeper with our "Extensions" modules to develop specialized skills.
+  Dive deeper with our "Extensions" modules to develop specialized skills.
 
-  [Start the Extensions Module](./3-extensions/)
+  [Extensions modules](./3-extensions/)
 
-- ### Career Ready
+- ### Seeking employment?
 
-  Seeking employment? Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
+  Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job.
 
-  [Start the Getting Started Module](./1-getting-started/)
+  [Getting started modules](./1-getting-started/)
 
-- ### For Educators
+- ### Crafting courses?
 
-  Crafting courses? Utilize our modules to guide your teaching and support your students' learning journey.
+  Utilize our modules to guide your teaching and support your students' learning journey.
 
-  [Start the Core Module](./2-core/)
+  [Core modules](./2-core/)
