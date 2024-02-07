@@ -28,8 +28,7 @@ Developed by Mozilla and refined with insights from the broader MDN community.
 
 <!-- generate content -->
 
-<!-- markdownlint-disable-next-line MD033 -->
-## Don't know where to<br>get started?
+## Don't know where to<br>get started? <!-- markdownlint-disable-line MD033 -->
 
 - ### Embarking on your coding journey?
 
