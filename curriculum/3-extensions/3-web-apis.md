@@ -29,7 +29,6 @@ Learning outcomes:
   > **Notes**:
   >
   > - This set of conformance criteria does not expect a successful student to understand all of the web platform's video and audio-related APIs in detail. There is a lot of functionality in this category, and learning it all upfront would not be practical or particularly useful. Some of the functionality is for niche use cases, and students are encouraged to learn more as part of their constant learning, or when the need arises.
-  >
   > - For now, you are expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
 
 - Using the `HTMLMediaElement` API to build a basic custom media player:

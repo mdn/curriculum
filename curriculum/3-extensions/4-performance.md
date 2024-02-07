@@ -28,7 +28,7 @@ Learning outcomes:
 
   - Energy efficiency:
 
-    - Code performance (see [4.5 JavaScript and performance](#45-javascript-and-performance)).
+    - Code performance (see [4.5 JavaScript and performance](#4.5-javascript-and-performance)).
 
     - Static power draw (idle state).
 
