@@ -4,7 +4,7 @@ topic: Web Standards & Semantics
 template: module
 ---
 
-# Extension 1 Transform & animate CSS
+# Extension 1: Transform & animate CSS
 
 Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.
 

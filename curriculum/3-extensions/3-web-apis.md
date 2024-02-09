@@ -4,7 +4,7 @@ topic: Scripting
 template: module
 ---
 
-# Extension 3 Web APIs
+# Extension 3: Web APIs
 
 This module covers common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail, providing a useful grounding for those who want to go deeper into browser API usage.
 
