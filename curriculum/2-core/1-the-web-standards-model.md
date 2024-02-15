@@ -188,7 +188,7 @@ Learning outcomes:
 
   - You cannot guarantee a user's OS, browser, language, location, network connection, CPU, GPU, memory, etc.
 
-  - You need to embrace uncertainty and learn to program defensively. This feeds back into and expands upon the concepts looked at around progressive enhancement in [1.2 The HTML, CSS, and JavaScript triangle](./1-2-the-html-css-and-javascript-triangle.md). This would also be a good place to look at related concepts such as error handling, feature detection, and responsive design.
+  - You need to embrace uncertainty and learn to program defensively. This feeds back into and expands upon the concepts looked at around progressive enhancement in [1.2 The HTML, CSS, and JavaScript triangle](#1.2_the_html_css_and_javascript_triangle). This would also be a good place to look at related concepts such as error handling, feature detection, and responsive design.
 
 - The flipside — why the web is an awesome programming environment:
 

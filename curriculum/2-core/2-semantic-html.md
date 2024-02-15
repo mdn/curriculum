@@ -178,7 +178,7 @@ Learning outcomes:
 
   - The basics — `<img>`, `<audio>`, and `<video>` tags.
 
-  - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](./2-5-links.md)).
+  - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](#2-5-links.md)).
 
   - Using `width` and `height`, for example, to avoid unpleasant jerky updates to the UI once an image has finished loading and is displayed.
 
