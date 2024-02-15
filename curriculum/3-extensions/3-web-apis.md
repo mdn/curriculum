@@ -8,7 +8,7 @@ template: module
 
 This module covers common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail, providing a useful grounding for those who want to go deeper into browser API usage.
 
-> **General notes:**
+> **General notes**:
 >
 > - This module does not attempt to exhaustively cover the full spectrum of APIs available in web browsers.
 > - Rather, it provides you with enough information to understand Web APIs in general, and be able to pick up new ones via your own research.
