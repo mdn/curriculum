@@ -14,12 +14,12 @@ template: module
 - [Recommended soft skills](/curriculum/1-getting-started/1-soft-skills.md): Recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry
 - [Environment knowledge](/curriculum/1-getting-started/2-environment.md): Recommendations for topics related to the setup and usage of the computer system that you will use to implement websites/apps.
 
-- [1 The web standards model](/curriculum/2-core/1-the-web-standards-model.md): The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
-  - [1.1 How the web works](/curriculum/2-core/1-the-web-standards-model.md#1-1-how-the-web-works)
-  - [1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-the-web-standards-model.md#1-2-the-html-css-and-javascript-triangle)
-  - [1.3 Web standards](/curriculum/2-core/1-the-web-standards-model.md#1-3-web-standards)
-  - [1.4 How browsers load webpages](/curriculum/2-core/1-the-web-standards-model.md#1-4-how-browsers-load-webpages)
-- [2 Semantic HTML](/curriculum/2-core/1-the-web-standards-model.md): HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
+- [1 The web standards model](/curriculum/2-core/1-web-standards.md): The fundamentals of how the web works at a high level, including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
+  - [1.1 How the web works](/curriculum/2-core/1-web-standards.md#1-1-how-the-web-works)
+  - [1.2 The HTML, CSS, and JavaScript triangle](/curriculum/2-core/1-web-standards.md#1-2-the-html-css-and-javascript-triangle)
+  - [1.3 Web standards](/curriculum/2-core/1-web-standards.md#1-3-web-standards)
+  - [1.4 How browsers load webpages](/curriculum/2-core/1-web-standards.md#1-4-how-browsers-load-webpages)
+- [2 Semantic HTML](/curriculum/2-core/1-web-standards.md): HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and tapping into using the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more.
   - [2.1 Basic HTML syntax and structure](/curriculum/2-core/2-semantic-html.md#2-1-basic-html-syntax-and-structure)
   - [2.2 Good document structure](/curriculum/2-core/2-semantic-html.md#2-2-good-document-structure)
   - [2.3 Lists](/curriculum/2-core/2-semantic-html.md#2-3-lists)
@@ -79,8 +79,8 @@ template: module
   - [9.2 User-centered design](/curriculum/2-core/9-design-for-developers.md#9-2-user-centered-design)
   - [9.3 Understanding design briefs](/curriculum/2-core/9-design-for-developers.md#9-3-understanding-design-briefs)
 
-- [Extension 1 CSS transforms and animation](/curriculum/3-extensions/1-css-transforms-and-animation.md): Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.
-- [Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-creating-your-own-javascript-objects.md): Having a deeper knowledge of how JavaScript objects work is very useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
+- [Extension 1 CSS transforms and animation](/curriculum/3-extensions/1-transform-and-animate-css.md): Animations are a vital part of a good user experience. Subtle usage can make page designs more interesting and appealing, and also enhance usability and perceived performance.
+- [Extension 2 Creating your own JavaScript objects](/curriculum/3-extensions/2-custom-js-objects.md): Having a deeper knowledge of how JavaScript objects work is very useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
 - [Extension 3 Web APIs](/curriculum/3-extensions/3-web-apis.md): This module covers common aspects of three of the most common classes of Web APIs that we haven't previously covered in any kind of detail, providing a useful grounding for those who want to go deeper into browser API usage.
 - [Extension 4 Performance](/curriculum/3-extensions/4-performance.md): Performance centers around making your websites as fast as possible, both in real terms (for example small file sizes, quicker loading), and in terms of how performance is perceived (for example getting initial content to a usable state as fast as possible, even if all the content is not yet loaded).
 - [Extension 5 Security and privacy](/curriculum/3-extensions/5-security-and-privacy.md): It is vital to have an understanding of how you can and should protect your data and your user's data from would-be attackers who may try to steal it. This module covers both hardening websites to make it more difficult to steal data, and collecting user data in a respectful way that avoids tracking them or sharing it with unsuitable third parties.

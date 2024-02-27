@@ -256,7 +256,7 @@ Learning outcomes:
 
 - Use layout inspection tools to inspect the box model, grids, flexbox, and other layout features (see also [5 CSS Layout](./5-css-layout.md)).
 
-- Use responsive design mode tools to check responsive layouts (see also [5.5 Responsive design specifics](./5-css-layout.md#5.5_responsive_design_specifics)).
+- Use responsive design mode tools to check responsive layouts (see also [5.5 Responsive design specifics](./5-css-layout.md#5.5_responsive_design)).
 
 Resources:
 

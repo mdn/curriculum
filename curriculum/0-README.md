@@ -22,7 +22,7 @@ The go-to resource for the essential skills and knowledge every front-end develo
 
 Developed by Mozilla and refined with insights from the broader MDN community.
 
-[Learn more](./1-about.md)
+[Learn more](./1-about-curriculum.md)
 
 ## Modules
 
