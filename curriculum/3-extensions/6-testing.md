@@ -30,7 +30,7 @@ Learning outcomes:
 
   - Security Testing: Identifying vulnerabilities and weaknesses in the web app's security mechanisms (see also [Extension 5 Security and privacy](./5-security-and-privacy.md)).
 
-  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [7 Accessibility](../2-core/7-accessibility.md)).
+  - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [Accessibility](../2-core/7-accessibility.md)).
 
 ## 6.2 Functional and compat testing
 
