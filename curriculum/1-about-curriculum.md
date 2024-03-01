@@ -100,7 +100,9 @@ This resource is free for anyone to use. If you find the curriculum useful, we r
   ```html
   <p>
     This course is based on the
-    <a href="https://developer.mozilla.org/en-US/curriculum/">MDN front-end development curriculum</a>.
+    <a href="https://developer.mozilla.org/en-US/curriculum/">
+      MDN front-end development curriculum
+    </a>.
   </p>
   ```
 
