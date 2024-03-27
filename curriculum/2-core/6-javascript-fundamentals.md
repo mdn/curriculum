@@ -4,7 +4,7 @@ topic: Scripting
 template: module
 ---
 
-# 6 JavaScript fundamentals
+# 6 JS fundamentals
 
 JavaScript is a huge topic, with so many different features, styles, and techniques to learn, and so many APIs and tools built on top of it. This module focuses mostly on the essentials of the core language, plus some key surrounding topics — learning these topics will give you a solid basis to work from.
 
@@ -212,7 +212,7 @@ Resources:
 
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
-## 6.8 JavaScript object basics
+## 6.8 JS object basics
 
 Learning outcomes:
 
@@ -288,7 +288,7 @@ Resources:
 
 - [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
 
-## 6.11 Async JavaScript basics
+## 6.11 Async JS basics
 
 Learning outcomes:
 
@@ -356,7 +356,7 @@ Resources:
 
 - [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
 
-## 6.14 Libraries and frameworks
+## 6.14 Libraries & frameworks
 
 Learning outcomes:
 
@@ -408,7 +408,7 @@ Resources:
 
 - [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
 
-## 6.15 Debugging JavaScript
+## 6.15 Debugging JS
 
 Learning outcomes:
 

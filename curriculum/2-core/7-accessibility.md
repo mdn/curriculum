@@ -94,7 +94,7 @@ Resources:
 
 - [Accessibility Design Guide](https://wiki.mozilla.org/Accessibility/Design_Guide), wiki.mozilla.org (2023)
 
-## 7.3 Accessible JavaScript
+## 7.3 Accessible JS
 
 Learning outcomes:
 
