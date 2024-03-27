@@ -4,7 +4,7 @@ topic: Scripting
 template: module
 ---
 
-# Extension 2: Custom JS objects
+# 2. Custom JS objects
 
 Having a deeper knowledge of how JavaScript objects work is useful as you build confidence with web development, start to build more complex apps, and create your own libraries.
 

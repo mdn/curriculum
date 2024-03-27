@@ -4,7 +4,7 @@ topic: Best Practices
 template: module
 ---
 
-# 7 Accessibility
+# 7. Accessibility
 
 Access to web content such as public services, education, e-commerce sites, and entertainment is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.
 

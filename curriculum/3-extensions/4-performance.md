@@ -4,7 +4,7 @@ topic: Best Practices
 template: module
 ---
 
-# Extension 4: Performance
+# 4. Performance
 
 Performance centers around making your websites as fast as possible, both in real terms (for example small file sizes, quicker loading), and in terms of how performance is perceived (for example indicating progress and getting initial content to a usable state as fast as possible, even if all the content is not yet loaded).
 

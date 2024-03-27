@@ -4,7 +4,7 @@ topic: Tooling
 template: module
 ---
 
-# Environment setup
+# 2. Environment setup
 
 This module includes topics related to the setup and usage of the computer system that you will use to implement websites/apps. These topics are not directly related to creating web code, but you will benefit greatly from understanding the environment you are working in.
 
@@ -16,7 +16,7 @@ General resources:
 
 - [Official Ubuntu documentation](https://help.ubuntu.com/), ubuntu.com (2024)
 
-## 1.1 Computer basics
+## 2.1 Computer basics
 
 - Signing into your computer and connecting it to the internet.
 
@@ -28,7 +28,7 @@ Resources:
 
 - [Installing basic software](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 
-## 1.2 File systems
+## 2.2 File systems
 
 - Basic explorer/finder usage.
 
@@ -50,7 +50,7 @@ Resources:
 
 - [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
-## 1.3 Browsing the web
+## 2.3 Browsing the web
 
 - Available web browsers.
 
@@ -66,7 +66,7 @@ Resources:
 
 - [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond), theguardian.com (2016)
 
-## 1.4 Command line basics
+## 2.4 Command line basics
 
 - Understand what the command line is, and what you can do with it.
 
@@ -92,7 +92,7 @@ Resources:
 >
 > - The command line / terminal is intimidating to newcomers — you just get a blinking cursor, with no obvious signs of what to do next. We are not saying that you should be a command line wizard before you start learning web development, but you should at least understand what it is and know some basics — you will be surprised how often you come across command line usage in web development tooling.
 
-## 1.5 Code editors
+## 2.5 Code editors
 
 - Learn what code editors are available and what is suitable for your purposes:
 

@@ -4,7 +4,7 @@ topic: Styling
 template: module
 ---
 
-# 5 CSS layout
+# 5. CSS layout
 
 Our final core CSS module looks deep into another crucial topic — creating layouts for modern websites. This module looks at floats, positioning, other modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.
 

@@ -4,11 +4,11 @@ topic: Best Practices
 template: module
 ---
 
-# Soft skills
+# 1. Soft skills
 
 This module provides recommendations of soft skills that students can aim to get better at while learning web development, and which constitute good traits to have when entering the industry. They will help immensely in developing the right attitudes for learning, researching, and collaborating, and increase the chances of getting hired.
 
-## Constant learning mindset
+## 1.1 Constant learning mindset
 
 Students should get into the mindset of constant learning. The web is constantly evolving and technologies and trends are always changing, and they need to constantly update their knowledge to keep up.
 
@@ -36,7 +36,7 @@ Recommended news and information sites:
 
 - [CodeCademy](https://www.codecademy.com/)
 
-## Open to embracing failure
+## 1.2 Open to embracing failure
 
 A very common issue that causes students and new developers to shy away from experimentation and taking risks (for example when starting new projects or exploring new ideas) is fear of failure. Spend some time learning about the value that can be gleaned from making mistakes, and the lessons that can be learned and applied in the future in similar situations.
 
@@ -52,7 +52,7 @@ Here are some tips to improve this skill:
 
 - Run retrospective meetings to analyze projects, look at what didn't go so well, and talk about how to improve things next time.
 
-## Effective research
+## 1.3 Effective research
 
 Web developers spend a lot of time searching for solutions to problems encountered in their work. Students should learn effective strategies for finding answers, and when to use which methods (e.g. don't jump straight to pestering the senior dev every time you hit a roadblock).
 
@@ -125,7 +125,7 @@ Resources:
 
 - [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help)
 
-## Collaboration and teamwork
+## 1.4 Collaboration and teamwork
 
 As a professional in the web industry, you are going to have to work with other people on projects, and while brainstorming ideas and proposals. Not everyone is born with an innate ability to work in a team, so it is beneficial to start incorporating some best practices early on and putting work into areas where you think you are lacking.
 
@@ -151,7 +151,7 @@ Recommendations:
 
 - Join an open-source project to practice the skills you learn, engage with folks in the community, and learn from observing others (see [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) for useful information).
 
-## Succeeding in job interviews
+## 1.5 Succeeding in job interviews
 
 Technical job interviews can be very demanding, and some have quite specific requirements.
 
@@ -203,7 +203,7 @@ Resources:
 
 - [30 Technical Interview Questions and Tips for Answering](https://www.coursera.org/articles/technical-interview-questions), Coursera (2023)
 
-## Workflows and processes
+## 1.6 Workflows and processes
 
 An important aspect of technical projects that beginners often miss out on is an idea of the bigger picture of a project. They might learn an individual tool or language and understand what they need to do, but be unaware of all the other codebases, tools, systems, and job roles that go together to deliver an entire web application. It is useful to understand the following at a high level:
 
@@ -223,7 +223,7 @@ Resources:
 
 - [Waterfall vs. Agile vs. Kanban vs. Scrum: What's the difference?](https://asana.com/resources/waterfall-agile-kanban-scrum), Asana (2022)
 
-## Relevant contextual information
+## 1.7 Relevant contextual information
 
 While not essential for understanding the technical topics listed in the curriculum, there is a range of contextual information that can help developers gain a well-rounded and flexible perspective.
 
