@@ -8,7 +8,7 @@ template: module
 
 This module focuses specifically on CSS font and text styling, including loading custom web fonts and applying them to your text.
 
-## 4.1 Text and font styling
+## 4.1 Text & font styling
 
 Learning outcomes:
 
@@ -34,7 +34,7 @@ Resources:
 
 - [Text and typography](https://web.dev/learn/css/typography/), web.dev (2021)
 
-## 4.2 Styling lists and links
+## 4.2 Styling lists & links
 
 Learning outcomes:
 

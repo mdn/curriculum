@@ -130,7 +130,7 @@ Resources:
 
 - [Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 
-## 3.5 Values and units
+## 3.5 Values & units
 
 Learning outcomes:
 
@@ -174,7 +174,7 @@ Resources:
 
 - [Handling different text directions > Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
 
-## 3.7 Backgrounds and borders
+## 3.7 Backgrounds & borders
 
 Learning outcomes:
 

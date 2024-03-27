@@ -49,7 +49,7 @@ Resources:
 
 - [Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 
-## 1.2 The HTML, CSS, and JavaScript triangle
+## 1.2 The HTML, CSS, & JS triangle
 
 Learning outcomes:
 
