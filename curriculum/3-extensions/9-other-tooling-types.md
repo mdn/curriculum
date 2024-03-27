@@ -4,7 +4,7 @@ topic: Tooling
 template: module
 ---
 
-# Extension 9: Other tooling types
+# 9. Other tooling types
 
 > **Notes**:
 >
