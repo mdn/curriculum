@@ -4,7 +4,7 @@ topic: Web Standards & Semantics
 template: module
 ---
 
-# 1 Web standards
+# 1. Web standards
 
 This module covers the fundamentals of how the web works at a high level — including the model used for communication, the core technologies involved, how those technologies are created, and how a web browser renders and displays websites to a user.
 

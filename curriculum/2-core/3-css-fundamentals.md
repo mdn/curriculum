@@ -4,7 +4,7 @@ topic: Styling
 template: module
 ---
 
-# 3 CSS fundamentals
+# 3. CSS fundamentals
 
 CSS enables you to add style to your web pages including color, text, positioning and layout, and animation. In our first CSS module, we cover all the fundamental language mechanics you need to understand how CSS works.
 

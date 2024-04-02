@@ -4,7 +4,7 @@ topic: Tooling
 template: module
 ---
 
-# 9 Version control
+# 9. Version control
 
 Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
 

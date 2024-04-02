@@ -4,7 +4,7 @@ topic: Tooling
 template: module
 ---
 
-# Extension 7: JS frameworks
+# 7. JS frameworks
 
 JavaScript frameworks are commonly used by companies to build web applications. It is therefore beneficial to learn about popular frameworks and use cases (as listed below) for better employment prospects.
 
