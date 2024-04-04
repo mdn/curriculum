@@ -32,7 +32,7 @@ Learning outcomes:
 
   - Accessibility Testing: Ensuring that the web app can be used by people with disabilities, conforming to accessibility guidelines such as the Web Content Accessibility Guidelines (see also [Accessibility](../2-core/7-accessibility.md)).
 
-## 6.2 Functional & compat testing
+## 6.2 Functional and compat testing
 
 Learning outcomes:
 
