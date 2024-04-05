@@ -130,7 +130,7 @@ Resources:
 
 - Relevant Chrome DevTools: [Inspect network activity](https://developer.chrome.com/docs/devtools/network/) (2019) and [Analyze runtime performance](https://developer.chrome.com/docs/devtools/performance/) (2017), developer.chrome.com
 
-## 4.4 CSS & performance
+## 4.4 CSS and performance
 
 Learning outcomes:
 
@@ -148,7 +148,7 @@ Resources:
 
 - [CSS performance optimization](https://developer.mozilla.org/docs/Learn/Performance/CSS)
 
-## 4.5 JS & performance
+## 4.5 JavaScript and performance
 
 Learning outcomes:
 

@@ -17,7 +17,7 @@ General resources:
 
 - [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
 
-## 3.1 Video & audio APIs
+## 3.1 Video and audio APIs
 
 Learning outcomes:
 

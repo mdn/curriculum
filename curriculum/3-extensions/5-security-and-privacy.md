@@ -4,7 +4,7 @@ topic: Best Practices
 template: module
 ---
 
-# 5. Security & privacy
+# 5. Security and privacy
 
 It is vital to have an understanding of how you can and should protect your data and your user's data from would-be attackers who may try to steal it. This module covers both hardening websites to make it more difficult to steal data, and collecting user data in a respectful way that avoids tracking them or sharing it with unsuitable third parties.
 
@@ -14,7 +14,7 @@ General resources:
 
 - [Learn Privacy](https://web.dev/learn/privacy/), web.dev (2023)
 
-## 5.1 Security & privacy basics
+## 5.1 Security and privacy basics
 
 > **Notes**:
 >
