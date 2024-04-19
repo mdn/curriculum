@@ -12,7 +12,7 @@ General resources:
 
 - [Windows help and learning](https://support.microsoft.com/windows), Microsoft (2024)
 
-- [macOS User Guide](support.apple.com/guide/mac-help/welcome/mac), Apple (2024)
+- [macOS User Guide](https://support.apple.com/guide/mac-help/welcome/mac), Apple (2024)
 
 - [Official Ubuntu documentation](https://help.ubuntu.com/), ubuntu.com (2024)
 
