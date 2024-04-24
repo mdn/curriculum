@@ -30,7 +30,7 @@ General resources:
 
 - [Learn UI Design Fundamentals](https://scrimba.com/learn/design), Scrimba
 
-## 9.1 Basic design theory
+## 8.1 Basic design theory
 
 Learning outcomes:
 
@@ -56,7 +56,7 @@ Resources:
 
 - [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
 
-## 9.2 User-centered design
+## 8.2 User-centered design
 
 Learning outcomes:
 
@@ -92,7 +92,7 @@ Resources:
 
 - [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
 
-## 9.3 Design briefs
+## 8.3 Design briefs
 
 Learning outcomes:
 
