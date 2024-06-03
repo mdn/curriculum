@@ -11,7 +11,7 @@ JavaScript frameworks are commonly used by companies to build web applications. 
 > **Notes**:
 >
 > - Conforming to this set of criteria does not involve becoming a master of a particular framework and learning everything it has to offer. To do so can be limiting — one framework might be the most popular choice now, but in five years everything could change.
-> - Instead, we want to encourage students to gain a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [JavaScript fundamentals](../2-core/6-javascript-fundamentals.md)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
+> - Instead, we want to encourage students to gain a solid understanding of the JavaScript fundamentals frameworks are built on top of (see [JavaScript fundamentals](../3-core/6-javascript-fundamentals.md)), and learn the common features and patterns that frameworks use. This approach is much more flexible and future proof.
 > - Students are strongly encouraged to start building apps with 2 or 3 popular frameworks so they understand how they do things in general but also the differences between them.
 > - Advanced and/or framework-specific features can be learned as part of the student's constant learning.
 

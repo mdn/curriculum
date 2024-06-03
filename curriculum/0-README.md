@@ -34,22 +34,22 @@ Developed by Mozilla and refined with insights from the broader MDN community.
 
   _Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development._
 
-  [Core modules](./2-core/)
+  [Core modules](./3-core/)
 
 - ### Beyond the basics?
 
   _Dive deeper with our "Extensions" modules to develop specialized skills._
 
-  [Extensions modules](./3-extensions/)
+  [Extensions modules](./4-extensions/)
 
 - ### Seeking employment?
 
   _Our "Soft skills" module, part of "Getting started", offers crucial insights to help you land your job._
 
-  [Getting started modules](./1-getting-started/)
+  [Getting started modules](./2-getting-started/)
 
 - ### Crafting courses?
 
   _Utilize our modules to guide your teaching and support your students' learning journey._
 
-  [Core modules](./2-core/)
+  [Core modules](./3-core/)

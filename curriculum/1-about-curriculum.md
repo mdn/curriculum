@@ -41,7 +41,7 @@ Once a student has the list of topics they are going to learn, they should go fo
 
 Educators can use the curriculum as a guide when creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Conforming to the curriculum will help ensure that courses teach current techniques and best practices, and avoid bad practices and out-of-date information.
 
-> **Note**: Any course based on the MDN curriculum should conform to the [Core](./2-core/), but could also optionally include one or more [Extensions](./3-extensions/).
+> **Note**: Any course based on the MDN curriculum should conform to the [Core](./3-core/), but could also optionally include one or more [Extensions](./4-extensions/).
 
 We recommend that any course conforming to the MDN curriculum should:
 
@@ -81,13 +81,13 @@ There are also several areas that we explicitly don't cover in this curriculum, 
 
 - Back-end languages/platforms such as [Node.js](https://nodejs.org/), [PHP](https://www.php.net/), [Python](https://www.python.org/), [.NET](https://dotnet.microsoft.com/), [Java](https://www.java.com/), or [Ruby](https://www.ruby-lang.org/). The back-end, by definition, is out of scope for a front-end development curriculum, although you'll find crossover in full-stack developer courses.
 
-  - One exception here is Node.js; it has such a wide range of uses in modern web development that some rudimentary Node.js knowledge should be considered essential. We don't cover development of Node.js-based applications explicitly, but you will meet it in multiple places in the curriculum as a mechanism for using various tooling/functionality. Examples include [Extension 6 Testing](./3-extensions/6-testing.md) and [Extension 9 Other tooling types](./3-extensions/9-other-tooling-types.md).
+  - One exception here is Node.js; it has such a wide range of uses in modern web development that some rudimentary Node.js knowledge should be considered essential. We don't cover development of Node.js-based applications explicitly, but you will meet it in multiple places in the curriculum as a mechanism for using various tooling/functionality. Examples include [Extension 6 Testing](./4-extensions/6-testing.md) and [Extension 9 Other tooling types](./4-extensions/9-other-tooling-types.md).
 
 - Traditional relational databases (for example, [MySQL](https://dev.mysql.com/doc/) or [Postgres](https://www.postgresql.org/)) and other server-side datastores (for example, cloud databases such as [MongoDB](https://www.mongodb.com) or [Google Cloud Datastore](https://cloud.google.com/datastore/)). These are deemed to be part of the back-end, and therefore, out of scope. We do cover client-side storage mechanisms like [cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies), [Web Storage](https://developer.mozilla.org/docs/Web/API/Web_Storage_API), and [IndexedDB](https://developer.mozilla.org/docs/Web/API/IndexedDB_API), but they have different and distinct use cases.
 
 - Deep-dive DevOps topics such as cloud platforms for provisioning and automation (for example, [Amazon AWS](https://aws.amazon.com/) , [Google Cloud Platform](https://console.cloud.google.com), and [Microsoft Azure](https://azure.microsoft.com/)) and containerization tools (for example, [Kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com/)). We do lightly touch upon some tools that are considered to be in the DevOps space — like GitHub and automated testing tools — but these have distinct crossover into the front-end developer space.
 
-- Graphic design beyond the basic knowledge (outlined in [Design for developers](./2-core/9-design-for-developers.md)).
+- Graphic design beyond the basic knowledge (outlined in [Design for developers](./3-core/9-design-for-developers.md)).
 
 - Skills related to roles such as product and program management (for example, organization, research, and planning).
 
