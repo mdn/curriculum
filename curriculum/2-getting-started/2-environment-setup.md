@@ -116,7 +116,7 @@ Resources:
 
   - Find and replace, often with the ability to use regular expressions to make the functionality more powerful (e.g. keep a specific string beginning and end, but replace the substring in between).
 
-  - Integration with version control is often provided (see also [Version control](../2-core/9-version-control.md))
+  - Integration with version control is often provided (see also [Version control](../3-core/9-version-control.md))
 
 - Customize and enhance your code editor with extensions:
 
