@@ -116,8 +116,6 @@ Learning outcomes:
 
 - Correct usage of elements for emphasis and importance, such as `<strong>` and `<em>`.
 
-<!-- -->
-
 - Understand HTML elements that represent other less common semantic requirements, for example:
 
   - Quotations.

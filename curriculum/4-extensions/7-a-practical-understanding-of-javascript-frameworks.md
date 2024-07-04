@@ -45,8 +45,6 @@ Learning outcomes:
 
     - Includes features such as filtering and conditional rendering.
 
-  <!-- -->
-
   - Rendering system (for example, virtual or incremental DOM).
 
   - State management.
@@ -58,8 +56,6 @@ Learning outcomes:
   - Dependency management.
 
   - Extension system.
-
-<!-- -->
 
 - Understand the practicalities of working with a framework. Most framework-related CLIs or development environments include:
 
