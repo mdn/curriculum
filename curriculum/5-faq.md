@@ -1,7 +1,5 @@
 ---
-summary:
-topic:
-template: about
+template: default
 ---
 
 # Frequently asked questions
@@ -45,7 +43,7 @@ Scrimba already had a great reputation before we started talking to them about a
 
 We prioritize user privacy and transparency. The only information MDN shares with Scrimba is user navigation to Scrimba from MDN, and this happens through their own actions by following a link that is marked as external.
 
-In cases where we embed Scrimba content on MDN, Scrimba won't see user data until a user chooses to interact with Scrimba's content. 
+In cases where we embed Scrimba content on MDN, Scrimba won't see user data until a user chooses to interact with Scrimba's content.
 
 ### Scrimba's content isn't free. Doesn't this conflict with MDN's philosophy of providing free content?
 
@@ -56,5 +54,3 @@ It is also worth pointing out that Scrimba's courses are not necessary to make u
 ### Is a certification awarded on completing Scrimba's Frontend Developer Career Path?
 
 Yes, once you complete all the topics in the Frontend Developer Career Path, you can access a certificate of completion to share with potential employers or include in your portfolio. See [Where can I find my completion certificate?](https://forum.scrimba.com/t/where-can-i-find-my-completion-certificate/43) for more information.
-
-

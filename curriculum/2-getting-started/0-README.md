@@ -1,6 +1,4 @@
 ---
-summary:
-topic:
 template: overview
 ---
 
