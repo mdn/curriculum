@@ -69,11 +69,11 @@ Learning outcomes:
 
 Resources:
 
+- [Learn React](https://scrimba.com/learn/learnreact), Scrimba _Course partner_
+
 - [Framework main features](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features)
 
 - [Getting started with React](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-
-- [Learn React](https://scrimba.com/learn/learnreact), Scrimba
 
 - [Getting started with Vue](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 
