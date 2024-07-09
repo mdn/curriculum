@@ -6,28 +6,28 @@
   "config": {
     "default": true,
     "ul-style": {
-      "style": "dash",
+      "style": "dash"
     },
     "ul-indent": {
-      "indent": 2,
+      "indent": 2
     },
     "no-hard-tabs": {
-      "spaces_per_tab": 2,
+      "spaces_per_tab": 2
     },
     "line-length": false,
     "link-fragments": false,
     // Force ordered numbering to catch accidental list ending from indenting
     "ol-prefix": {
-      "style": "ordered",
+      "style": "ordered"
     },
     "code-block-style": {
-      "style": "fenced",
+      "style": "fenced"
     },
     "emphasis-style": {
-      "style": "underscore",
+      "style": "underscore"
     },
     "strong-style": {
-      "style": "asterisk",
+      "style": "asterisk"
     },
     "first-line-heading": false,
 
@@ -39,53 +39,53 @@
           "message": "Don't use curly double quotes",
           "searchPattern": "/“|”/g",
           "replace": "\"",
-          "searchScope": "text",
+          "searchScope": "text"
         },
         {
           "name": "curly-single-quotes",
           "message": "Don't use curly single quotes",
           "searchPattern": "/‘|’/g",
           "replace": "'",
-          "searchScope": "text",
+          "searchScope": "text"
         },
         {
           "name": "nbsp",
           "message": "Don't use no-break spaces",
           "searchPattern": "/\u00A0/g",
           "replace": " ",
-          "searchScope": "all",
+          "searchScope": "all"
         },
         {
           "name": "m-dash",
           "message": "Don't use '--'. Use m-dash — instead",
           "search": " -- ",
           "replace": " — ",
-          "searchScope": "text",
+          "searchScope": "text"
         },
         {
           "name": "trailing-spaces",
           "message": "Avoid trailing spaces",
           "searchPattern": "/  +$/gm",
           "replace": "",
-          "searchScope": "all",
+          "searchScope": "all"
         },
         {
           "name": "double-spaces",
           "message": "Avoid double spaces",
           "searchPattern": "/([^\\s>])  ([^\\s|])/g",
           "replace": "$1 $2",
-          "searchScope": "text",
+          "searchScope": "text"
         },
         {
           "name": "incorrect-spelling",
           "message": "Incorrect spelling",
           "searchPattern": ["/e-mail/ig", "/(w)eb site/ig"],
           "replace": ["email", "$1ebsite"],
-          "searchScope": "all",
-        },
-      ],
-    },
+          "searchScope": "all"
+        }
+      ]
+    }
   },
   "customRules": ["markdownlint-rule-search-replace"],
-  "ignores": ["node_modules", ".git", ".github", "tests"],
+  "ignores": ["node_modules", ".git", ".github", "tests"]
 }
