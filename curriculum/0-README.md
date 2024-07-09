@@ -1,6 +1,4 @@
 ---
-summary:
-topic:
 template: landing
 ---
 
@@ -18,9 +16,11 @@ Last updated: February 2024
 - Self-paced
 - Free
 
-The go-to resource for the essential skills and knowledge every front-end developer needs for career success and industry relevance.
+Defines the essential skills and knowledge every front-end developer needs for career success and industry relevance.
 
-Developed by Mozilla and refined with insights from the broader MDN community.
+Created by Mozilla and refined with insights from students, educators, and developers from the broader web community.
+
+Includes learning resource recommendations covering every curriculum topic, helping you become job-ready.
 
 [Learn more](./1-about-curriculum.md)
 

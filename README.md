@@ -1,6 +1,4 @@
 ---
-summary:
-topic:
 template: module
 ---
 
@@ -21,7 +19,7 @@ Part of our focus for 2023 is on making MDN a resource where people can learn ne
 
 ## Target audience and purpose
 
-We believe the curriculum is useful to several different groups of people, from students wanting to learn web development to educators wanting to put together courses to teach it. Head over to the [curriculum introduction](/curriculum) to read more about its target audience and purpose.
+We believe the curriculum is useful to several different groups of people, from students wanting to learn web development to educators wanting to put together courses to teach it. Head over to the [curriculum About page](https://developer.mozilla.org/en-US/curriculum/about-curriculum/#target_audience) to read more about its target audience and purpose.
 
 ## Curriculum structure
 

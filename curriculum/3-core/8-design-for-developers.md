@@ -12,6 +12,8 @@ In addition, front-end developers are often tasked with doing various bits of de
 
 General resources:
 
+- [Learn UI Design Fundamentals](https://scrimba.com/learn/design), Scrimba _Course Partner_
+
 - [The Shape of Design](https://shapeofdesignbook.com/chapters/00-introduction/), Frank Chimero
 
 - [Designing for the Web](https://designingfortheweb.co.uk/), Mark Boulton
@@ -27,8 +29,6 @@ General resources:
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/), Anthony Hobday
 
 - [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules), Adham Dannaway
-
-- [Learn UI Design Fundamentals](https://scrimba.com/learn/design), Scrimba
 
 ## 8.1 Basic design theory
 
