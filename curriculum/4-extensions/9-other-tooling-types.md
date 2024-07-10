@@ -8,7 +8,7 @@ template: module
 
 > **Notes**:
 >
-> - This set of criteria doesn't require having an in-depth knowledge of the tools listed below; instead, students are encouraged to learn the basic concepts of why and how they are used (and where in a web app project), test them out, and play with usage examples.
+> This set of criteria doesn't require having an in-depth knowledge of the tools listed below; instead, students are encouraged to learn the basic concepts of why and how they are used (and where in a web app project), test them out, and play with usage examples.
 
 Learning outcomes — understand the purpose and basic usage of other common tooling types you may be required to use in a web project:
 

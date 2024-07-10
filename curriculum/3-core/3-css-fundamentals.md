@@ -232,7 +232,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, you should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
+> Conforming to this curriculum module doesn't require having foolproof, conclusive answers to every possible form styling problem. Some form elements are difficult to style, as the resources make clear. However, you should at least be able to handle a wide range of form styling needs and understand the issues around some of the more difficult styling issues.
 
 Resources:
 

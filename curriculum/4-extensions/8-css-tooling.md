@@ -12,7 +12,7 @@ Tooling is not just confined to JavaScript frameworks. There are also common CSS
 
 > **Notes**:
 >
-> - The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
+> The aim here is not to have an exhaustive understanding of any one framework, but rather to understand the pros and cons, what a CSS framework can do, and what general usage looks like.
 
 Learning outcomes:
 
@@ -30,7 +30,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.
+> The aim here is not to have an exhaustive understanding of any one preprocessor, but rather to understand the pros and cons, what a CSS preprocessor can do, and what general usage looks like.
 
 Learning outcomes:
 

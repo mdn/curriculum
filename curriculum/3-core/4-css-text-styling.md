@@ -26,7 +26,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - There are a large number of other font and text styling properties, and students should be encouraged to explore more of them as part of their constant learning.
+> There are several other font and text styling properties, and students should be encouraged to explore more of them as part of their constant learning.
 
 Resources:
 

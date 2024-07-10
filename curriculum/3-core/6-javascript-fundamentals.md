@@ -164,7 +164,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - There are many other types of loop in JavaScript that we haven't listed here. It is not necessary (or useful) to understand all of them at this stage. For now, students need to understand the purpose of loops, and the most common types.
+> There are many other types of loop in JavaScript that we haven't listed here. It is not necessary (or useful) to understand all of them at this stage. For now, students need to understand the purpose of loops, and the most common types.
 
 - `break` and `continue`.
 
@@ -317,6 +317,8 @@ Resources:
 - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 ## 6.12 Network requests with fetch()
+
+Learning outcomes:
 
 - Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common asynchronous JavaScript use case on the web.
 
