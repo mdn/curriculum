@@ -10,7 +10,7 @@ JavaScript is a huge topic, with so many different features, styles, and techniq
 
 General resources:
 
-- [Learn JavaScript](https://scrimba.com/learn/learnjavascript), Scrimba _Course partner_
+- [Learn JavaScript](https://scrimba.com/learn/learnjavascript?via=mdn), Scrimba _Course partner_
 
 - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 

@@ -12,7 +12,7 @@ In addition, front-end developers are often tasked with doing various bits of de
 
 General resources:
 
-- [Learn UI Design Fundamentals](https://scrimba.com/learn/design), Scrimba _Course Partner_
+- [Learn UI Design Fundamentals](https://scrimba.com/learn/design?via=mdn), Scrimba _Course Partner_
 
 - [The Shape of Design](https://shapeofdesignbook.com/chapters/00-introduction/), Frank Chimero
 

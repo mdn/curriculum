@@ -19,7 +19,7 @@ Below you'll find answers to the questions we get asked most often about the MDN
 
 ### Why doesn't MDN just create its own learning course?
 
-Creating a full-fledged learning course to take students from beginners to getting their first job is a huge undertaking. Many courses already exist to serve this purpose. Additionally, the most successful courses today, such as those offered by [Scrimba](https://scrimba.com/), are dynamic multimedia experiences; MDN's core strength, on the other hand, lies in its written content.
+Creating a full-fledged learning course to take students from beginners to getting their first job is a huge undertaking. Many courses already exist to serve this purpose. Additionally, the most successful courses today, such as those offered by [Scrimba](https://scrimba.com/?via=mdn), are dynamic multimedia experiences; MDN's core strength, on the other hand, lies in its written content.
 
 MDN's main content itself contains most of the material you need to become a successful front-end web developer.
 
@@ -37,7 +37,7 @@ You can still contribute to the curriculum by filing an issue or raising a PR ag
 
 ### How does MDN know Scrimba's courses are high quality and follow best practices?
 
-Scrimba already had a great reputation before we started talking to them about a partnership. However, we didn't just take the community's word for it. We did an extensive review of Scrimba's [Frontend Developer Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j:details) (FDCP) and provided them with feedback on possible improvements, focusing on increasing coverage of best practices and conformance to the MDN Curriculum [Core modules](/en-US/curriculum/core/). Scrimba implemented all of our feedback, and the FDCP is even better than it was before. Now that it conforms to our Curriculum Core, we are confident it aligns with MDN standards.
+Scrimba already had a great reputation before we started talking to them about a partnership. However, we didn't just take the community's word for it. We did an extensive review of Scrimba's [Frontend Developer Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j:details?via=mdn) (FDCP) and provided them with feedback on possible improvements, focusing on increasing coverage of best practices and conformance to the MDN Curriculum [Core modules](/en-US/curriculum/core/). Scrimba implemented all of our feedback, and the FDCP is even better than it was before. Now that it conforms to our Curriculum Core, we are confident it aligns with MDN standards.
 
 ### Is MDN sharing user data with Scrimba?
 
@@ -53,4 +53,4 @@ It is also worth pointing out that Scrimba's courses are not necessary to make u
 
 ### Is a certification awarded on completing Scrimba's Frontend Developer Career Path?
 
-Yes, once you complete all the topics in the Frontend Developer Career Path, you can access a certificate of completion to share with potential employers or include in your portfolio. See [Where can I find my completion certificate?](https://forum.scrimba.com/t/where-can-i-find-my-completion-certificate/43) for more information.
+Yes, once you complete all the topics in the Frontend Developer Career Path, you can access a certificate of completion to share with potential employers or include in your portfolio. See [Where can I find my completion certificate?](https://forum.scrimba.com/t/where-can-i-find-my-completion-certificate/43?via=mdn) for more information.

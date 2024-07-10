@@ -10,7 +10,7 @@ CSS enables you to add style to your web pages including color, text, positionin
 
 General resources:
 
-- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss), Scrimba _Course Partner_
+- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss?via=mdn), Scrimba _Course Partner_
 
 ## 3.1 Basic CSS syntax
 
