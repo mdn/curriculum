@@ -69,7 +69,7 @@ Learning outcomes:
 
 Resources:
 
-- [Learn React](https://scrimba.com/learn/learnreact), Scrimba _Course partner_
+- [Learn React](https://scrimba.com/learn/learnreact?via=mdn), Scrimba _Course partner_
 
 - [Framework main features](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features)
 

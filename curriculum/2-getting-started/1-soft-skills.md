@@ -79,7 +79,7 @@ These strategies include:
   - Join community groups where you can look for answers. For example:
 
     - [The MDN Web Docs community](https://discord.gg/apa6Rn7uEj) on Discord
-    - [Scrimba](https://scrimba.com/) _Course partner_
+    - [Scrimba](https://scrimba.com/?via=mdn) _Course partner_
 
     - [freeCodeCamp](https://www.freecodecamp.org/)
 

@@ -12,7 +12,7 @@ General resources:
 
 - [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
 
-- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss), Scrimba _Course Partner_
+- [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss?via=mdn), Scrimba _Course Partner_
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), Codecademy
 
