@@ -104,7 +104,7 @@ Resources:
 
 > **Notes**:
 >
-> - The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for simple client-side storage tasks, and how cookies are used in positive and negative ways.
+> The main items of importance to understand in this set of conformance criteria are the general concepts, using Web Storage for simple client-side storage tasks, and how cookies are used in positive and negative ways.
 
 Learning outcomes:
 
@@ -132,7 +132,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - IndexedDB and the Cache API (commonly used with Service Workers) are complex, and constitute huge topics. Exhaustively understanding them at this stage is not necessary, although we would suggest that you gain an understanding of the basics behind how they work.
+> IndexedDB and the Cache API (commonly used with Service Workers) are complex, and constitute huge topics. Exhaustively understanding them at this stage is not necessary, although we would suggest that you gain an understanding of the basics behind how they work.
 
 Resources:
 

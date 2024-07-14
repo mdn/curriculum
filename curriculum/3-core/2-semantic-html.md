@@ -62,7 +62,7 @@ Learning outcomes:
 
   > **Notes**:
   >
-  > - One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
+  > One key point to understand here is the difference between semantic and presentational markup, what these terms mean, and why semantic markup is important to SEO and accessibility.
 
 - The need for heading levels to be used logically, i.e. no skipping levels or using them arbitrarily because you want to achieve a certain font size (that's a job for CSS).
 
@@ -70,7 +70,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - This conformance criterium doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
+> This conformance criterium doesn't require that you go too deep into strategies for writing SEO-friendly content, although you should understand what this means.
 
 - Accessibility benefits: Assistive technology (AT) such as screen readers use headings and landmarks as signposts to navigate content. HTML documents are very difficult for AT users to use without headings.
 
@@ -134,7 +134,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
+> It is not necessary to have an exhaustive understanding of all the semantic elements HTML offers at this stage, but you should understand that they exist, and how to look them up using MDN if you need them.
 
 Resources:
 
@@ -210,7 +210,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
+> There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
 - `<button>`:
 
@@ -226,7 +226,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - Make sure to understand that client-side form validation is really a usability enhancement, to be used alongside server-side form validation. It is not a substitute for it.
+> Make sure to understand that client-side form validation is really a usability enhancement, to be used alongside server-side form validation. It is not a substitute for it.
 
 - Making forms accessible — Correct semantics, `<label>`, and the `for` attribute.
 

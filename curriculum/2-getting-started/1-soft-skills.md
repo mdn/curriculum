@@ -107,7 +107,7 @@ These strategies include:
 
   - Set a goal for the session, for example, "try to find a solution to the highest priority issue"; solving the biggest issue may also lead to a fix for other issues.
 
-- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism. See also [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/).
+- [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism. See also [Rubber Duck Debugging](https://rubberduckdebugging.com/).
 
 - Using AI to help with coding issues (for example [ChatGPT](https://openai.com/blog/chatgpt) or [GitHub Copilot](https://resources.github.com/copilot-for-business/)). You should use AI tools with caution, and familiarize yourself with their strengths and weaknesses:
 
