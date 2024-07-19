@@ -22,7 +22,7 @@ General resources:
 
 - [Practical Typography](https://practicaltypography.com/), Matthew Butterick
 
-- [Web typography made simple](https://eyelearn.org/typelab-by-hannahBoom/), Hannah Boom
+- [Web typography made simple](https://designforweb.org/vis/chapter2-typography/typelab-by-HannahBoom/), Hannah Boom
 
 - [Web Style Guide](https://webstyleguide.com/), Patrick J. Lynch and Sarah Horton
 
