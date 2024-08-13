@@ -101,7 +101,7 @@ Learning outcomes:
 
 > **Notes**:
 >
-> - Conforming to the above criteria does not require students to become legal experts in privacy laws, but they should understand the implications of these laws, and how that affects their work.
+> Conforming to the above criteria does not require students to become legal experts in privacy laws, but they should understand the implications of these laws, and how that affects their work.
 
 Resources:
 

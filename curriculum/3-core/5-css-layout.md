@@ -76,7 +76,9 @@ Resources:
 
 ## 5.4 Modern layout
 
-Learning outcome: Gain an understanding of modern CSS layout techniques:
+Learning outcomes:
+
+- In general, gain an understanding of modern CSS layout techniques.
 
 - Understand that, for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective:
 
