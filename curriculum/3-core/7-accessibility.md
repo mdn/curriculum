@@ -8,6 +8,10 @@ template: module
 
 Access to web content such as public services, education, e-commerce sites, and entertainment is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.
 
+General resources:
+
+- [Let's learn to make the web accessible](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~05tk?via=mdn), Scrimba _Course Partner_
+
 ## 7.1 Accessibility basics
 
 Learning outcomes:
@@ -178,6 +182,8 @@ Learning outcomes:
 - Announcing dynamic content updates with live regions.
 
 Resources:
+
+- [ARIA](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~03ci?via=mdn), Scrimba _Course Partner_
 
 - [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics)
 

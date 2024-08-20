@@ -39,6 +39,8 @@ Learning outcomes:
 
 Resources:
 
+- [Requests and responses](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lr?via=mdn), Scrimba _Course Partner_
+
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 - [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/), freeCodeCamp (2015)
@@ -94,6 +96,8 @@ Learning outcomes:
 > This bleeds over into responsive design, which is [covered later on in more depth](./5-css-layout.md).
 
 Resources:
+
+- [Intro to web dev basics](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0f?via=mdn), Scrimba _Course Partner_
 
 - [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
 
