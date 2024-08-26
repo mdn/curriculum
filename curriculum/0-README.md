@@ -48,7 +48,7 @@ Includes learning resource recommendations covering every curriculum topic, help
 
   [Getting started modules](./2-getting-started/)
 
-- ### Crafting courses?
+- ### Working at a school?
 
   _Utilize our modules to guide your teaching, or enroll your students in Scrimba's Frontend Developer Career Path._
 
