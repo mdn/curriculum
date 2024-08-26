@@ -50,6 +50,6 @@ Includes learning resource recommendations covering every curriculum topic, help
 
 - ### Crafting courses?
 
-  _Utilize our modules to guide your teaching and support your students' learning journey._
+  _Utilize our modules to guide your teaching, or enroll your students in Scrimba's Frontend Developer Career Path._
 
-  [Core modules](./3-core/)
+  [Frontend path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j?via=mdn)
