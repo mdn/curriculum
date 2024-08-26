@@ -140,7 +140,11 @@ Recommendations:
 
 - As part of the course, blog about your work, learnings, and roadblocks, share your code repositories, get peers to critique your work, and offer updates to fix issues in other people's work.
 
-- Join a Slack channel, Discord, or a similar space, ask peers for help, share resources, and discuss the work to be done (for example, see the [Frontend Developers](https://discord.me/frontenddevelopers) Discord server).
+- Join a Slack channel, Discord, or a similar space, ask peers for help, share resources, and discuss the work to be done. For example:
+
+  - Check out the [Frontend Developers](https://discord.me/frontenddevelopers) Discord server.
+
+  - Our learning partner, Scrimba, provides a [strong community and collaboration experience](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xyi?via=mdn) via their Discord server, intending to help their students gain exactly these kinds of skills.
 
 - Practice asking and answering questions. Even if they seem somewhat trivial, always come up with one or two questions to ask when discussing or reviewing peer work. It is essential to practice explaining what you are doing and asking the right questions to find out what you need to know.
 
@@ -197,6 +201,8 @@ Recommendations:
 - Be patient. Even the best candidates will get rejections from multiple job applications before they land the job they want.
 
 Resources:
+
+- [Getting hired](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0156?via=mdn), Scrimba _Course Partner_
 
 - [Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview](https://learntocodewith.me/posts/technical-interview/), learntocodewith.me (2022)
 

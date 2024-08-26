@@ -12,6 +12,8 @@ General resources:
 
 - [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss?via=mdn), Scrimba _Course Partner_
 
+- [Write your first lines of CSS!](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~015?via=mdn), Scrimba _Course Partner_
+
 ## 3.1 Basic CSS syntax
 
 Learning outcomes:
@@ -77,6 +79,8 @@ Learning outcomes:
 Resources:
 
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+
+- [CSS classes](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01d?via=mdn), Scrimba _Course Partner_
 
 - [CSS Selectors – Cheat Sheet for Class, Name, Child Selector List](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/), freeCodeCamp (2022)
 
@@ -197,6 +201,8 @@ Learning outcomes:
 - `border-radius` for rounded corners.
 
 Resources:
+
+- [Border and border-radius](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01j?via=mdn), Scrimba _Course Partner_
 
 - [Backgrounds and borders](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
 

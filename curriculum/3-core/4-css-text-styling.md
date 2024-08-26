@@ -34,6 +34,8 @@ Resources:
 
 - [Text and typography](https://web.dev/learn/css/typography/), web.dev (2021)
 
+- [Web-safe fonts](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02b?via=mdn), Scrimba _Course Partner_
+
 ## 4.2 Styling lists and links
 
 Learning outcomes:

@@ -10,9 +10,11 @@ HTML is the technology that defines the content and structure of any website. Wr
 
 General resources:
 
-- [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
-
 - [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss?via=mdn), Scrimba _Course Partner_
+
+- [The basics of semantic HTML](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xid?via=mdn), Scrimba _Course Partner_
+
+- [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), Codecademy
 
@@ -164,6 +166,8 @@ Learning outcomes:
 
 Resources:
 
+- [Anchor tags](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p?via=mdn), Scrimba _Course Partner_
+
 - [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
 ## 2.6 Media
@@ -248,6 +252,8 @@ Learning outcomes:
   - The difference between submission methods — `GET`, `POST`, etc.
 
 Resources:
+
+- [Input tags](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n?via=mdn), Scrimba _Course Partner_
 
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 

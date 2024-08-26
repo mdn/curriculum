@@ -130,6 +130,8 @@ Learning outcomes:
 
 Resources:
 
+- [Aside: Intro to arrays](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~06e?via=mdn), Scrimba _Course Partner_
+
 - [Arrays](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Arrays)
 
 ## 6.5 Conditionals
@@ -203,6 +205,8 @@ Learning outcomes:
 - Arrow functions.
 
 Resources:
+
+- [Using functions to write less code](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~04g?via=mdn), Scrimba _Course Partner_
 
 - [Functions — reusable blocks of code](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Functions)
 
@@ -358,6 +362,8 @@ Resources:
 
 - [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
 
+- [JSON Review](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lt?via=mdn), Scrimba _Course Partner_
+
 ## 6.14 Libraries and frameworks
 
 Learning outcomes:
@@ -409,6 +415,8 @@ Learning outcomes:
 Resources:
 
 - [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
+
+- [Introduction to React](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0q2?via=mdn), Scrimba _Course Partner_
 
 ## 6.15 Debugging JavaScript
 

@@ -70,7 +70,7 @@ Resources:
 
 - [Positioning](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Positioning)
 
-- [position](https://css-tricks.com/almanac/properties/p/position/), CSS-Tricks (2022)
+- [Aside: Position: relative & absolute](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5?via=mdn), Scrimba _Course Partner_
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 
@@ -89,6 +89,8 @@ Learning outcomes:
 - Flexbox:
 
   - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension.
+
+    - See [We have a problem that flexbox can fix](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039?via=mdn) by Scrimba _Course Partner_ for a use case example.
 
   - Understand flex terminology — flex container, flex item, main axis, and cross axis.
 
@@ -147,6 +149,8 @@ Learning outcomes:
   - For the sake of accessibility, never set `user-scalable=no`.
 
 Resources:
+
+- [Build a responsive site: Module intro](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij?via=mdn), Scrimba _Course Partner_
 
 - [Responsive design](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Responsive_Design)
 

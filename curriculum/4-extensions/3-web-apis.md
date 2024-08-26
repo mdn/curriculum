@@ -136,6 +136,8 @@ Learning outcomes:
 
 Resources:
 
+- [What is localStorage?](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~08s?via=mdn), Scrimba _Course Partner_
+
 - [Client-side storage](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 
 - [Using HTTP cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies)
