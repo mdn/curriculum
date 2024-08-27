@@ -30,7 +30,7 @@ Includes learning resource recommendations covering every curriculum topic, help
 
 ## Don't know where to<br>get started? <!-- markdownlint-disable-line MD033 -->
 
-- ### Embarking on your coding journey?
+- ### Starting out with coding?
 
   _Begin with our "Getting started" and "Core" modules to grasp the essential skills for web development._
 
@@ -48,8 +48,8 @@ Includes learning resource recommendations covering every curriculum topic, help
 
   [Getting started modules](./2-getting-started/)
 
-- ### Crafting courses?
+- ### Working at a school?
 
-  _Utilize our modules to guide your teaching and support your students' learning journey._
+  _Use our modules to guide your teaching, or enroll your students in Scrimba's Frontend Path._
 
-  [Core modules](./3-core/)
+  [Frontend Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j?via=mdn)
