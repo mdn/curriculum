@@ -16,7 +16,7 @@ The MDN Curriculum [Core](./3-core/) includes fundamental web standards concepts
 
 However, you may have additional topic requirements for your course, in which case you could:
 
-- Consider including some of the learning objectives from the curriculum’s [Getting started](./2-getting-started/) modules, such as soft skills like teamwork, research, and job interview techniques, and gaining familiarity with a typical web development toolset.
+- Consider including some of the learning objectives from the curriculum's [Getting started](./2-getting-started/) modules, such as soft skills like teamwork, research, and job interview techniques, and gaining familiarity with a typical web development toolset.
 - Extend the technology coverage in the curriculum Core with some [Extensions](./4-extensions/). We will aim to publish more extensions as time goes on. You could consider writing your own extensions and contributing them to the curriculum so that others can benefit. [Contact us](/docs/MDN/Community/Communication_channels) if you have an extension to submit!
 
 ## Using an effective learning pathway
@@ -36,7 +36,3 @@ You could also consider using an advanced turnkey solution such as an interactiv
 > **Note**: Scrimba offers multiple license deals — see [Scrimba for Teams](https://v2.scrimba.com/teams?via=mdn).
 
 The Front Developer Career Path features fun interactive lessons and challenges, knowledgeable teachers, and a supportive community, and aims to give students all they need to land their first junior developer job. Many of the course components are available as standalone free versions.
-
-## Resources
-
-[Complete MDN Curriculum download](#) (PDF)
