@@ -40,5 +40,3 @@ The Front Developer Career Path features fun interactive lessons and challenges,
 ## Resources
 
 [Complete MDN Curriculum download](#) (PDF)
-
-
