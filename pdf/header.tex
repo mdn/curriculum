@@ -1,0 +1,17 @@
+\definecolor{link}{HTML}{0069C2}
+\definecolor{quote-bg}{HTML}{fcefe2}
+
+\usepackage{mdframed}
+\renewenvironment{quote}
+  {\begin{mdframed}[
+      backgroundcolor=quote-bg,
+      linewidth=0em,
+      innerleftmargin=1em,
+      innerrightmargin=1em,
+      innertopmargin=1em,
+      innerbottommargin=1em,
+      skipabove=1em,
+      skipbelow=1em
+    ]
+  }
+  {\end{mdframed}}
