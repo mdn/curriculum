@@ -41,6 +41,10 @@ Educators can use the curriculum as a guide when creating programs, units, and a
 
 To find out more, consult our [Resources for Educators](./6-resources-for-educators.md) page.
 
+> **Educator's launchpad**: Easily download the MDN curriculum and share it with your students, hassle free.
+>
+> [Download](https://github.com/user-attachments/files/17043814/MDN-Curriculum-2024-09.pdf)
+
 ## Scope
 
 The term _front-end developer_ can be ambiguous; it can mean different things to different people, and folks working on the front end can be expected to do a wide variety of different tasks.

@@ -36,3 +36,7 @@ You could also consider using an advanced turnkey solution such as an interactiv
 > **Note**: Scrimba offers multiple license deals — see [Scrimba for Teams](https://v2.scrimba.com/teams?via=mdn).
 
 The Frontend Developer Career Path features fun interactive lessons and challenges, knowledgeable teachers, and a supportive community; it aims to give students all they need to land their first junior developer job. Many of the course components are available as standalone free versions.
+
+## Resources
+
+[Complete MDN Curriculum download](https://github.com/user-attachments/files/17043814/MDN-Curriculum-2024-09.pdf) (PDF)
