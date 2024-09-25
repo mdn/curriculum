@@ -19,6 +19,8 @@ Learning outcomes:
 
 - Understand the difference between Git, and websites like GitHub and GitLab.
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02g" scrimtitle="Git and GitHub"></scrim-inline>
+
 - Understand that websites such as GitHub and GitLab enable teamwork and collaboration that isn't so easy just with plain Git.
 
 - Basic setup — installing git, signing up for an account for your chosen social coding site.

@@ -8,6 +8,8 @@ template: module
 
 Access to web content such as public services, education, e-commerce sites, and entertainment is a human right. No one should be excluded based on disability, race, geography, or other human characteristics. This module discusses the best practices and techniques you should learn to make your websites as accessible as possible.
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~05tk" scrimtitle="Accessible Development Intro"></scrim-inline>
+
 General resources:
 
 - [Let's learn to make the web accessible](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~05tk?via=mdn), Scrimba _Course Partner_
@@ -188,3 +190,5 @@ Resources:
 - [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics)
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/). W3C
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~03ci" scrimtitle="WAI-ARIA Intro"></scrim-inline>

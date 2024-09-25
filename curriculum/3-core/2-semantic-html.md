@@ -18,6 +18,8 @@ General resources:
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), Codecademy
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xid" scrimtitle="Semantic HTML"></scrim-inline>
+
 ## 2.1 Basic HTML syntax
 
 Learning outcomes:
@@ -170,6 +172,8 @@ Resources:
 
 - [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p" scrimtitle="Anchor Tags"></scrim-inline>
+
 ## 2.6 Media
 
 Learning outcomes:
@@ -223,6 +227,8 @@ Learning outcomes:
   - Why reset buttons are nearly always a bad idea.
 
 - Common `<input>` types — `text`, `number`, `file`, `checkbox`, `radio`, `password`, `search`, and `submit`.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n" scrimtitle="The <input> Tag"></scrim-inline>
 
 - Common attributes — `name` and `value`.
 

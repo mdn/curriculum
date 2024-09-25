@@ -74,6 +74,8 @@ Resources:
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
+
 ## 5.4 Modern layout
 
 Learning outcomes:
@@ -103,6 +105,8 @@ Learning outcomes:
   - Justifying and aligning content.
 
   - Adjusting flex item ordering.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039" scrimtitle="Flexbox Demonstration"></scrim-inline>
 
 - CSS Grid:
 
@@ -155,3 +159,5 @@ Resources:
 - [Responsive design](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 - [Beginner's guide to media queries](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Media_queries)
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij" scrimtitle="Responsive Design Intro"></scrim-inline>

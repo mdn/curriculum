@@ -36,6 +36,8 @@ Resources:
 
 - [Web-safe fonts](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02b?via=mdn), Scrimba _Course Partner_
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02b" scrimtitle="Font Basics"></scrim-inline>
+
 ## 4.2 Styling lists and links
 
 Learning outcomes:
