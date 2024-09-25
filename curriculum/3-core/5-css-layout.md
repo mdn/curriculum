@@ -60,6 +60,8 @@ Learning outcomes:
 
   - Setting the positioning context of a positioned element by positioning an ancestor element.
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
+
 - Fixed and sticky positioning:
 
   - Understand how these differ from absolute positioning.
@@ -73,8 +75,6 @@ Resources:
 - [Aside: Position: relative & absolute](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5?via=mdn), Scrimba _Course Partner_
 
 - [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
-
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
 
 ## 5.4 Modern layout
 
