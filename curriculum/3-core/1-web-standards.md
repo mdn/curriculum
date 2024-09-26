@@ -18,7 +18,7 @@ Learning outcomes:
 
 - Clients and servers and their roles in the web.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lr" scrimtitle="The Request-Response Cycle"></scrim-inline>
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lr" scrimtitle="The Request-Response Cycle"></scrim-inline>
 
 - DNS and how it works at a high level.
 

@@ -228,7 +228,7 @@ Learning outcomes:
 
 - Common `<input>` types — `text`, `number`, `file`, `checkbox`, `radio`, `password`, `search`, and `submit`.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n" scrimtitle="The <input> Tag"></scrim-inline>
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n" scrimtitle="The <input> Tag"></scrim-inline>
 
 - Common attributes — `name` and `value`.
 

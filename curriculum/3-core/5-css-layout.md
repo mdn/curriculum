@@ -60,7 +60,7 @@ Learning outcomes:
 
   - Setting the positioning context of a positioned element by positioning an ancestor element.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
+    <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
 
 - Fixed and sticky positioning:
 
@@ -106,7 +106,7 @@ Learning outcomes:
 
   - Adjusting flex item ordering.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039" scrimtitle="Flexbox Demonstration"></scrim-inline>
+    <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039" scrimtitle="Flexbox Demonstration"></scrim-inline>
 
 - CSS Grid:
 

@@ -120,7 +120,7 @@ Learning outcomes:
 
 - Using Web Storage for simple key-value pair storage, controlled by JavaScript.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~08s" scrimtitle="What is localStorage?"></scrim-inline>
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~08s" scrimtitle="What is localStorage?"></scrim-inline>
 
 - Using IndexedDB:
 

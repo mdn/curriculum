@@ -110,7 +110,7 @@ Learning outcomes:
 
 - Understand what an array is — a structure that holds a list of variables.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~06e" scrimtitle="Intro to Arrays"></scrim-inline>
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~06e" scrimtitle="Intro to Arrays"></scrim-inline>
 
 - The syntax of arrays — `[a, b, c]` and the accessor syntax, `myArray[x]`.
 
@@ -182,7 +182,7 @@ Learning outcomes:
 
 - Understand the purpose of functions — to enable the creation of reusable blocks of code that can be called wherever needed.
 
-<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~04g" scrimtitle="Using Functions"></scrim-inline>
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~04g" scrimtitle="Using Functions"></scrim-inline>
 
 - Understand that functions are used everywhere in JavaScript and that some are built into the browser and some are user-defined.
 

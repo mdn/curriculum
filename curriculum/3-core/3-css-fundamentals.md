@@ -68,7 +68,7 @@ Learning outcomes:
 
   - You can have multiple classes per element, and these can be used to layer on styles as required.
 
-  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01d" scrimtitle="CSS Classes"></scrim-inline>
+    <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01d" scrimtitle="CSS Classes"></scrim-inline>
 
   - IDs and classes should be used sparingly where they make sense for selections, but you shouldn't use them for everything — keep your HTML as clean and uncluttered as possible.
 
