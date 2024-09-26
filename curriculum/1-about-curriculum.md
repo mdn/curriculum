@@ -43,7 +43,7 @@ To find out more, consult our [Resources for Educators](./6-resources-for-educat
 
 > **Hassle-free PDF download**: The complete MDN Curriculum is available as a convenient PDF to share with your students and colleagues.
 >
-> [Download the Curriculum](https://github.com/user-attachments/files/17043814/MDN-Curriculum-2024-09.pdf)
+> [Download the Curriculum](https://github.com/mdn/curriculum/releases/latest/download/MDN-Curriculum.pdf)
 
 ## Scope
 

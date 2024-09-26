@@ -39,4 +39,4 @@ The Frontend Developer Career Path features fun interactive lessons and challeng
 
 ## Resources
 
-[Complete MDN Curriculum download](https://github.com/user-attachments/files/17043814/MDN-Curriculum-2024-09.pdf) (PDF)
+[Complete MDN Curriculum download](https://github.com/mdn/curriculum/releases/latest/download/MDN-Curriculum.pdf) (PDF)
