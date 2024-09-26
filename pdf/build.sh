@@ -3,7 +3,7 @@
 cd "$(dirname "$0")"
 
 pandoc header.md ../curriculum/**/*.md -s \
-  -o MDN-Curriculum-`date -u '+%Y-%m'`.pdf \
+  -o MDN-Curriculum.pdf \
   --metadata date="`date -u '+%Y-%m-%d'`" \
   --pdf-engine=xelatex \
   --lua-filter=adjust-links.lua \
