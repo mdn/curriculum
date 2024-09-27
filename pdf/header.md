@@ -1,4 +1,5 @@
 ---
+# See: https://pandoc.org/MANUAL.html#variables
 title: MDN Curriculum
 subtitle: The essential skillset for new front-end developers
 author-meta: The MDN Team
