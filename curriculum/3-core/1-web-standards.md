@@ -18,6 +18,8 @@ Learning outcomes:
 
 - Clients and servers and their roles in the web.
 
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lr" scrimtitle="The Request-Response Cycle"></scrim-inline>
+
 - DNS and how it works at a high level.
 
 - TCP/IP and HTTP.
@@ -64,6 +66,8 @@ Learning outcomes:
 > - HTML is for structure and semantics (meaning).
 > - CSS is for styling and layout.
 > - JavaScript is for controlling dynamic behavior.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0f" scrimtitle="Web Dev Basics"></scrim-inline>
 
 - Their place in the larger ecosystem, and the fact that they are not the only web technologies.
 

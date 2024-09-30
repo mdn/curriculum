@@ -56,6 +56,8 @@ Resources:
 
 - [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p0" scrimtitle="Learn UI Design Intro"></scrim-inline>
+
 ## 8.2 User-centered design
 
 Learning outcomes:

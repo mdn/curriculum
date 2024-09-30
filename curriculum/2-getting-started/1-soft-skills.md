@@ -154,9 +154,15 @@ Recommendations:
 
 - Join an open-source project to practice the skills you learn, engage with folks in the community, and learn from observing others (see [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) for useful information).
 
+Our learning partner, Scrimba, provides a strong community and collaboration experience via their Discord server, intending to help their students gain exactly these kinds of skills. Check out the following embedded content to learn more.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xyi" scrimtitle="The Scrimba Community"></scrim-inline>
+
 ## 1.5 Succeeding in job interviews
 
 Technical job interviews can be very demanding, and some have quite specific requirements.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0156" scrimtitle="Getting Hired"></scrim-inline>
 
 Recommendations:
 

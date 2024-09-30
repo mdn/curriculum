@@ -14,6 +14,8 @@ General resources:
 
 - [Write your first lines of CSS!](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~015?via=mdn), Scrimba _Course Partner_
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~015" scrimtitle="Your first lines of CSS"></scrim-inline>
+
 ## 3.1 Basic CSS syntax
 
 Learning outcomes:
@@ -65,6 +67,8 @@ Learning outcomes:
   - IDs are unique per document — you should use an ID to select one specific element.
 
   - You can have multiple classes per element, and these can be used to layer on styles as required.
+
+    <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01d" scrimtitle="CSS Classes"></scrim-inline>
 
   - IDs and classes should be used sparingly where they make sense for selections, but you shouldn't use them for everything — keep your HTML as clean and uncluttered as possible.
 
@@ -199,6 +203,8 @@ Learning outcomes:
 - Border basics — `border-width`, `border-style`, `border-color`, and border shorthand (e.g. `border-top` and `border`).
 
 - `border-radius` for rounded corners.
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01j" scrimtitle="Border and border-radius"></scrim-inline>
 
 Resources:
 

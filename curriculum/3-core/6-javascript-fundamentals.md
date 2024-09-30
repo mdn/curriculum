@@ -110,6 +110,8 @@ Learning outcomes:
 
 - Understand what an array is — a structure that holds a list of variables.
 
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~06e" scrimtitle="Intro to Arrays"></scrim-inline>
+
 - The syntax of arrays — `[a, b, c]` and the accessor syntax, `myArray[x]`.
 
 - Modifying array values with `myArray[x] = y`.
@@ -179,6 +181,8 @@ Resources:
 Learning outcomes:
 
 - Understand the purpose of functions — to enable the creation of reusable blocks of code that can be called wherever needed.
+
+  <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~04g" scrimtitle="Using Functions"></scrim-inline>
 
 - Understand that functions are used everywhere in JavaScript and that some are built into the browser and some are user-defined.
 
@@ -364,6 +368,8 @@ Resources:
 
 - [JSON Review](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lt?via=mdn), Scrimba _Course Partner_
 
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lt" scrimtitle="JSON Review"></scrim-inline>
+
 ## 6.14 Libraries and frameworks
 
 Learning outcomes:
@@ -417,6 +423,8 @@ Resources:
 - [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
 
 - [Introduction to React](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0q2?via=mdn), Scrimba _Course Partner_
+
+<scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0q2" scrimtitle="Learn React Intro"></scrim-inline>
 
 ## 6.15 Debugging JavaScript
 
