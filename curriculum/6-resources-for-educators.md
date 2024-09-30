@@ -33,7 +33,7 @@ You could take your students through the curriculum-provided resources as is, bu
 
 You could also consider using an advanced turnkey solution such as an interactive video course. We would recommend [The Frontend Developer Career Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j?via=mdn) from our learning partner, [Scrimba](https://scrimba.com?via=mdn), which teaches all of the learning outcomes in the MDN Curriculum Core and more.
 
-> **Note**: Scrimba offers multiple license deals — see [Scrimba for Teams](https://v2.scrimba.com/teams?via=mdn).
+> **Note**: Scrimba offers multiple license deals — see [Scrimba for Teams](https://v2.scrimba.com/teams?via=mdn-edu).
 
 The Frontend Developer Career Path features fun interactive lessons and challenges, knowledgeable teachers, and a supportive community; it aims to give students all they need to land their first junior developer job. Many of the course components are available as standalone free versions.
 
