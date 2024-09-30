@@ -1,0 +1,37 @@
+name: Build and release PDF
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          sudo apt-get install pandoc texlive-latex-base texlive-xetex fonts-inter
+
+      - name: Build PDF
+        run: |
+          ./pdf/build.sh
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REVIEW_DATE="`cat LAST_MAJOR_REVIEW.txt`"
+          GENERATED_DATE=`date -u '+%Y-%m-%d'`
+          gh release create release-${{ github.sha }} \
+            --notes "PDF generated: $GENERATED_DATE | Last major curriculum review: $REVIEW_DATE" \
+            --target ${{ github.sha }} \
+            --title $GENERATED_DATE \
+            pdf/MDN-Curriculum.pdf
