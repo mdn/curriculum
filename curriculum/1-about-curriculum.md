@@ -39,12 +39,11 @@ Once a student has the list of topics they are going to learn, they should go fo
 
 Educators can use the curriculum as a guide when creating programs, units, and assessment specifications for a web-related university degree, college course, coding school course, or similar. Conforming to the curriculum will help ensure that courses teach current techniques and best practices, and avoid bad practices and out-of-date information.
 
-> **Note**: Any course based on the MDN curriculum should conform to the [Core](./3-core/), but could also optionally include one or more [Extensions](./4-extensions/).
+To find out more, consult our [Resources for Educators](./6-resources-for-educators.md) page.
 
-We recommend that any course conforming to the MDN curriculum should:
-
-- Assess students via a combination of exam-based theory testing, and practical real-world projects to get students to put their knowledge into action.
-- Provide students with a repository containing their project work that can be published as a portfolio to demonstrate proof of their skills to prospective employers.
+> **Hassle-free PDF download**: The complete MDN Curriculum is available as a convenient PDF to share with your students and colleagues.
+>
+> [Download the Curriculum](https://github.com/mdn/curriculum/releases/latest/download/MDN-Curriculum.pdf)
 
 ## Scope
 
