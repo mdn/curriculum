@@ -81,3 +81,5 @@ Resources:
 - [Web fonts](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Web_fonts)
 
 - [Fonts Knowledge](https://fonts.google.com/knowledge), Google Fonts
+
+- [All about the CSS font-family property](https://explainers.dev/font-family/), explainers.dev

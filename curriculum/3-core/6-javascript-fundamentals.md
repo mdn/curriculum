@@ -272,6 +272,8 @@ Resources:
 
 - [Manipulating documents](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 
+- [DOM Scripting](https://explainers.dev/dom-scripting/), explainers.dev
+
 ## 6.10 Events
 
 Learning outcomes:

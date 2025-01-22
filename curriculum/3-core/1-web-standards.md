@@ -105,7 +105,7 @@ Resources:
 
 - [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
 
-- [The Web Standards Model](https://www.websitearchitecture.co.uk/resources/examples/web-standards-model/), websitearchitecture.co.uk
+- [The Web Standards Model](https://explainers.dev/web-standards-model/), explainers.dev
 
 - [What is Progressive Enhancement, and why it matters](https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/)
 
