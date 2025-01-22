@@ -20,7 +20,7 @@ General resources:
 
 - [Design for web](https://designforweb.org/), Prisca Schmarsow + other contributors. Highlights include:
 
-  -  [Design trampoline: Learn design theory basics](https://designforweb.org/vis/chapter1-design-principles/designTrampoline-by-AnnaRiazhskikh/), Anna Riazhskikh
+  - [Design trampoline: Learn design theory basics](https://designforweb.org/vis/chapter1-design-principles/designTrampoline-by-AnnaRiazhskikh/), Anna Riazhskikh
 
   - [Web typography made simple](https://designforweb.org/vis/chapter2-typography/typelab-by-HannahBoom/), Hannah Boom
 
