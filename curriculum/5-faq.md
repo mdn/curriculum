@@ -1,5 +1,6 @@
 ---
 template: default
+summary: This page answers common questions about the MDN front-end developer curriculum, including its goals, content partners, and how the curriculum is maintained.
 ---
 
 # Frequently asked questions

@@ -1,5 +1,6 @@
 ---
 template: overview
+summary: Before diving into learning with the MDN curriculum, explore foundational topics like soft skills and environment setup to support your success in the core web development modules.
 ---
 
 # Getting started modules
