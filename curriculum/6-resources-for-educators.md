@@ -1,5 +1,6 @@
 ---
 template: about
+summary: This page provides guidance and tools to help educators adapt the MDN front-end developer curriculum for their own programs, including advice on scope, learning pathways, and assessments.
 ---
 
 # Resources for Educators

@@ -1,5 +1,6 @@
 ---
 template: about
+summary: This page describes the MDN front-end developer curriculum, including its motivation, target audience, scope, and update process as a guide to essential front-end web development skills.
 ---
 
 # About Curriculum
