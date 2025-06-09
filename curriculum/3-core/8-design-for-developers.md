@@ -94,7 +94,7 @@ Resources:
 
 - [Accessibility overview](https://developer.mozilla.org/docs/Learn/Accessibility)
 
-- [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
+- [Inclusive design principles](https://inclusivedesignprinciples.info/), inclusivedesignprinciples.info
 
 ## 8.3 Design briefs
 
