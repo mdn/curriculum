@@ -1,5 +1,6 @@
 ---
 template: overview
+summary: This page lists all core modules in the MDN front-end developer curriculum, covering essential topics like HTML, CSS, JavaScript, accessibility, and version control to build a solid foundation in front-end web development.
 ---
 
 # Core modules
