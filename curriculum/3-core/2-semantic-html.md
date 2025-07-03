@@ -110,7 +110,7 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals > Lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists)
+- [HTML text fundamentals > Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)
 
 - [Advanced text formatting > Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
 
