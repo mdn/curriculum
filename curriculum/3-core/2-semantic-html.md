@@ -14,7 +14,7 @@ General resources:
 
 - [The basics of semantic HTML](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xid?via=mdn), Scrimba _Course Partner_
 
-- [Structuring the web with HTML](https://developer.mozilla.org/docs/Learn/HTML)
+- [Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
 
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), Codecademy
 
@@ -46,9 +46,9 @@ Learning outcomes:
 
 Resources:
 
-- [Getting started with HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
-- [What's in the head? Metadata in HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+- [What's in the head? Web page metadata](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)
 
 ## 2.2 Good document structure
 
@@ -84,11 +84,11 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- [Headings and paragraphs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs)
 
-- [Document and website structure](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- [Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
 
-- [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
+- [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/What_is_accessibility)
 
 ## 2.3 Lists
 
@@ -110,9 +110,7 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals > Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)
-
-- [Advanced text formatting > Description lists](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#description_lists)
+- [Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)
 
 ## 2.4 Advanced text techniques
 
@@ -142,9 +140,9 @@ Learning outcomes:
 
 Resources:
 
-- [HTML text fundamentals > Emphasis and importance](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#emphasis_and_importance)
+- [Emphasis and importance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Emphasis_and_importance)
 
-- [Advanced text formatting](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+- [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Advanced_text_features)
 
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/), Toptal (2023)
 
@@ -170,7 +168,7 @@ Resources:
 
 - [Anchor tags](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p?via=mdn), Scrimba _Course Partner_
 
-- [Creating hyperlinks](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+- [Creating links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Creating_links)
 
 <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p" scrimtitle="Anchor Tags"></scrim-inline>
 
@@ -208,7 +206,9 @@ Resources:
 
 - [What is multimedia?](https://www.geeksforgeeks.org/what-is-multimedia/), Geeks for geeks (2023)
 
-- [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+- [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
+
+- [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio)
 
 ## 2.7 Other interactive elements
 
@@ -261,7 +261,7 @@ Resources:
 
 - [Input tags](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n?via=mdn), Scrimba _Course Partner_
 
-- [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- [Web forms](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms)
 
 ## 2.8 HTML tables
 
@@ -279,7 +279,7 @@ Learning outcomes:
 
 Resources:
 
-- [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+- [HTML tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
 
 ## 2.9 Debugging HTML
 
@@ -297,7 +297,7 @@ Learning outcomes:
 
 Resources:
 
-- [Debugging HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+- [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML)
 
 - [Firefox Docs > Examine and edit HTML](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_html/index.html), Firefox Source Docs
 
