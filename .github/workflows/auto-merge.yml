@@ -1,6 +1,9 @@
 name: "auto-merge"
 on: [pull_request_target]
 
+# No GITHUB_TOKEN permissions, as we don't use it.
+permissions: {}
+
 jobs:
   auto-merge:
     uses: mdn/workflows/.github/workflows/auto-merge.yml@main
