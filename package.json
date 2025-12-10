@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/mdn/curriculum#readme",
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   },
   "dependencies": {
     "husky": "^8.0.3",
@@ -26,5 +26,6 @@
     "prepare": "husky install",
     "fix": "prettier --ignore-unknown --write \"**/*.md\" && markdownlint-cli2-fix \"**/*.md\"",
     "lint": "prettier --ignore-unknown --check \"**/*.md\" && markdownlint-cli2 \"**/*.md\""
-  }
+  },
+  "packageManager": "npm@11.6.2"
 }
