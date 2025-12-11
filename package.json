@@ -12,8 +12,9 @@
     "url": "https://github.com/mdn/curriculum/issues"
   },
   "homepage": "https://github.com/mdn/curriculum#readme",
+  "packageManager": "npm@11.6.2",
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   },
   "dependencies": {
     "husky": "^8.0.3",
