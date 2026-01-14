@@ -12,7 +12,7 @@
     "url": "https://github.com/mdn/curriculum/issues"
   },
   "homepage": "https://github.com/mdn/curriculum#readme",
-  "packageManager": "npm@11.6.2",
+  "packageManager": "npm@11.7.0",
   "engines": {
     "node": ">=24"
   },
