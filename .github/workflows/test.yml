@@ -76,13 +76,13 @@ jobs:
                 } = Object.fromEntries(issue.fields);
 
                 const payload = Object.entries(otherFields)
-                  .map(([key, value]) => `${key}: ${value}`)
+                  .map(([key, value]) => `\x1b[38;2;37;136;235m${key}\x1b[0m: \x1b[38;2;221;0;169m${value}\x1b[0m`)
                   .join(" • ");
 
-                const message = source ? `(${source}) ${payload}` : payload;
+                const message = source ? `\x1b[3m(${source})\x1b[0m ${payload}` : payload;
                 messages.push(message);
               }
 
-              const message = `Found ${issues.length} issue(s) in ${file}:\n${messages.map(m => `${m}`).join("\n")}`;
+              const message = `Found \x1b[1m${issues.length}\x1b[0m issue(s) in \x1b[1m${file}\x1b[0m:\n${messages.map(m => `${m}`).join("\n")}`;
               core.warning(message, { file });
             }
