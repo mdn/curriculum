@@ -5,6 +5,24 @@
 # See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 # ----------------------------------------------------------------------------
 
-/.github/workflows/ @mdn/engineering
-/.github/CODEOWNERS @mdn/engineering
+* @mdn/content-team
+
+# Directories
+/.github    @mdn/engineering
+/.husky     @mdn/engineering
+/curriculum @mdn/content-team
+/pdf        @mdn/engineering
+
+# GitHub templates
+/.github/ISSUE_TEMPLATE/       @mdn/content-team
+/.github/PULL_REQUEST_TEMPLATE @mdn/content-team
+
+# Root directory
+/*           @mdn/engineering
+/*.md        @mdn/content-team
+/*.txt       @mdn/content-team
 /SECURITY.md @mdn/engineering
+
+# Dependencies
+/package.json      @mdn/engineering @mdn-bot
+/package-lock.json @mdn/engineering @mdn-bot
