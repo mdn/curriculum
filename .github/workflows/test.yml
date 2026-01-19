@@ -1,0 +1,64 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BUILD_OUT_ROOT: ${{ github.workspace }}/build
+
+    steps:
+      - name: Checkout mdn/content
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        with:
+          repository: mdn/content
+          path: mdn/content
+          persist-credentials: false
+
+      - name: Checkout mdn/curriculum
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        with:
+          path: mdn/curriculum
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@395ad3262231945c25e8478fd5baf05154b1d79f # v6.1.0
+        with:
+          node-version-file: mdn/content/.nvmrc
+          cache: npm
+          cache-dependency-path: mdn/content/package-lock.json
+
+      - name: Install
+        run: npm ci
+        working-directory: mdn/content
+
+      - name: Build
+        working-directory: mdn/content
+        env:
+          CONTENT_ROOT: ${{ github.workspace }}/mdn/content/files
+          CURRICULUM_ROOT: ${{ github.workspace }}/mdn/curriculum
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npx rari build --no-basic --curriculum --issues "$BUILD_OUT_ROOT/issues.json" --templ-stats
+
+      - name: Report
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
+        env:
+          FILES_PATH: ${{ github.workspace }}/mdn/curriculum
+          ISSUES_PATH: ${{ env.BUILD_OUT_ROOT }}/issues.json
+          SCRIPT_PATH: ${{ github.workspace }}/mdn/curriculum/.github/scripts/report-issues.js
+        with:
+          script: |
+            const { reportIssues } = await import(process.env.SCRIPT_PATH);
+            await reportIssues({
+              core,
+              issuesPath: process.env.ISSUES_PATH,
+              filesPath: process.env.FILES_PATH
+            });
