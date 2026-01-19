@@ -9,6 +9,7 @@ summary: The MDN Curriculum provides a structured guide to the essential skills 
 
 The MDN Curriculum provides a structured summary of the essential skills and practices for being a successful front-end developer. The Learn web development [Core modules](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) are based on this structure, as well as partner courses such as the [Scrimba Frontend developer career path](https://scrimba.com/learn/frontend?via=mdn)
 
+<!-- Keep in sync with `LAST_MAJOR_REVIEW.txt` file. -->
 Last updated: October 2025
 
 ## About the curriculum
