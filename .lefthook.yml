@@ -18,6 +18,13 @@ pre-commit:
             run: npx markdownlint-cli2-fix {staged_files}
             stage_fixed: true
 
+post-merge:
+  only:
+    - ref: main
+  commands:
+    npm-install:
+      run: npm install --ignore-scripts
+
 output:
   - summary
   - failure
