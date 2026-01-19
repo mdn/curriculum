@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      BUILD_OUT_ROOT: ${{ github.workspace }}/mdn/content/node_modules/@mdn/fred/out
+      BUILD_OUT_ROOT: ${{ github.workspace }}/build
 
     steps:
       - name: Checkout mdn/content
