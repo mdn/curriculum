@@ -53,36 +53,12 @@ jobs:
         env:
           FILES_PATH: ${{ github.workspace }}/mdn/curriculum
           ISSUES_PATH: ${{ env.BUILD_OUT_ROOT }}/issues.json
+          SCRIPT_PATH: ${{ github.workspace }}/mdn/curriculum/.github/scripts/report-issues.js
         with:
           script: |
-            const fs = require("fs");
-
-            const issuesByPath = JSON.parse(fs.readFileSync(process.env.ISSUES_PATH, "utf8"));
-
-            for (const [filepath, issues] of Object.entries(issuesByPath)) {
-              const prefix = process.env.FILES_PATH.replace(/\/?$/, "/");
-
-              if (!filepath.includes(prefix)) {
-                continue;
-              }
-
-              const file = filepath.replace(prefix, "");
-              const messages = [];
-
-              for (const issue of issues) {
-                const {
-                  source = "unknown",
-                  ...otherFields
-                } = Object.fromEntries(issue.fields);
-
-                const payload = Object.entries(otherFields)
-                  .map(([key, value]) => `\x1b[38;2;37;136;235m${key}\x1b[0m: \x1b[38;2;221;0;169m${value}\x1b[0m`)
-                  .join(" • ");
-
-                const message = source ? `\x1b[3m(${source})\x1b[0m ${payload}` : payload;
-                messages.push(message);
-              }
-
-              const message = `Found \x1b[1m${issues.length}\x1b[0m issue(s) in \x1b[1m${file}\x1b[0m:\n${messages.map(m => `${m}`).join("\n")}`;
-              core.warning(message, { file });
-            }
+            const { reportIssues } = await import(process.env.SCRIPT_PATH);
+            await reportIssues({
+              core,
+              issuesPath: process.env.ISSUES_PATH,
+              filesPath: process.env.FILES_PATH
+            });
