@@ -59,6 +59,7 @@ Web developers spend a lot of time searching for solutions to problems encounter
 These strategies include:
 
 - Consulting the documentation.
+
   - When you are stuck with using a tool/product, consult the official documentation first. It is surprising how many people do not think to do this; official docs are often geared towards beginners, so people with experience may not think of them as being suitable for them.
 
   - Learn about different [types of documentation](https://documentation.divio.com/) — for example, tutorials, references, and other types — and understand when each type is useful.
@@ -66,14 +67,17 @@ These strategies include:
 - Using search engines effectively (See [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond)).
 
 - Choosing valid information sources:
+
   - Choose recommended sites such as [Stack Overflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org).
 
   - Check the dates on articles, and consider whether the techniques discussed are out-of-date. For example, does an article on CSS layout talk about modern approaches like grid and flexbox, or does it still present obsolete techniques like multi-column layouts with floats? Does it still talk about hacks for ancient browsers like Internet Explorer or Netscape 4?
 
 - Using social media effectively:
+
   - Build a network of folks who can help.
 
   - Join community groups where you can look for answers. For example:
+
     - [The MDN Web Docs community](https://discord.gg/apa6Rn7uEj) on Discord
     - [Scrimba](https://scrimba.com/?via=mdn) _Course partner_
 
@@ -88,6 +92,7 @@ These strategies include:
   - When you find a useful answer, write about it. For example, blog about it or share it on a social network. Not only will the process of writing clarify the concepts to you, but you'll also get validation and/or feedback from the community. It could also help you to start making a name for yourself in the industry.
 
 - Making effective use of an experienced contact's time:
+
   - By "experienced contact", we mean a teacher, mentor, or senior developer.
 
   - Ask them what communication methods they prefer.
@@ -105,6 +110,7 @@ These strategies include:
 - [Rubber ducking](https://wikipedia.org/wiki/Rubber_duck_debugging) as an effective help mechanism. See also [Rubber Duck Debugging](https://rubberduckdebugging.com/).
 
 - Using AI to help with coding issues (for example [ChatGPT](https://openai.com/blog/chatgpt) or [GitHub Copilot](https://resources.github.com/copilot-for-business/)). You should use AI tools with caution, and familiarize yourself with their strengths and weaknesses:
+
   - On the plus side, they can speed up research/searches enormously, and help with structuring code and copy.
 
   - On the other hand, AI tools have no reasoning skills and frequently provide answers that are misleading or just plain wrong. You shouldn't just assume that AI answers are correct, and test them/verify them with other sources.
@@ -135,6 +141,7 @@ Recommendations:
 - As part of the course, blog about your work, learnings, and roadblocks, share your code repositories, get peers to critique your work, and offer updates to fix issues in other people's work.
 
 - Join a Slack channel, Discord, or a similar space, ask peers for help, share resources, and discuss the work to be done. For example:
+
   - Check out the [Frontend Developers](https://discord.me/frontenddevelopers) Discord server.
 
   - Our learning partner, Scrimba, provides a [strong community and collaboration experience](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0xyi?via=mdn) via their Discord server, intending to help their students gain exactly these kinds of skills.
@@ -160,6 +167,7 @@ Technical job interviews can be very demanding, and some have quite specific req
 Recommendations:
 
 - Learn effective strategies for job searching. For example:
+
   - Attend networking events and job fairs to meet potential employers.
 
   - Keep an inventory of the people you meet and the companies you apply to.
@@ -181,6 +189,7 @@ Recommendations:
 - Build a collection of anecdotes to use for experience-based interview questions.
 
 - Be aware of the attributes that hiring managers look for in a candidate and prepare accordingly:
+
   - Someone they can get along with.
 
   - Positive attitude, respectful, empathic, constructive.
@@ -232,6 +241,7 @@ While not essential for understanding the technical topics listed in the curricu
 Recommendations:
 
 - To understand why things are the way they are, study the relevant historical context. For example:
+
   - Why was the web designed like it is in terms of data delivery when arguably faster mechanisms exist?
 
   - Why does the web use a document model with links as a central feature when these days it is largely used to build apps?
@@ -239,6 +249,7 @@ Recommendations:
   - Why are web standards created like they are, in collaboration, when the process isn't necessarily as efficient as it could be?
 
 - Study general programming concepts where relevant, for example:
+
   - The purpose of objects, and what they enable in terms of the design of a language like JavaScript and its surrounding APIs.
 
   - How loops work and why they are needed.

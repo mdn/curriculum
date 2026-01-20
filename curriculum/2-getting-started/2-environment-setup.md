@@ -71,6 +71,7 @@ Resources:
 - Understand what the command line is, and what you can do with it.
 
 - Understand how to access the command line on different systems:
+
   - On Linux and macOS, you've generally got a built-in terminal ready to go.
 
   - On Windows, the default command prompt is a bit more limited; you are better off installing something like [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/windows/wsl/), [PowerShell](https://learn.microsoft.com/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) or Git Bash (part of [Git for Windows](https://gitforwindows.org/)) if you want the same commands and power available to macOS/Linux.
@@ -94,6 +95,7 @@ Resources:
 ## 2.5 Code editors
 
 - Learn what code editors are available and what is suitable for your purposes:
+
   - Binary file editors like Microsoft Word are unsuitable for editing code. You need something that cleanly handles and outputs plain text.
 
   - Default OS plain text editors can be OK, for example, TextEdit on macOS, or Notepad on Windows, but they also have limitations.
@@ -103,6 +105,7 @@ Resources:
   - Integrated Development Environments (IDEs) such as [Visual Studio](https://visualstudio.microsoft.com/) (Windows, not free), [NetBeans](https://netbeans.apache.org/) (multiplatform, free), and [WebStorm](https://www.jetbrains.com/webstorm/) (multiplatform, not free) tend to have more features than simple code editors but tend to be more complex than what you need at this stage in your learning journey.
 
 - Learn what a basic code editor can do for you:
+
   - Open and edit code files.
 
   - Syntax highlighting.
@@ -116,6 +119,7 @@ Resources:
   - Integration with version control is often provided (see also [Version control](../3-core/9-version-control.md))
 
 - Customize and enhance your code editor with extensions:
+
   - Language-specific extensions such as code completion, highlighting, linting, and debugging. This can apply to specific languages such as JavaScript, Python, or Go, or language/framework abstractions such as [TypeScript](https://www.typescriptlang.org/) or [JSX](https://react.dev/learn/writing-markup-with-jsx).
 
   - GitHub/version control extensions, if not provided by default.

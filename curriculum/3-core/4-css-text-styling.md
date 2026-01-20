@@ -49,6 +49,7 @@ Learning outcomes:
 - Understand why default link styles are important for usability on the web — they are familiar and help users recognize links.
 
 - Styling link states: `:hover`, `:focus`, `:visited`, and `:active`:
+
   - Understand why these are necessary for usability and accessibility.
 
 - Creating a navigation menu with lists and links.
