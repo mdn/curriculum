@@ -29,7 +29,6 @@ Learning outcomes:
 - The need to set the language of a document using the `lang` attribute in the opening `<html>` tag.
 
 - The HTML head, and its purpose as a metadata container for the document including key uses:
-
   - Setting information like character encoding and title.
 
   - Providing metadata for search engines (e.g. `<meta name="description">`) and social media platforms (e.g. [Open Graph Data](https://ogp.me/)), and the Search Engine Optimization (SEO) benefits.
@@ -57,7 +56,6 @@ Learning outcomes:
 - How to create a good document structure with headings and content beneath those headings.
 
 - Using semantic HTML rather than presentational HTML:
-
   - Some presentational markup should no longer be used at all (e.g. `<big>` and `<font>`); it is deprecated.
 
   - Some presentational markup has been repurposed to have new semantic meaning (e.g. `<i>` and `<b>`).
@@ -119,7 +117,6 @@ Learning outcomes:
 - Correct usage of elements for emphasis and importance, such as `<strong>` and `<em>`.
 
 - Understand HTML elements that represent other less common semantic requirements, for example:
-
   - Quotations.
 
   - Abbreviations and acronyms.
@@ -179,7 +176,6 @@ Learning outcomes:
 - The term "replaced element" — what does it mean?
 
 - Images, audio, video:
-
   - The basics — `<img>`, `<audio>`, and `<video>` tags.
 
   - Using `src` to point to a resource (Paths are also important here; see [2.5 Links](#2.5_links)).
@@ -193,7 +189,6 @@ Learning outcomes:
   - Optimizing media assets for the web — keep file sizes small.
 
 - Media assets and licensing:
-
   - Different types of licensing — public domain/CC0, permissive (e.g. CC license, MIT), copyrighted (rights-managed/royalty-free).
 
   - Searching for appropriately licensed media files to use in projects, e.g. via [Google Images](https://images.google.co.uk/), [Flickr](https://www.flickr.com/), and [The Noun Project](https://thenounproject.com/).
@@ -221,7 +216,6 @@ Learning outcomes:
 > There are a lot of input types and form features not explicitly mentioned here; the purpose is to get a good general introduction to buttons and form elements, and learn the most common cases. The advanced/specialized cases can be studied on a need-to-know basis, as part of a web developer's constant learning throughout their career.
 
 - `<button>`:
-
   - Button types — `button`, `submit`, and `reset`.
 
   - Why reset buttons are nearly always a bad idea.
@@ -252,7 +246,6 @@ Learning outcomes:
 - `<select>` and `<option>`.
 
 - `<form>` elements:
-
   - Form submission: what happens when a form is submitted.
 
   - The difference between submission methods — `GET`, `POST`, etc.
@@ -291,7 +284,6 @@ Learning outcomes:
 - View source is a useful tool for getting a quick look at the source markup of a page.
 
 - Using the DOM inspector in your browser DevTools to dive deeper into your markup:
-
   - Add and remove elements and attributes on the fly to see what effect it has.
 
   - Add and remove classes on the fly to see if the associated CSS is applied as expected.

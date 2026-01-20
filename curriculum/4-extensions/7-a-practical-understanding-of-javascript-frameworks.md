@@ -18,7 +18,6 @@ JavaScript frameworks are commonly used by companies to build web applications. 
 Learning outcomes:
 
 - Understand how to start using frameworks:
-
   - Link to the relevant JavaScript files, either locally or on a [CDN](https://developer.mozilla.org/docs/Glossary/CDN) (not usually recommended).
 
   - Use a dependency manager such as npm to add it to your project.
@@ -26,9 +25,7 @@ Learning outcomes:
   - Install a CLI such as [Vite](https://vitejs.dev/) and use it to generate a skeleton framework-based application that you can modify. This is the easiest way to get started.
 
 - The fundamentals of a typical framework. The overall architecture will differ, but most frameworks include the following in one form or another, which you should learn about:
-
   - Component systems:
-
     - Props.
 
     - Data binding.
@@ -40,7 +37,6 @@ Learning outcomes:
     - Component lifecycle system.
 
   - Templating language:
-
     - Usually a domain-specific language (DSL) such as JSX or handlebars.
 
     - Includes features such as filtering and conditional rendering.
@@ -58,7 +54,6 @@ Learning outcomes:
   - Extension system.
 
 - Understand the practicalities of working with a framework. Most framework-related CLIs or development environments include:
-
   - A local testing server that refreshes on file save.
 
   - A useful set of extensions for popular code editors (for example VSCode) that provide features like linting and code completion for framework-specific code.

@@ -124,7 +124,6 @@ Learning outcomes:
 > - The full W3C standards process is deep and academic. For now, you should understand how different individuals and companies get involved in the standards process, and how the different maturity stages are designed to weed out issues (e.g. interoperability issues, patent issues).
 
 - The lifecycle of web standards features:
-
   - Experimental: Usually only available in one browser engine as it is developed, sometimes not in a specification yet. Too early to use in production.
 
   - Stable: Development finished, specified, available across browser engines.
@@ -132,7 +131,6 @@ Learning outcomes:
   - Deprecated: Not to be used anymore, may still be in browsers but flagged for deletion.
 
 - The key principles web standards are built on:
-
   - Open to contribute and use.
 
   - Not patent-encumbered or controlled by a single private entity.
@@ -191,7 +189,6 @@ Learning outcomes:
 > - The styled, laid-out nodes are painted to the screen in the right order, via painting and compositing.
 
 - Why the browser is sometimes seen as a hostile programming environment:
-
   - Unlike other programming environments, it is much harder to make guarantees about the environment your code will run on.
 
   - You cannot guarantee a user's OS, browser, language, location, network connection, CPU, GPU, memory, etc.
@@ -199,7 +196,6 @@ Learning outcomes:
   - You need to embrace uncertainty and learn to program defensively. This feeds back into and expands upon the concepts looked at around progressive enhancement in [1.2 The HTML, CSS, and JavaScript triangle](#1.2_the_html_css_and_javascript_triangle). This would also be a good place to look at related concepts such as error handling, feature detection, and responsive design.
 
 - The flipside — why the web is an awesome programming environment:
-
   - Its basic state is accessible and linkable. Some of these basics are harder to achieve in other environments.
 
   - App delivery across the web is simple and powerful.

@@ -27,7 +27,6 @@ Learning outcomes:
 - Use semantic HTML, aka "The right element for the right job", because the browser provides so many built-in accessibility hooks. Good examples are `<a>` and `<input>` elements.
 
 - Accessible best practices:
-
   - Alt text (see also [2.6 Media](./2-semantic-html.md#2.6_media)).
 
   - Good link text (see also [2.5 Links](./2-semantic-html.md#2.5_links)).
@@ -43,7 +42,6 @@ Learning outcomes:
 - Understand the purpose of audio transcripts and text tracks (captions, subtitles, etc.) in making audio and video content accessible (we are not expecting mastery in creating them; that is an advanced topic in its own right).
 
 - Keyboard accessibility:
-
   - Understand why apps need to be keyboard accessible — many people have difficulty using a mouse or other pointing device.
 
   - Understand built-in browser keyboard controls.
@@ -65,7 +63,6 @@ Resources:
 Learning outcomes:
 
 - Text sizing and layout:
-
   - Make sure your text is well laid out, consistent, and legible.
 
   - Consider providing large-type interfaces for those with visual impairments.
@@ -73,19 +70,16 @@ Learning outcomes:
   - See also [4.1 Text and font styling](./4-css-text-styling.md#4.1_text_and_font_styling).
 
 - Color contrast:
-
   - Use an online tool such as WebAIM's [Color Contrast Checker](https://webaim.org/resources/contrastchecker/) or the [TPGi Colour Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/) to check whether your color contrast conforms to the relevant WCAG conformance criteria.
 
   - Be mindful of those with color blindness or visual impairments; provide high-contrast modes to suit.
 
 - `:focus` and `:hover` styles:
-
   - These are important cues for mouse and keyboard users.
 
   - See also [4.2 Styling lists and links](./4-css-text-styling.md#4.2_styling_lists_and_links).
 
 - Sensible animation usage — use animation subtly and provide controls to turn it off:
-
   - Consider the needs of those with certain cognitive disabilities.
 
   - The `prefers-reduced-motion` media query was created specifically to help with this.
@@ -107,7 +101,6 @@ Learning outcomes:
 - Understand that there is such a thing as too much JavaScript. A simpler approach is usually more accessible, and often better for everyone.
 
 - Understand the value of unobtrusive JavaScript:
-
   - If possible, use JavaScript as a usability enhancement, which isn't essential for the app to function.
 
   - A good example is client-side validation of form inputs.
@@ -127,14 +120,12 @@ Resources:
 Learning outcomes:
 
 - Screen readers and other assistive technology (AT) types:
-
   - What they are used for, and who uses them.
 
   > **Notes**:
   >
   > - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed below), but to be aware of their existence and the types of people who use them, and also to appreciate how and why accessibility best practices work.
   > - It is also a good idea for web developers to use screen readers or other types of assistive technology, to get an idea of what the web experience is like for users of those technologies.
-
   - The importance of source order.
 
   - The accessibility layer in browsers, and how assistive technologies hook into it.
@@ -142,7 +133,6 @@ Learning outcomes:
   - Setting up screen readers and using them to test websites on desktop and mobile.
 
   - Other assistive technology such as:
-
     - Large text or braille keyboards.
 
     - Alternative pointing devices such as trackballs, joysticks, and touchpads.
@@ -170,7 +160,6 @@ Resources:
 Learning outcomes:
 
 - Understand the purpose of WAI-ARIA — to provide semantics to otherwise non-semantic HTML, so that AT users can make sense of the interfaces being presented to them:
-
   - [The first rule of ARIA](https://www.w3.org/TR/using-aria/#rule1): "If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."
 
   - In other words, using semantic HTML is an ideal, which is not possible at all times. WAI-ARIA is a bridging technology for such cases.

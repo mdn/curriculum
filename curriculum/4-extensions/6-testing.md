@@ -13,13 +13,11 @@ Any codebase past a certain level of complexity needs to have a system of tests 
 Learning outcomes:
 
 - Understand the overall purposes of testing:
-
   - To make sure that the functionality of an app works (and continues to work) for the intended target audience to a chosen level of quality.
 
   - To make sure that the code and functionality meet chosen standards of quality and conform to set conformance criteria, benchmarks, or guidelines.
 
 - The purpose of common test types:
-
   - Functional testing (related to unit testing): Checking that the features and functions of the web app are working as expected, e.g. user interactions, forms, navigation, links, and other core functionalities.
 
   - Usability testing: Evaluating the user-friendliness of the web app. This involves assessing how easy it is for users to navigate the app, complete tasks, and achieve their goals.
@@ -41,7 +39,6 @@ Learning outcomes:
 - Some accessibility testing can be automated, for example, "do the images all have alt text?".
 
 - A typical process for performing automated tests:
-
   - Identify who the target audience groups are, and what browsers they are using.
 
   - Identify the items of functionality that should be tested. These can range from visual ("does the layout look like it should?"), to user-facing functions ("does the search box return a result?"), to lower-level code ("does function `x()` return the expected result?").
@@ -57,7 +54,6 @@ Learning outcomes:
   - Fix the code and rerun the tests to make sure they pass, and ensure that new errors have not been introduced by the code updates (regression testing).
 
 - Understand the typical toolset used to run automated tests:
-
   - Use a combination of physical devices and virtual machines (such as [VirtualBox](https://www.virtualbox.org/)) to make the different browser and device combinations available.
 
   - Use [Selenium/WebDriver](https://www.selenium.dev/documentation/webdriver/) to run specific tests on installed browsers and return results, alerting you to failures in browsers as they appear. Packages such as [webdriver.io](https://webdriver.io/) and [nightwatch.js](https://nightwatchjs.org/) can be used to control WebDriver via Node.js code (other platform integrations also exist).
@@ -69,7 +65,6 @@ Learning outcomes:
   - Use a cloud-based service to do automated cross-browser functional testing, such as [LambdaTest](https://www.lambdatest.com/), [Sauce Labs](https://saucelabs.com/), [BrowserStack](https://www.browserstack.com/), or [TestingBot](https://testingbot.com). Most of these services have APIs available, allowing you to run tests from a platform like Node.js.
 
 - Understand how to integrate testing with GitHub using continuous integration (CI) tools:
-
   - Understand the utility of this — you can create a setup to automatically run your test suite each time you commit a change to the codebase.
 
   - Use tools such as [CircleCI](https://circleci.com/) or [Travis CI](https://www.travis-ci.com/) to do this.
@@ -87,7 +82,6 @@ Learning outcomes:
 - Some accessibility testing should be done manually as a subset of usability testing — for example, you might be able to tab to the form elements to fill them in, but does the form make sense to an assistive technology user? Can they tell what information it is asking them for?
 
 - A typical process for usability testing:
-
   - Identify the aspects of the app functionality you want to test (these can be in the form of hypotheses or problem statements you want to test), and what target audience segments would be most appropriate to test them.
 
   - Recruit some test subjects for you to do the testing with. 5-10 successful sessions should be enough to start to identify recurring usability problems.
@@ -103,7 +97,6 @@ Learning outcomes:
   - Measure whether the improvements fixed the problem (for example by looking for changes in key metrics, or by rerunning the usability test with a new cohort of test subjects).
 
 - A typical toolset for running a usability test:
-
   - Clear instructions are needed: Explain the purpose of the test to the test subject. Instruct them to think aloud while performing the tasks. Observe their interactions and take notes on any issues or difficulties they encounter. Encourage participants to provide honest feedback.
 
   - Video conferencing software such as Zoom, which includes screen-sharing functionality so you can observe what the test subjects are doing, and the ability to record the session so you can review it later.

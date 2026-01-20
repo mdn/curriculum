@@ -23,7 +23,6 @@ Learning outcomes:
 - The purpose of CSS — style, layout, and provide other visual enhancements to web pages (such as animation).
 
 - Key CSS syntax:
-
   - Rules.
 
   - Selectors.
@@ -37,7 +36,6 @@ Learning outcomes:
   - At-rules and descriptors.
 
 - Default browser styles — understand that the browser provides default CSS styling to HTML elements so that it is in some way usable even with no user-defined styles at all:
-
   - Understand also therefore that HTML has nothing to do with styling.
 
   - Use this to reinforce the idea of separating semantics and structure (semantic HTML) from presentation (CSS), and not using presentational markup.
@@ -45,7 +43,6 @@ Learning outcomes:
   - Study CSS resets, first to prove that browser styles exist and show what a page looks like when they are removed, but also as a technique for providing a blank canvas for developers to build styles on top of.
 
 - Applying CSS to an HTML document — inline styles, internal stylesheets, external stylesheets:
-
   - Why external stylesheets are usually the best option.
 
 Resources:
@@ -63,7 +60,6 @@ Resources:
 Learning outcomes:
 
 - Basic selectors — element type, class, ID:
-
   - IDs are unique per document — you should use an ID to select one specific element.
 
   - You can have multiple classes per element, and these can be used to layer on styles as required.
@@ -95,7 +91,6 @@ Learning outcomes:
 - Block and inline elements.
 
 - The different boxes that make up an element and how to style them:
-
   - `width` and `height`.
 
   - `margin`.
@@ -127,7 +122,6 @@ Learning outcomes:
 - The cascade.
 
 - The concepts that govern the outcome of CSS conflicts:
-
   - Specificity.
 
   - Source order.
@@ -143,7 +137,6 @@ Resources:
 Learning outcomes:
 
 - Understand that property values can take many different types, and what these types represent:
-
   - Numbers, lengths, and percentages.
 
   - Ems and rems.
@@ -191,7 +184,6 @@ Learning outcomes:
 - Background image size, repeat, position, and attachment.
 
 - Background gradients:
-
   - The general concept of what a background gradient is.
 
   - Linear gradients.
@@ -233,7 +225,6 @@ Learning outcomes:
 - Using CSS resets to overcome `<input>` font styling inheritance and box styling default differences.
 
 - Understand that not all form elements are easy to style, and why:
-
   - System styles are applied to some form elements, making consistent styling difficult across browsers.
 
   - More complex form elements have internal (shadow DOM) elements that define the structure of their inner workings. These are often impossible to access and style individually.

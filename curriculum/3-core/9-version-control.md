@@ -32,7 +32,6 @@ Learning outcomes:
 - Pushing changes — `add`, `commit`, and `push`.
 
 - Contributing to others' repos:
-
   - Forking.
 
   - Creating a new branch.
@@ -44,7 +43,6 @@ Learning outcomes:
 - Using GitHub pages to publish a sample project.
 
 - Good housekeeping:
-
   - Regularly update local repos so that they are in sync with their remote counterparts. This includes pulling remote changes to your local repo, and installing package updates (e.g. with `npm install` or `yarn`). Always do this before you start working on a local repo.
 
   - Use `.gitignore` to ignore all the stuff you don't want to commit. Examples include dependencies, dev source files, and OS-level admin files like `.DS_Store`.

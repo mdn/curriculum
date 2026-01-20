@@ -19,7 +19,6 @@ General resources:
 - [Designing for the Web](https://designingfortheweb.co.uk/), Mark Boulton
 
 - [Design for web](https://designforweb.org/), Prisca Schmarsow + other contributors. Highlights include:
-
   - [Design trampoline: Learn design theory basics](https://designforweb.org/vis/chapter1-design-principles/designTrampoline-by-AnnaRiazhskikh/), Anna Riazhskikh
 
   - [Web typography made simple](https://designforweb.org/vis/chapter2-typography/typelab-by-HannahBoom/), Hannah Boom
@@ -37,7 +36,6 @@ General resources:
 Learning outcomes:
 
 - UI design fundamentals:
-
   - Contrast.
 
   - Typography.
@@ -71,7 +69,6 @@ Learning outcomes:
 - Design for accessibility — consider the target audience and what additional needs they may have. Design for those from the very start.
 
 - Understand what design patterns are, and the common patterns used on the web, for example:
-
   - Dark mode.
 
   - Breadcrumbs.

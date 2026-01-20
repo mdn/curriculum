@@ -15,7 +15,6 @@ Learning outcomes:
 - Understand the concepts of real performance and perceived performance and the difference between the two.
 
 - Understand key performance concepts:
-
   - Source order.
 
   - Critical path.
@@ -25,9 +24,7 @@ Learning outcomes:
   - How a browser renders pages.
 
 - Understand how performance impacts sustainability — good performance can have a positive impact on the planet by reducing energy usage and bandwidth consumption:
-
   - Energy efficiency:
-
     - Code performance (see [4.5 JavaScript and performance](#4.5_javascript_and_performance)).
 
     - Static power draw (idle state).
@@ -35,7 +32,6 @@ Learning outcomes:
   - Hardware efficiency (repairability/utilization).
 
   - Demand efficiency:
-
     - Spatial (where do you perform computations).
 
     - Temporal (when do you perform computations).
@@ -53,7 +49,6 @@ Resources:
 Learning outcomes:
 
 - How to reduce page loading times:
-
   - Use optimal media formats and compression.
 
   - Remove unnecessary audio from muted video.
@@ -67,7 +62,6 @@ Learning outcomes:
   - Be careful about font choices — keep file sizes as small as possible, for example by including only the glyphs, variants, and weights you need.
 
 - How to improve "time to usable":
-
   - Minimize initial load by showing only important content initially. Make important interactive features interactive as soon as possible.
 
   - Additional data and resources can be loaded in the background as users are using the page.
@@ -75,7 +69,6 @@ Learning outcomes:
   - Use lazy loading for images and other resources that are not immediately needed.
 
 - How to improve the perceived performance of features:
-
   - Use animations to transition between states rather than making the user wait for the end state.
 
   - Use loading spinners and progress bars to indicate progress, so the user feels like something is happening.
@@ -97,7 +90,6 @@ Learning outcomes:
 - Understand key metrics for measuring performance, for example first contentful paint, speed index, total blocking time, bounce rate, unique users/page views.
 
 - How to use common performance measurement tools:
-
   - [Google Lighthouse](https://developer.chrome.com/docs/lighthouse).
 
   - [Pagespeed Insights](https://pagespeed.web.dev/).
@@ -109,7 +101,6 @@ Learning outcomes:
   - Browser DevTools.
 
 - How to use Performance Web APIs to create your own performance measurement tools:
-
   - Performance Timeline API.
 
   - Navigation Timing API.
@@ -135,7 +126,6 @@ Resources:
 Learning outcomes:
 
 - Understand techniques for improving CSS performance:
-
   - Only load when needed; optimize with media queries.
 
   - Minimize animation, and force animation on the GPU.
@@ -153,7 +143,6 @@ Resources:
 Learning outcomes:
 
 - Understand techniques for improving JavaScript performance:
-
   - Reduce the amount of JavaScript you use.
 
   - Only load JavaScript when needed, and remove unused code.

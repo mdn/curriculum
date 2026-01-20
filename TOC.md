@@ -72,7 +72,6 @@ template: module
   - [7.5 WAI-ARIA](/curriculum/3-core/7-accessibility.md#7-5-wai-aria)
 - [8 Version control fundamentals (Git/GitHub)](/curriculum/3-core/8-version-control-fundamentals-git-github.md): Version control tools are an essential part of modern workflows, for backing up and collaborating on codebases. This module takes you through the essentials of version control using Git and GitHub.
 - [9 Design for developers](/curriculum/3-core/9-design-for-developers.md): The idea of this module is to introduce developers to some design thinking. They may not want to work as a designer, but having some basic user experience and design theory under their belt will be invaluable for understanding design briefs, making their portfolios look better, and getting into the mindset of the user.
-
   - [9.1 Basic design theory](/curriculum/3-core/9-design-for-developers.md#9-1-basic-design-theory)
   - [9.2 User-centered design](/curriculum/3-core/9-design-for-developers.md#9-2-user-centered-design)
   - [9.3 Understanding design briefs](/curriculum/3-core/9-design-for-developers.md#9-3-understanding-design-briefs)

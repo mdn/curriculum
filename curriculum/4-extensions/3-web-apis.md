@@ -22,7 +22,6 @@ General resources:
 Learning outcomes:
 
 - General concepts:
-
   - Understand the different types of video and audio formats.
 
   - Understand codecs.
@@ -35,7 +34,6 @@ Learning outcomes:
   > - For now, you are expected to understand the concepts behind video and audio on the web, the basic core API functionality, and the purpose of some of the more advanced APIs.
 
 - Using the `HTMLMediaElement` API to build a basic custom media player:
-
   - Understand why you'd do this — your target audience might have specific needs not addressed by the browser defaults.
 
   - One good example is that some browser default controls are not very keyboard accessible.
@@ -45,7 +43,6 @@ Learning outcomes:
 - Using media streams/`getUserMedia()` to capture video and audio from a local device.
 
 - Handling common errors related to media delivery:
-
   - Using `<source>` elements to handle multiple formats.
 
   - Using the correct MIME type.
@@ -69,7 +66,6 @@ Resources:
 Learning outcomes:
 
 - Using timers and `requestAnimationFrame()` to set up animation loops:
-
   - Basic syntax and usage.
 
   - Understand why `requestAnimationFrame()` is an improvement over what came before it.
@@ -77,7 +73,6 @@ Learning outcomes:
   - Common use cases for animation loops, for example, decorative animations and games.
 
 - Web Animations API:
-
   - Basic syntax and usage.
 
   - Understand how the Web Animations API relates to CSS animation properties, and when should you use each one.
@@ -85,7 +80,6 @@ Learning outcomes:
   - Common use cases.
 
 - Canvas:
-
   - Understand conceptually what the `<canvas>` element and associated APIs enable.
 
   - Basic syntax and usage of the 2D Canvas API.
@@ -109,7 +103,6 @@ Resources:
 Learning outcomes:
 
 - Understand the concepts of client-side storage:
-
   - Know the common client-side data storage mechanisms — Web Storage API, cookies, Cache API, and the IndexedDB API.
 
   - Key use cases — maintaining state across reloads, persisting login and user personalization data, and local/offline working.
@@ -123,13 +116,11 @@ Learning outcomes:
   <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~08s" scrimtitle="What is localStorage?"></scrim-inline>
 
 - Using IndexedDB:
-
   - Complete client-side transactional database system.
 
   - Complex, and rarely used directly. You'd be more likely to use a library such as [dexie.js](https://dexie.org/).
 
 - Using Cache/Service Workers:
-
   - Understand the basic ideas behind their usage in Progressive Web Apps (PWAs), and the fundamental use case of making a site work offline.
 
 > **Notes**:
