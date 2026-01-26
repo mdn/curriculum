@@ -1,0 +1,30 @@
+pre-commit:
+  parallel: true
+  jobs:
+    - name: Format non-markdown
+      glob: "!*.md"
+      run: npx prettier --ignore-unknown --write {staged_files}
+      stage_fixed: true
+
+    - name: Fix markdown
+      glob: "*.md"
+      group:
+        parallel: false
+        jobs:
+          - name: Prettier
+            run: npx prettier --write {staged_files}
+            stage_fixed: true
+          - name: Markdownlint
+            run: npx markdownlint-cli2-fix {staged_files}
+            stage_fixed: true
+
+post-merge:
+  only:
+    - ref: main
+  commands:
+    npm-install:
+      run: npm install --ignore-scripts
+
+output:
+  - summary
+  - failure
