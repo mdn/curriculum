@@ -17,7 +17,7 @@
     "node": ">=24"
   },
   "dependencies": {
-    "markdownlint-cli2": "^0.8.1",
+    "markdownlint-cli2": "^0.20.0",
     "markdownlint-rule-search-replace": "^1.1.0",
     "prettier": "^3.0.0"
   },
