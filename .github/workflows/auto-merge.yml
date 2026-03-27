@@ -11,4 +11,4 @@ jobs:
     if: github.repository_owner == 'mdn'
     uses: mdn/workflows/.github/workflows/auto-merge.yml@main
     secrets:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.AUTOMERGE_TOKEN }}
