@@ -46,7 +46,7 @@ jobs:
           CONTENT_ROOT: ${{ github.workspace }}/mdn/content/files
           CURRICULUM_ROOT: ${{ github.workspace }}/mdn/curriculum
           GITHUB_TOKEN: ${{ github.token }}
-        run: npx rari build --no-basic --curriculum --issues "$BUILD_OUT_ROOT/issues.json" --templ-stats
+        run: npx @mdn/rari build --no-basic --curriculum --issues "$BUILD_OUT_ROOT/issues.json" --templ-stats
 
       - name: Report
         uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
