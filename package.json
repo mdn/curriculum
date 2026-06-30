@@ -23,7 +23,7 @@
   },
   "scripts": {
     "prepare": "lefthook install",
-    "fix": "prettier --ignore-unknown --write \"**/*.md\" && markdownlint-cli2-fix \"**/*.md\"",
+    "fix": "prettier --ignore-unknown --write \"**/*.md\" && markdownlint-cli2 --fix \"**/*.md\"",
     "lint": "prettier --ignore-unknown --check \"**/*.md\" && markdownlint-cli2 \"**/*.md\""
   },
   "devDependencies": {
