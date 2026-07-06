@@ -55,4 +55,4 @@ Includes learning resource recommendations covering every curriculum topic, help
 
   _Use our modules to guide your teaching, or enroll your students in Scrimba's Frontend Path._
 
-  [Frontend Path](https://v2.scrimba.com/the-frontend-developer-career-path-c0j?via=mdn)
+  [Frontend Path](https://scrimba.com/learn/frontend?via=mdn)
