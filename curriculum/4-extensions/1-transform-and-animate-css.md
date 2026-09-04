@@ -24,8 +24,8 @@ Learning outcomes:
 
 Resources:
 
-- [Using CSS transforms](https://developer.mozilla.org/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- [Using CSS transforms](https://developer.mozilla.org/docs/Web/CSS/Guides/Transforms/Using)
 
-- [Using CSS transitions](https://developer.mozilla.org/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- [Using CSS transitions](https://developer.mozilla.org/docs/Web/CSS/Guides/Transitions/Using)
 
-- [Using CSS animations](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [Using CSS animations](https://developer.mozilla.org/docs/Web/CSS/Guides/Animations/Using)

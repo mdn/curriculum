@@ -26,7 +26,7 @@ General resources:
 
 Resources:
 
-- [Installing basic software](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+- [Installing basic software](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Installing_software)
 
 ## 2.2 File systems
 
@@ -48,7 +48,7 @@ Resources:
 
 Resources:
 
-- [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Dealing with files](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files)
 
 ## 2.3 Browsing the web
 
@@ -62,7 +62,7 @@ Resources:
 
 Resources:
 
-- [What is the difference between web page, website, web server, and search engine?](https://developer.mozilla.org/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
+- [What is the difference between web page, website, web server, and search engine?](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Browsing_the_web)
 
 - [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond), theguardian.com (2016)
 
@@ -84,7 +84,7 @@ Resources:
 
 Resources:
 
-- [Command line crash course](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+- [Command line crash course](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
 
 - Stack Overflow is a good place to find specific solutions to command line problems, for example [How to Batch Rename Files in a macOS Terminal?](https://stackoverflow.com/questions/24102974/how-to-batch-rename-files-in-a-macos-terminal)
 

@@ -43,15 +43,15 @@ Resources:
 
 - [Requests and responses](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lr?via=mdn), Scrimba _Course Partner_
 
-- [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
 
 - [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/), freeCodeCamp (2015)
 
-- [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
+- [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name)
 
-- [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
+- [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)
 
-- [Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+- [Publishing your website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website)
 
 ## 1.2 The HTML, CSS, and JavaScript triangle
 
@@ -103,7 +103,7 @@ Resources:
 
 - [Intro to web dev basics](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0f?via=mdn), Scrimba _Course Partner_
 
-- [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
 
 - [The Web Standards Model](https://explainers.dev/web-standards-model/), explainers.dev
 
@@ -143,7 +143,7 @@ Learning outcomes:
 
 Resources:
 
-- [The web and web standards](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [The web and web standards](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
 
 - [About W3C web standards](https://www.w3.org/standards/about/), W3C
 
@@ -210,8 +210,8 @@ Learning outcomes:
 
 Resources:
 
-- [Populating the page: how browsers work](https://developer.mozilla.org/docs/Web/Performance/How_browsers_work)
+- [Populating the page: how browsers work](https://developer.mozilla.org/docs/Web/Performance/Guides/How_browsers_work)
 
-- [Dealing with files](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+- [Dealing with files](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files)
 
 - [How browsers work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/), freeCodeCamp (2018)
