@@ -42,11 +42,11 @@ Learning outcomes:
 
 Resources:
 
-- [The "why" of web performance](https://developer.mozilla.org/docs/Learn/Performance/why_web_performance)
+- [The "why" of web performance](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/why_web_performance)
 
-- [What is web performance?](https://developer.mozilla.org/en-US/docs/Learn/Performance/What_is_web_performance)
+- [What is web performance?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Performance/What_is_web_performance)
 
-- [Perceived performance](https://developer.mozilla.org/docs/Learn/Performance/Perceived_performance)
+- [Perceived performance](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/Perceived_performance)
 
 ## 4.2 Improving page rendering
 
@@ -84,11 +84,11 @@ Learning outcomes:
 
 Resources:
 
-- [Perceived performance](https://developer.mozilla.org/docs/Learn/Performance/Perceived_performance)
+- [Perceived performance](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/Perceived_performance)
 
-- [Multimedia: Images](https://developer.mozilla.org/docs/Learn/Performance/Multimedia)
+- [Multimedia: Images](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/Multimedia)
 
-- [Multimedia: Video](https://developer.mozilla.org/docs/Learn/Performance/video)
+- [Multimedia: Video](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/video)
 
 ## 4.3 Measuring performance
 
@@ -120,7 +120,7 @@ Learning outcomes:
 
 Resources:
 
-- [Measuring performance](https://developer.mozilla.org/docs/Learn/Performance/Measuring_performance)
+- [Measuring performance](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/Measuring_performance)
 
 - [Performance APIs reference](https://developer.mozilla.org/docs/Web/API/Performance_API)
 
@@ -146,7 +146,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS performance optimization](https://developer.mozilla.org/docs/Learn/Performance/CSS)
+- [CSS performance optimization](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/CSS)
 
 ## 4.5 JavaScript and performance
 
@@ -164,4 +164,4 @@ Learning outcomes:
 
 Resources:
 
-- [JavaScript performance](https://developer.mozilla.org/docs/Learn/Performance/JavaScript)
+- [JavaScript performance](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/JavaScript)

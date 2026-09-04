@@ -57,4 +57,4 @@ Resources:
 
 - [Git and GitHub intro](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02g?via=mdn), Scrimba _Course Partner_
 
-- [Git and GitHub](https://developer.mozilla.org/docs/Learn/Tools_and_testing/GitHub)
+- [Git and GitHub](https://developer.mozilla.org/docs/Learn_web_development/Core/Version_control)

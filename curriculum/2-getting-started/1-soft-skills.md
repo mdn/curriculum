@@ -122,7 +122,7 @@ These strategies include:
 
 Resources:
 
-- [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help)
+- [Learning and getting help](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Soft_skills/Research_and_learning)
 
 ## 1.4 Collaboration and teamwork
 

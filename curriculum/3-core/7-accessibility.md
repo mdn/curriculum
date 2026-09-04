@@ -52,13 +52,13 @@ Learning outcomes:
 
 Resources:
 
-- [What is accessibility?](https://developer.mozilla.org/docs/Learn/Accessibility/What_is_accessibility)
+- [What is accessibility?](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/What_is_accessibility)
 
-- [HTML: A good basis for accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/HTML)
+- [HTML: A good basis for accessibility](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/HTML)
 
-- [Handling common accessibility problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
+- [Handling common accessibility problems](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/Tooling)
 
-- [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
+- [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Guides/Understanding_WCAG)
 
 ## 7.2 Accessible styling
 
@@ -94,7 +94,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS and JavaScript accessibility best practices > CSS](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#css)
+- [CSS and JavaScript accessibility best practices > CSS](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/CSS_and_JavaScript#css)
 
 - [Inclusive design principles](https://inclusivedesignprinciples.org/), inclusivedesignprinciples.org
 
@@ -116,9 +116,9 @@ Learning outcomes:
 
 Resources:
 
-- [CSS and JavaScript accessibility best practices > JavaScript](https://developer.mozilla.org/docs/Learn/Accessibility/CSS_and_JavaScript#javascript)
+- [CSS and JavaScript accessibility best practices > JavaScript](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/CSS_and_JavaScript#javascript)
 
-- [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
+- [Mobile accessibility](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/Mobile)
 
 - [Validating input](https://www.w3.org/WAI/tutorials/forms/validation/), W3C (2019)
 
@@ -157,9 +157,9 @@ Learning outcomes:
 
 Resources:
 
-- [Handling common accessibility problems > Accessibility tools](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#accessibility_tools)
+- [Handling common accessibility problems > Accessibility tools](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/Tooling#accessibility_tools)
 
-- [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
+- [Mobile accessibility](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/Mobile)
 
 - [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/), W3C (2017)
 
@@ -187,7 +187,7 @@ Resources:
 
 - [ARIA](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~03ci?via=mdn), Scrimba _Course Partner_
 
-- [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn/Accessibility/WAI-ARIA_basics)
+- [WAI-ARIA basics](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/WAI-ARIA_basics)
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/). W3C
 

@@ -69,7 +69,7 @@ Resources:
 
 - [Security on the web](https://developer.mozilla.org/docs/Web/Security)
 
-- [Website security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
+- [Website security](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security)
 
 - [Privacy on the web](https://developer.mozilla.org/docs/Web/Privacy)
 

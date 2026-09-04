@@ -12,9 +12,9 @@ General resources:
 
 - [Learn JavaScript](https://scrimba.com/learn/learnjavascript?via=mdn), Scrimba _Course partner_
 
-- [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
 
-- [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+- [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash)
 
 ## 6.1 Variables
 
@@ -36,7 +36,7 @@ Learning outcomes:
 
 Resources:
 
-- [Storing the information you need — Variables](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Variables)
+- [Storing the information you need — Variables](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Variables)
 
 ## 6.2 Math
 
@@ -60,9 +60,9 @@ Learning outcomes:
 
 Resources:
 
-- [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Math)
+- [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Math)
 
-- [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_dates)
+- [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_strings)
 
 ## 6.3 Text
 
@@ -100,9 +100,9 @@ Learning outcomes:
 
 Resources:
 
-- [Handling text — strings in JavaScript](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Strings)
+- [Handling text — strings in JavaScript](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Strings)
 
-- [Useful string methods](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+- [Useful string methods](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Useful_string_methods)
 
 ## 6.4 Arrays
 
@@ -134,7 +134,7 @@ Resources:
 
 - [Aside: Intro to arrays](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~06e?via=mdn), Scrimba _Course Partner_
 
-- [Arrays](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Arrays)
+- [Arrays](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Arrays)
 
 ## 6.5 Conditionals
 
@@ -154,7 +154,7 @@ Learning outcomes:
 
 Resources:
 
-- [Making decisions in your code — conditionals](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [Making decisions in your code — conditionals](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Conditionals)
 
 ## 6.6 Loops
 
@@ -174,7 +174,7 @@ Learning outcomes:
 
 Resources:
 
-- [Looping code](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [Looping code](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Loops)
 
 ## 6.7 Functions
 
@@ -212,11 +212,11 @@ Resources:
 
 - [Using functions to write less code](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~04g?via=mdn), Scrimba _Course Partner_
 
-- [Functions — reusable blocks of code](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Functions)
+- [Functions — reusable blocks of code](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Functions)
 
-- [Build your own function](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
+- [Build your own function](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Build_your_own_function)
 
-- [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
+- [Function return values](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Return_values)
 
 - [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
@@ -244,9 +244,9 @@ Learning outcomes:
 
 Resources:
 
-- [JavaScript object basics](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/Basics)
+- [JavaScript object basics](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Object_basics)
 
-- [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring)
 
 ## 6.9 DOM scripting
 
@@ -270,7 +270,7 @@ Learning outcomes:
 
 Resources:
 
-- [Manipulating documents](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- [Manipulating documents](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/DOM_scripting)
 
 - [DOM Scripting](https://explainers.dev/dom-scripting/), explainers.dev
 
@@ -296,7 +296,7 @@ Learning outcomes:
 
 Resources:
 
-- [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
+- [Introduction to events](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Events)
 
 ## 6.11 Async JavaScript basics
 
@@ -324,17 +324,17 @@ Learning outcomes:
 
 Resources:
 
-- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Async_JS)
 
 ## 6.12 Network requests with fetch()
 
 Learning outcomes:
 
-- Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common asynchronous JavaScript use case on the web.
+- Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/fetch) is used for asynchronous network requests, which is by far the most common asynchronous JavaScript use case on the web.
 
 - Common types of resources that are fetched from the network:
 
-  - Text content, [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), media assets, etc.
+  - Text content, [JSON](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON), media assets, etc.
 
   - Data from [RESTful APIs](https://developer.mozilla.org/docs/Glossary/REST). Learn the basic concepts behind REST, including common patterns such as [CRUD](https://developer.mozilla.org/en-US/docs/Glossary/CRUD).
 
@@ -344,11 +344,11 @@ Learning outcomes:
 
   - Usability issues behind asynchronous updates, like loss of history and breaking the back button.
 
-- Understand [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) basics. You should look at common HTTP methods such as `GET`, `DELETE`, `POST`, and `PUT`, and how they are handled via `fetch()`.
+- Understand [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview) basics. You should look at common HTTP methods such as `GET`, `DELETE`, `POST`, and `PUT`, and how they are handled via `fetch()`.
 
 Resources:
 
-- [Fetching data from the server](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [Fetching data from the server](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Network_requests)
 
 ## 6.13 Working with JSON
 
@@ -366,7 +366,7 @@ Learning outcomes:
 
 Resources:
 
-- [Working with JSON](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/JSON)
+- [Working with JSON](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/JSON)
 
 - [JSON Review](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lt?via=mdn), Scrimba _Course Partner_
 
@@ -422,7 +422,7 @@ Learning outcomes:
 
 Resources:
 
-- [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
+- [Introduction to client-side frameworks](https://developer.mozilla.org/docs/Learn_web_development/Core/Frameworks_libraries/Introduction)
 
 - [Introduction to React](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0q2?via=mdn), Scrimba _Course Partner_
 
@@ -452,7 +452,7 @@ Learning outcomes:
 
 Resources:
 
-- [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/What_went_wrong)
+- [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/What_went_wrong)
 
 - [Control flow and error handling > Exception handling statements](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
 

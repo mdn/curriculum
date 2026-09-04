@@ -56,7 +56,7 @@ Learning outcomes:
 
 Resources:
 
-- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
+- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn_web_development/Core/Text_styling/Fundamentals)
 
 <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0p0" scrimtitle="Learn UI Design Intro"></scrim-inline>
 
@@ -92,7 +92,7 @@ Learning outcomes:
 
 Resources:
 
-- [Accessibility overview](https://developer.mozilla.org/docs/Learn/Accessibility)
+- [Accessibility overview](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility)
 
 - [Inclusive design principles](https://inclusivedesignprinciples.info/), inclusivedesignprinciples.info
 

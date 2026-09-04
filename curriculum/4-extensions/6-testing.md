@@ -76,7 +76,7 @@ Learning outcomes:
 
 Resources:
 
-- [Cross-browser testing](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing)
+- [Cross-browser testing](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Testing)
 
 ## 6.3 Usability testing
 

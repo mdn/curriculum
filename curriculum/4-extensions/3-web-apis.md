@@ -15,7 +15,7 @@ This module covers common aspects of three of the most common classes of Web API
 
 General resources:
 
-- [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs)
 
 ## 3.1 Video and audio APIs
 
@@ -56,13 +56,13 @@ Learning outcomes:
 
 Resources:
 
-- [Video and audio APIs](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+- [Video and audio APIs](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Client-side_APIs/Video_and_audio_APIs)
 
-- [Audio and video delivery](https://developer.mozilla.org/docs/Web/Guide/Audio_and_video_delivery)
+- [Audio and video delivery](https://developer.mozilla.org/docs/Web/Media/Guides/Audio_and_video_delivery)
 
-- [Audio and video manipulation](https://developer.mozilla.org/docs/Web/Guide/Audio_and_video_manipulation)
+- [Audio and video manipulation](https://developer.mozilla.org/docs/Web/Media/Guides/Audio_and_video_manipulation)
 
-- [​​Media type and format guide: image, audio, and video content](https://developer.mozilla.org/docs/Web/Media/Formats)
+- [​​Media type and format guide: image, audio, and video content](https://developer.mozilla.org/docs/Web/Media/Guides/Formats)
 
 ## 3.2 Graphics/animation APIs
 
@@ -94,7 +94,7 @@ Learning outcomes:
 
 Resources:
 
-- [Drawing graphics](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
+- [Drawing graphics](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Client-side_APIs/Drawing_graphics)
 
 - [Web Animations API](https://developer.mozilla.org/docs/Web/API/Web_Animations_API)
 
@@ -140,8 +140,8 @@ Resources:
 
 - [What is localStorage?](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~08s?via=mdn), Scrimba _Course Partner_
 
-- [Client-side storage](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- [Client-side storage](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Client-side_APIs/Client-side_storage)
 
-- [Using HTTP cookies](https://developer.mozilla.org/docs/Web/HTTP/Cookies)
+- [Using HTTP cookies](https://developer.mozilla.org/docs/Web/HTTP/Guides/Cookies)
 
 - [What is a progressive web app?](https://developer.mozilla.org/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)

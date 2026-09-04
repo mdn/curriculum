@@ -30,7 +30,7 @@ Learning outcomes:
 
 Resources:
 
-- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Fundamentals)
+- [Fundamental text and font styling](https://developer.mozilla.org/docs/Learn_web_development/Core/Text_styling/Fundamentals)
 
 - [Text and typography](https://web.dev/learn/css/typography/), web.dev (2021)
 
@@ -56,9 +56,9 @@ Learning outcomes:
 
 Resources:
 
-- [Styling lists](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Styling_lists)
+- [Styling lists](https://developer.mozilla.org/docs/Learn_web_development/Core/Text_styling/Styling_lists)
 
-- [Styling links](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Styling_links)
+- [Styling links](https://developer.mozilla.org/docs/Learn_web_development/Core/Text_styling/Styling_links)
 
 ## 4.3 Web fonts
 
@@ -78,7 +78,7 @@ Learning outcomes:
 
 Resources:
 
-- [Web fonts](https://developer.mozilla.org/docs/Learn/CSS/Styling_text/Web_fonts)
+- [Web fonts](https://developer.mozilla.org/docs/Learn_web_development/Core/Text_styling/Web_fonts)
 
 - [Fonts Knowledge](https://fonts.google.com/knowledge), Google Fonts
 
