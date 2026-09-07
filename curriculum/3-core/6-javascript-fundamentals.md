@@ -62,7 +62,7 @@ Resources:
 
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Math)
 
-- [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_dates)
+- [Numbers and strings](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_strings)
 
 ## 6.3 Text
 
@@ -77,13 +77,11 @@ Learning outcomes:
 - Escaping characters in strings.
 
 - Template literals:
-
   - Using variables in template literals.
 
   - Multiline template literals.
 
 - String manipulation using common properties and methods such as:
-
   - `length`.
 
   - `toString()`.
@@ -117,7 +115,6 @@ Learning outcomes:
 - Modifying array values with `myArray[x] = y`.
 
 - Array manipulation using common properties and methods, such as:
-
   - `length`.
 
   - `indexOf()`.
@@ -199,7 +196,6 @@ Learning outcomes:
 - Named and anonymous functions.
 
 - Building your own custom functions:
-
   - Including parameters.
 
   - Including return values.
@@ -218,8 +214,6 @@ Resources:
 
 - [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
 
-- [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-
 ## 6.8 JavaScript object basics
 
 Learning outcomes:
@@ -227,7 +221,6 @@ Learning outcomes:
 - Understand that in JavaScript most things are objects, and you've probably used objects every time you've touched JavaScript.
 
 - Basic syntax:
-
   - Object literals.
 
   - Properties and methods.
@@ -246,7 +239,7 @@ Resources:
 
 - [JavaScript object basics](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/Basics)
 
-- [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Destructuring](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring)
 
 ## 6.9 DOM scripting
 
@@ -281,7 +274,6 @@ Learning outcomes:
 - Understand what events are — a signal fired by the browser when something significant happens, which the developer can run some code in response to.
 
 - Event handlers:
-
   - `addEventListener()` and `removeEventListener()`
 
   - Event handler properties.
@@ -298,6 +290,8 @@ Resources:
 
 - [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
 
+- [Event bubbling](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Event_bubbling)
+
 ## 6.11 Async JavaScript basics
 
 Learning outcomes:
@@ -307,7 +301,6 @@ Learning outcomes:
 - Understand that callbacks and events have historically provided the means to do asynchronous programming in JavaScript.
 
 - Modern asynchronous programming with async functions and `await`:
-
   - Basic usage.
 
   - Understanding async function return values.
@@ -315,7 +308,6 @@ Learning outcomes:
   - Error handling with `try ... catch`.
 
 - Promises:
-
   - Understand that `async`/`await` use promises under the hood; they provide a simpler abstraction.
 
   - Chaining promises.
@@ -333,13 +325,11 @@ Learning outcomes:
 - Understand that [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/fetch) is used for asynchronous network requests, which is by far the most common asynchronous JavaScript use case on the web.
 
 - Common types of resources that are fetched from the network:
-
   - Text content, [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), media assets, etc.
 
   - Data from [RESTful APIs](https://developer.mozilla.org/docs/Glossary/REST). Learn the basic concepts behind REST, including common patterns such as [CRUD](https://developer.mozilla.org/en-US/docs/Glossary/CRUD).
 
 - Understand what single-page apps (SPAs) are, and the issues surrounding them:
-
   - Accessibility issues behind asynchronous updates, for example, content updates not being announced by screen readers by default.
 
   - Usability issues behind asynchronous updates, like loss of history and breaking the back button.
@@ -348,7 +338,7 @@ Learning outcomes:
 
 Resources:
 
-- [Fetching data from the server](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [Making network requests with JavaScript](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Network_requests)
 
 ## 6.13 Working with JSON
 
@@ -379,7 +369,6 @@ Learning outcomes:
 - Understand what third-party code is — functionality written by someone else that you can use in your own project, so you don't have to write everything yourself.
 
 - Why developers use third-party code:
-
   - Efficiency and productivity: A huge amount of complex functionality is already written for you to use, created in a way that enforces efficient, modular code organization.
 
   - Compatibility: Reputable framework code is already optimized to work across browsers/devices, for performance, etc. Many frameworks also have systems to output to specific platforms (e.g. Android or iOS) as build targets.
@@ -387,19 +376,16 @@ Learning outcomes:
   - Support/ecosystem: Popular frameworks have vibrant communities and help resources to provide support, and rich systems of extensions/plugins to add functionality.
 
 - The difference between libraries and frameworks:
-
   - A library tends to be a single code component that offers a solution to a specific problem, which you can integrate into your own app (for example, [chart.js](https://www.chartjs.org/) for creating `<canvas>`-based charts, or [three.js](https://threejs.org/) for simplified 3D GPU-based graphics rendering), whereas a framework tends to be a more expansive architecture made up of multiple components for building complete applications.
 
   - A library tends to be unopinionated about how you work with it in your codebase, whereas a framework tends to enforce a specific coding style and control flow.
 
 - Why should you use frameworks?
-
   - They can provide a lot of functionality and save you a lot of time.
 
   - A lot of companies use popular frameworks such as React or Angular to write their applications, therefore a lot of jobs list frameworks as requirements for applicants to have.
 
 - Why is a framework not always the right choice? A framework:
-
   - Can easily be overkill for a small project — you might be better off writing a few lines of vanilla JavaScript to solve the problem or using a tailored library.
 
   - Usually adds a lot of JavaScript to the initial download of your application, leading to an initial performance hit and possible usability issues.
@@ -413,7 +399,6 @@ Learning outcomes:
   - May introduce significant accessibility issues for people using assistive technologies because of its architecture (for example, SPA-style client-side routing), which will need to be considered carefully.
 
 - How to choose? A good library or framework must:
-
   - Solve your problems while offering advantages that significantly outweigh any negatives that it brings to the table.
 
   - Have good support and a friendly community.
@@ -441,7 +426,6 @@ Learning outcomes:
 - Using `console.log()` and `console.error()` for simple debugging.
 
 - Error handling:
-
   - Using conditionals to avoid errors.
 
   - `try ... catch`.

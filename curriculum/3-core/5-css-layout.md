@@ -20,8 +20,6 @@ Resources:
 
 - [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
 
-- [Normal flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
-
 ## 5.2 Floats
 
 Learning outcomes:
@@ -47,13 +45,11 @@ Learning outcomes:
 - Understand that `static` positioning is the default way elements are positioned on the page.
 
 - Relative positioning:
-
   - Understand that relatively positioned elements remain in the normal flow.
 
   - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties.
 
 - Absolute positioning:
-
   - Absolute (and fixed/sticky) positioning takes elements completely out of the normal flow to sit in a separate layer.
 
   - `top`, `bottom`, `left`, `right`, and `inset` have different effects on absolutely-positioned elements than on relatively-positioned ones.
@@ -63,7 +59,6 @@ Learning outcomes:
     <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5" scrimtitle="Relative and Absolute Position"></scrim-inline>
 
 - Fixed and sticky positioning:
-
   - Understand how these differ from absolute positioning.
 
 - Understand what z-index is, and how to control the stacking of positioned elements with the `z-index` property.
@@ -83,15 +78,12 @@ Learning outcomes:
 - In general, gain an understanding of modern CSS layout techniques.
 
 - Understand that, for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective:
-
   - Margins and padding for spacing.
 
   - Auto margins for horizontal centering tasks (e.g. `margin: 0 auto`).
 
 - Flexbox:
-
   - Understand the purpose of flexbox — flexibly lay out a set of block or inline elements in one dimension.
-
     - See [We have a problem that flexbox can fix](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039?via=mdn) by Scrimba _Course Partner_ for a use case example.
 
   - Understand flex terminology — flex container, flex item, main axis, and cross axis.
@@ -109,7 +101,6 @@ Learning outcomes:
     <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039" scrimtitle="Flexbox Demonstration"></scrim-inline>
 
 - CSS Grid:
-
   - Understand the purpose of CSS Grid — flexibly lay out a set of block or inline elements in two dimensions.
 
   - Understand grid terminology — rows, columns, gaps, and gutters.
@@ -117,7 +108,6 @@ Learning outcomes:
   - `display: grid`, and what it gives you by default.
 
   - Defining grid rows and columns:
-
     - The `fr` unit.
 
     - `minmax()`.
@@ -130,7 +120,7 @@ Resources:
 
 - [Flexbox](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Flexbox)
 
-- [Grids](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Grids)
+- [CSS Grid layout](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Grids)
 
 ## 5.5 Responsive design
 
@@ -141,7 +131,6 @@ Learning outcomes:
 - Understand the relationship between modern layout tools such as grid and flexbox, and responsive design.
 
 - Media queries:
-
   - The mobile-first technique.
 
   - Understand breakpoints.
@@ -149,15 +138,14 @@ Learning outcomes:
   - Using `width` and `height` media queries to create responsive layouts.
 
 - `<meta viewport="">`, and how to use it to get web documents to display appropriately on mobile devices.
-
   - For the sake of accessibility, never set `user-scalable=no`.
 
 Resources:
 
 - [Build a responsive site: Module intro](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij?via=mdn), Scrimba _Course Partner_
 
-- [Responsive design](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [Responsive web design](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)
 
-- [Beginner's guide to media queries](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Media_queries)
+- [Media query fundamentals](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Media_queries)
 
 <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij" scrimtitle="Responsive Design Intro"></scrim-inline>

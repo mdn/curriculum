@@ -12,6 +12,8 @@ General resources:
 
 - [Privacy on the web](https://developer.mozilla.org/en-US/docs/Web/Privacy)
 
+- [Security](https://developer.mozilla.org/docs/Web/Security)
+
 - [Learn Privacy](https://web.dev/learn/privacy/), web.dev (2023)
 
 ## 5.1 Security and privacy basics
@@ -30,7 +32,6 @@ Learning outcomes:
 - Learn what HTTPS is, and why it is important.
 
 - Same-origin security:
-
   - Why this is fundamental to the web.
 
   - Ways of working around it safely, such as Cross-Origin Resource Sharing (CORS).
@@ -38,7 +39,6 @@ Learning outcomes:
 - How cookies are stored, and their security and privacy implications, such as tracking.
 
 - Learn about situations where security issues generally occur:
-
   - When asking users to provide sensitive data (such as passwords or credit card data) and transmitting it to a server.
 
   - When requesting data from a server.
@@ -48,7 +48,6 @@ Learning outcomes:
   - When preserving user state by setting a cookie or other mechanisms.
 
 - Learn about common security threats and how to mitigate them:
-
   - Cross-site scripting (XSS).
 
   - Cross-site request forgery (CSRF).
@@ -58,7 +57,6 @@ Learning outcomes:
   - Denial of service (DoS).
 
 - Understand the purpose of other important technologies, such as:
-
   - Content Security Policy (CSP).
 
   - Permissions-Policy.
@@ -67,18 +65,13 @@ Learning outcomes:
 
 Resources:
 
-- [Security on the web](https://developer.mozilla.org/docs/Web/Security)
-
 - [Website security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
-
-- [Privacy on the web](https://developer.mozilla.org/docs/Web/Privacy)
 
 ## 5.2 Data protection laws
 
 Learning outcomes:
 
 - Understand fundamental concepts related to user privacy:
-
   - Personally identifiable information (PII).
 
   - Confidentiality.
@@ -88,7 +81,6 @@ Learning outcomes:
   - Fingerprinting.
 
 - Be aware of regional privacy laws, for example:
-
   - [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (EU).
 
   - [Data Protection Act 2018](https://www.gov.uk/data-protection) (UK), gov.uk.
