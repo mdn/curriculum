@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "lefthook": "^2.0.15"
+  },
+  "allowScripts": {
+    "lefthook": true
   }
 }
