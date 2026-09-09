@@ -16,17 +16,15 @@
   "engines": {
     "node": ">=24"
   },
-  "dependencies": {
-    "markdownlint-cli2": "^0.23.2",
-    "markdownlint-rule-search-replace": "^1.1.0",
-    "prettier": "^3.0.0"
-  },
   "scripts": {
     "prepare": "lefthook install",
     "fix": "prettier --ignore-unknown --write \"**/*.md\" && markdownlint-cli2 --fix \"**/*.md\"",
     "lint": "prettier --ignore-unknown --check \"**/*.md\" && markdownlint-cli2 \"**/*.md\""
   },
   "devDependencies": {
-    "lefthook": "^2.0.15"
+    "lefthook": "^2.0.15",
+    "markdownlint-cli2": "^0.23.2",
+    "markdownlint-rule-search-replace": "^1.1.0",
+    "prettier": "^3.0.0"
   }
 }
