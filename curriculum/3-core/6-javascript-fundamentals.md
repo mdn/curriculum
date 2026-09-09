@@ -268,7 +268,7 @@ Learning outcomes:
 
 Resources:
 
-- [Manipulating documents](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/DOM_scripting)
+- [DOM scripting introduction](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/DOM_scripting)
 
 - [DOM Scripting](https://explainers.dev/dom-scripting/), explainers.dev
 
