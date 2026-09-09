@@ -6,7 +6,7 @@ template: module
 
 # 7. JavaScript frameworks
 
-JavaScript frameworks are commonly used by companies to build web applications. It is therefore beneficial to learn about popular frameworks and use cases (as listed below) for better employment prospects.
+JavaScript frameworks are commonly used by companies to build web applications. It is therefore beneficial to learn about popular frameworks and use cases for better employment prospects.
 
 > **Notes**:
 >
@@ -19,9 +19,9 @@ Learning outcomes:
 
 - Understand how to start using frameworks:
 
-  - Link to the relevant JavaScript files, either locally or on a [CDN](https://developer.mozilla.org/docs/Glossary/CDN) (not usually recommended).
+  - Link to the relevant JavaScript files, either locally or on a [CDN](https://developer.mozilla.org/docs/Glossary/CDN).
 
-  - Use a dependency manager such as npm to add it to your project.
+  - Use a dependency manager such as [npm](https://www.npmjs.com/) to add it to your project.
 
   - Install a CLI such as [Vite](https://vitejs.dev/) and use it to generate a skeleton framework-based application that you can modify. This is the easiest way to get started.
 
@@ -41,7 +41,7 @@ Learning outcomes:
 
   - Templating language:
 
-    - Usually a domain-specific language (DSL) such as JSX or handlebars.
+    - Usually a domain-specific language (DSL) such as [JSX](https://react.dev/learn/writing-markup-with-jsx) or [handlebars](https://handlebarsjs.com/).
 
     - Includes features such as filtering and conditional rendering.
 
@@ -74,11 +74,3 @@ Resources:
 - [Framework main features](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features)
 
 - [Getting started with React](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-
-- [Getting started with Vue](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
-
-- [Getting started with Ember](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
-
-- [Getting started with Svelte](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
-
-- [Getting started with Angular](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)

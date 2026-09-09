@@ -12,6 +12,8 @@ General resources:
 
 - [Privacy on the web](https://developer.mozilla.org/en-US/docs/Web/Privacy)
 
+- [Security](https://developer.mozilla.org/docs/Web/Security)
+
 - [Learn Privacy](https://web.dev/learn/privacy/), web.dev (2023)
 
 ## 5.1 Security and privacy basics
@@ -67,11 +69,7 @@ Learning outcomes:
 
 Resources:
 
-- [Security on the web](https://developer.mozilla.org/docs/Web/Security)
-
 - [Website security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
-
-- [Privacy on the web](https://developer.mozilla.org/docs/Web/Privacy)
 
 ## 5.2 Data protection laws
 

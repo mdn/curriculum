@@ -103,7 +103,7 @@ Resources:
 
 - [Intro to web dev basics](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0f?via=mdn), Scrimba _Course Partner_
 
-- [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [The web standards model](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
 
 - [The Web Standards Model](https://explainers.dev/web-standards-model/), explainers.dev
 
@@ -143,7 +143,7 @@ Learning outcomes:
 
 Resources:
 
-- [The web and web standards](https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
+- [The web standards model](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
 
 - [About W3C web standards](https://www.w3.org/standards/about/), W3C
 

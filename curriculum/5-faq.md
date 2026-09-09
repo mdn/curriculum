@@ -54,4 +54,4 @@ It is also worth pointing out that Scrimba's courses are not necessary to make u
 
 ### Is a certification awarded on completing Scrimba's Frontend Developer Career Path?
 
-Yes, once you complete all the topics in the Frontend Developer Career Path, you can access a certificate of completion to share with potential employers or include in your portfolio. See [Where can I find my completion certificate?](https://forum.scrimba.com/t/where-can-i-find-my-completion-certificate/43?via=mdn) for more information.
+Yes, once you complete all the topics in the Frontend Developer Career Path, you can access a certificate of completion to share with potential employers or include in your portfolio. See [Scrimba Certificates](https://scrimbaguide.tech/docs/how-it-works/certificates/?via=mdn) for more information.

@@ -62,7 +62,7 @@ Resources:
 
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/docs/Learn/JavaScript/First_steps/Math)
 
-- [Numbers and dates](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_dates)
+- [Numbers and strings](https://developer.mozilla.org/docs/Web/JavaScript/Guide/Numbers_and_strings)
 
 ## 6.3 Text
 
@@ -218,8 +218,6 @@ Resources:
 
 - [Function return values](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Return_values)
 
-- [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-
 ## 6.8 JavaScript object basics
 
 Learning outcomes:
@@ -246,7 +244,7 @@ Resources:
 
 - [JavaScript object basics](https://developer.mozilla.org/docs/Learn/JavaScript/Objects/Basics)
 
-- [Object destructuring assignment](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Destructuring](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Destructuring)
 
 ## 6.9 DOM scripting
 
@@ -298,6 +296,8 @@ Resources:
 
 - [Introduction to events](https://developer.mozilla.org/docs/Learn/JavaScript/Building_blocks/Events)
 
+- [Event bubbling](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Event_bubbling)
+
 ## 6.11 Async JavaScript basics
 
 Learning outcomes:
@@ -348,7 +348,7 @@ Learning outcomes:
 
 Resources:
 
-- [Fetching data from the server](https://developer.mozilla.org/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [Making network requests with JavaScript](https://developer.mozilla.org/docs/Learn_web_development/Core/Scripting/Network_requests)
 
 ## 6.13 Working with JSON
 

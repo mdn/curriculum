@@ -62,7 +62,7 @@ Resources:
 
 Resources:
 
-- [What is the difference between web page, website, web server, and search engine?](https://developer.mozilla.org/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
+- [Browsing the web](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Environment_setup/Browsing_the_web)
 
 - [How to use search like a pro: 10 tips and tricks for Google and beyond](https://www.theguardian.com/technology/2016/jan/15/how-to-use-search-like-a-pro-10-tips-and-tricks-for-google-and-beyond), theguardian.com (2016)
 

@@ -20,8 +20,6 @@ Resources:
 
 - [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
 
-- [Normal flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
-
 ## 5.2 Floats
 
 Learning outcomes:
@@ -130,7 +128,7 @@ Resources:
 
 - [Flexbox](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Flexbox)
 
-- [Grids](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Grids)
+- [CSS Grid layout](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Grids)
 
 ## 5.5 Responsive design
 
@@ -156,8 +154,8 @@ Resources:
 
 - [Build a responsive site: Module intro](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij?via=mdn), Scrimba _Course Partner_
 
-- [Responsive design](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [Responsive web design](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)
 
-- [Beginner's guide to media queries](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Media_queries)
+- [Media query fundamentals](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Media_queries)
 
 <scrim-inline url="https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij" scrimtitle="Responsive Design Intro"></scrim-inline>

@@ -79,6 +79,7 @@ These strategies include:
   - Join community groups where you can look for answers. For example:
 
     - [The MDN Web Docs community](https://discord.gg/apa6Rn7uEj) on Discord
+
     - [Scrimba](https://scrimba.com/?via=mdn) _Course partner_
 
     - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -122,7 +123,7 @@ These strategies include:
 
 Resources:
 
-- [Learning and getting help](https://developer.mozilla.org/docs/Learn/Learning_and_getting_help)
+- [Research and learning](https://developer.mozilla.org/docs/Learn_web_development/Getting_started/Soft_skills/Research_and_learning)
 
 ## 1.4 Collaboration and teamwork
 

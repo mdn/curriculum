@@ -262,6 +262,7 @@ Resources:
 - [Input tags](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0n?via=mdn), Scrimba _Course Partner_
 
 - [Forms and buttons in HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms)
+
 - [Web forms](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms) module
 
 ## 2.8 HTML tables
@@ -280,7 +281,9 @@ Learning outcomes:
 
 Resources:
 
-- [HTML tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
+- [HTML table basics](https://developer.mozilla.org/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics)
+
+- [HTML table accessibility](https://developer.mozilla.org/docs/Learn_web_development/Core/Structuring_content/Table_accessibility)
 
 ## 2.9 Debugging HTML
 

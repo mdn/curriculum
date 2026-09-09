@@ -92,7 +92,7 @@ Learning outcomes:
 
 Resources:
 
-- [Accessibility overview](https://developer.mozilla.org/docs/Learn/Accessibility)
+- [Accessibility on the web](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility)
 
 - [Inclusive design principles](https://inclusivedesignprinciples.info/), inclusivedesignprinciples.info
 

@@ -62,7 +62,7 @@ Resources:
 
 - [Audio and video manipulation](https://developer.mozilla.org/docs/Web/Guide/Audio_and_video_manipulation)
 
-- [​​Media type and format guide: image, audio, and video content](https://developer.mozilla.org/docs/Web/Media/Formats)
+- [Media types and formats for image, audio, and video content](https://developer.mozilla.org/docs/Web/Media/Guides/Formats)
 
 ## 3.2 Graphics/animation APIs
 

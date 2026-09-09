@@ -164,4 +164,4 @@ Learning outcomes:
 
 Resources:
 
-- [JavaScript performance](https://developer.mozilla.org/docs/Learn/Performance/JavaScript)
+- [JavaScript performance optimization](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Performance/JavaScript)

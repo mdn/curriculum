@@ -56,9 +56,7 @@ Resources:
 
 - [HTML: A good basis for accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/HTML)
 
-- [Handling common accessibility problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
-
-- [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
+- [Understanding the Web Content Accessibility Guidelines (WCAG)](https://developer.mozilla.org/docs/Web/Accessibility/Understanding_WCAG)
 
 ## 7.2 Accessible styling
 
@@ -130,10 +128,8 @@ Learning outcomes:
 
   - What they are used for, and who uses them.
 
-  > **Notes**:
-  >
-  > - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed below), but to be aware of their existence and the types of people who use them, and also to appreciate how and why accessibility best practices work.
-  > - It is also a good idea for web developers to use screen readers or other types of assistive technology, to get an idea of what the web experience is like for users of those technologies.
+    - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed below), but to be aware of their existence and the types of people who use them, and also to appreciate how and why accessibility best practices work.
+    - It is also a good idea for web developers to use screen readers or other types of assistive technology, to get an idea of what the web experience is like for users of those technologies.
 
   - The importance of source order.
 
@@ -157,7 +153,7 @@ Learning outcomes:
 
 Resources:
 
-- [Handling common accessibility problems > Accessibility tools](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility#accessibility_tools)
+- [Accessibility tooling and assistive technology](https://developer.mozilla.org/docs/Learn_web_development/Core/Accessibility/Tooling)
 
 - [Mobile accessibility](https://developer.mozilla.org/docs/Learn/Accessibility/Mobile)
 

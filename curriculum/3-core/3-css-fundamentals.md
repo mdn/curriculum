@@ -54,10 +54,6 @@ Resources:
 
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
 
-- [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
-
-- [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
-
 ## 3.2 Selectors
 
 Learning outcomes:
@@ -82,7 +78,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+- [Basic CSS selectors](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)
 
 - [CSS classes](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01d?via=mdn), Scrimba _Course Partner_
 
@@ -136,7 +132,7 @@ Learning outcomes:
 
 Resources:
 
-- [Cascade, specificity, and inheritance](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+- [Handling conflicts](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)
 
 ## 3.5 Values and units
 
@@ -180,7 +176,7 @@ Resources:
 
 - [Sizing items in CSS](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
 
-- [Handling different text directions > Logical properties](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Handling_different_text_directions#logical_properties_and_values)
+- [Handling different text directions > Logical properties and values](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Handling_different_text_directions#logical_properties_and_values)
 
 ## 3.7 Backgrounds and borders
 
