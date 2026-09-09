@@ -130,6 +130,7 @@ Learning outcomes:
 
     - The aim here is not to master the usage of all assistive technology types (there are many that we have not listed below), but to be aware of their existence and the types of people who use them, and also to appreciate how and why accessibility best practices work.
     - It is also a good idea for web developers to use screen readers or other types of assistive technology, to get an idea of what the web experience is like for users of those technologies.
+
   - The importance of source order.
 
   - The accessibility layer in browsers, and how assistive technologies hook into it.
