@@ -18,7 +18,7 @@ Learning outcomes:
 
 Resources:
 
-- [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
+- [Introduction to CSS layout](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Introduction)
 
 ## 5.2 Floats
 
@@ -34,7 +34,7 @@ Learning outcomes:
 
 Resources:
 
-- [Floats](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Floats)
+- [Floats](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Floats)
 
 - [All About FLoats](https://css-tricks.com/all-about-floats/), CSS-Tricks (2021)
 
@@ -68,11 +68,11 @@ Learning outcomes:
 
 Resources:
 
-- [Positioning](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Positioning)
+- [Positioning](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Positioning)
 
 - [Aside: Position: relative & absolute](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5?via=mdn), Scrimba _Course Partner_
 
-- [Stacking context](https://developer.mozilla.org/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_context)
+- [Stacking context](https://developer.mozilla.org/docs/Web/CSS/Guides/Positioned_layout/Stacking_context)
 
 ## 5.4 Modern layout
 
@@ -126,7 +126,7 @@ Learning outcomes:
 
 Resources:
 
-- [Flexbox](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Flexbox](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Flexbox)
 
 - [CSS Grid layout](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Grids)
 

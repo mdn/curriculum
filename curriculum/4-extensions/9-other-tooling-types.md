@@ -46,4 +46,4 @@ Learning outcomes — understand the purpose and basic usage of other common too
 
 Resources:
 
-- [Understanding client-side web development tools](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
+- [Understanding client-side web development tools](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_tools)

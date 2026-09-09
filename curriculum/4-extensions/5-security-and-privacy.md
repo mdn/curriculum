@@ -69,7 +69,7 @@ Learning outcomes:
 
 Resources:
 
-- [Website security](https://developer.mozilla.org/docs/Learn/Server-side/First_steps/Website_security)
+- [Website security](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security)
 
 ## 5.2 Data protection laws
 

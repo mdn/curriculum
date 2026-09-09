@@ -71,6 +71,6 @@ Resources:
 
 - [Learn React](https://scrimba.com/learn/learnreact?via=mdn), Scrimba _Course partner_
 
-- [Framework main features](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features)
+- [Framework main features](https://developer.mozilla.org/docs/Learn_web_development/Core/Frameworks_libraries/Main_features)
 
-- [Getting started with React](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [Getting started with React](https://developer.mozilla.org/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started)

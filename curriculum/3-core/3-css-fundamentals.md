@@ -50,9 +50,9 @@ Learning outcomes:
 
 Resources:
 
-- [What is CSS?](https://developer.mozilla.org/docs/Learn/CSS/First_steps/What_is_CSS)
+- [What is CSS?](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)
 
-- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started)
 
 ## 3.2 Selectors
 
@@ -108,7 +108,7 @@ Learning outcomes:
 
 Resources:
 
-- [The box model](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/The_box_model)
+- [The box model](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Box_model)
 
 - [Box Model](https://web.dev/learn/css/box-model/), web.dev (2019)
 
@@ -158,7 +158,7 @@ Learning outcomes:
 
 Resources:
 
-- [CSS values and units](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Values_and_units)
+- [CSS values and units](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Values_and_units)
 
 ## 3.6 Sizing
 
@@ -174,7 +174,7 @@ Learning outcomes:
 
 Resources:
 
-- [Sizing items in CSS](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+- [Sizing items in CSS](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Sizing)
 
 - [Handling different text directions > Logical properties and values](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Handling_different_text_directions#logical_properties_and_values)
 
@@ -206,7 +206,7 @@ Resources:
 
 - [Border and border-radius](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~01j?via=mdn), Scrimba _Course Partner_
 
-- [Backgrounds and borders](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
+- [Backgrounds and borders](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders)
 
 ## 3.8 Overflow
 
@@ -218,7 +218,7 @@ Learning outcomes:
 
 Resources:
 
-- [Overflowing content](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Overflowing_content)
+- [Overflowing content](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Overflow)
 
 ## 3.9 Styling form elements
 
@@ -244,11 +244,11 @@ Learning outcomes:
 
 Resources:
 
-- [Images, media, and form elements](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Images_media_form_elements)
+- [Images, media, and form elements](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Images_media_forms)
 
-- [Styling web forms](https://developer.mozilla.org/docs/Learn/Forms/Styling_web_forms)
+- [Styling web forms](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Forms/Styling_web_forms)
 
-- [Advanced form styling](https://developer.mozilla.org/docs/Learn/Forms/Advanced_form_styling)
+- [Advanced form styling](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Forms/Advanced_form_styling)
 
 ## 3.10 Debugging CSS
 
@@ -268,9 +268,9 @@ Learning outcomes:
 
 Resources:
 
-- [Debugging CSS](https://developer.mozilla.org/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+- [Debugging CSS](https://developer.mozilla.org/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)
 
-- [Handling common HTML and CSS problems](https://developer.mozilla.org/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS)
+- [Handling common HTML and CSS problems](https://developer.mozilla.org/docs/Learn_web_development/Extensions/Testing/HTML_and_CSS)
 
 - [Firefox > Examine and edit CSS](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html), Firefox Source Docs
 
