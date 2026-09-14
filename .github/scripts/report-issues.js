@@ -18,7 +18,6 @@ const value = (text) => `\x1b[38;2;221;0;169m${text}${RESET}`;
  * @param {string} params.filesPath - Path to the repository with the source files
  */
 export async function reportIssues({ core, issuesPath, filesPath }) {
-
   const issuesByPath = JSON.parse(await readFile(issuesPath, "utf8"));
 
   for (const [filepath, issues] of Object.entries(issuesByPath)) {
@@ -32,10 +31,9 @@ export async function reportIssues({ core, issuesPath, filesPath }) {
     const messages = [];
 
     for (const issue of issues) {
-      const {
-        source = "unknown",
-        ...otherFields
-      } = Object.fromEntries(issue.fields);
+      const { source = "unknown", ...otherFields } = Object.fromEntries(
+        issue.fields,
+      );
 
       const payload = Object.entries(otherFields)
         .map(([k, v]) => `${key(k)}: ${value(v)}`)
@@ -48,4 +46,4 @@ export async function reportIssues({ core, issuesPath, filesPath }) {
     const message = `Found ${bold(issues.length)} issue(s) in ${bold(file)}:\n${messages.join("\n")}`;
     core.warning(message, { file });
   }
-};
+}
