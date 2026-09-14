@@ -6,3 +6,11 @@ updates:
       interval: weekly
     commit-message:
       prefix: "ci(deps): "
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: chore
+      prefix-development: build
+      include: scope
