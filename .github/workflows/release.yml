@@ -20,6 +20,7 @@ jobs:
         env:
           DEBIAN_FRONTEND: noninteractive
         run: |
+          sudo apt-get update
           sudo apt-get install pandoc texlive-latex-base texlive-xetex fonts-inter
 
       - name: Build PDF
