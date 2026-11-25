@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "lefthook": "^2.2.2",
-    "markdownlint-cli2": "^0.24.1",
+    "markdownlint-cli2": "^0.24.2",
     "markdownlint-rule-search-replace": "^1.1.0",
     "prettier": "^3.10.1"
   },
